@@ -16,7 +16,7 @@
 {
 "name":"ทีวีออนไลน์",
 "image":"https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
-"url":"",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/บันเทิงV2/2.TV",
 "referer":"",
 "import":"false",
 "info":"" 

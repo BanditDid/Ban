@@ -3,7 +3,7 @@
 "author":"",
 "info": "",
 "image":"",
-"url": "",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bee.txt",
 "groups": [
 
 {	

@@ -1,0 +1,17 @@
+{
+	"name":"Bee",
+	"author":"",
+	"info": "",
+	"image":"",
+	"url": "",
+	"groups": [
+
+ {	
+	"name":"รวมช่อง TV",
+	"image":"https://cdn0.iconfinder.com/data/icons/TV_icons/256/8.png",
+	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/TV/freetv.txt",
+	"import":"true"
+  },
+
+ ]
+}

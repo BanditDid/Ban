@@ -1,0 +1,35 @@
+{
+"name":"บันเทิง V2",
+"author":"จ๊ากก...",
+"info": "เพื่อความบันเทิงนะจ๊ะ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdepWLpeoT9H_zaRE6s-Fj49TykZ6tePL-AQ&usqp=CAU",
+"url": "https://www.dropbox.com/s/dpy44yzzk0faijs/%E0%B9%80%E0%B8%8A%E0%B9%87%E0%B8%94%E0%B9%80%E0%B8%82%E0%B9%89.txt?dl=1",
+"groups": [
+{
+"name":"รวมหนัง",
+"image":"https://docs.google.com/uc?export=view&id=1-2xfkh7jTfw11VT7UMA4KganZi9xm5V1",
+"url":"",
+"referer":"",
+"import":"false",
+"info":"" 
+},
+{
+"name":"ทีวีออนไลน์",
+"image":"https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+"url":"",
+"referer":"",
+"import":"false",
+"info":"" 
+},
+
+{
+"name":"การ์ตูน", 
+"image":"https://www.thaihealth.or.th/data/content/21494/cms/21494_thaihealth_xht756fzp19a.jpg",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-HD-Zeroo/animehdzeroo_พากย์ไทย.w3u",
+"parental": "true",
+"import":"true"
+
+
+
+]
+}

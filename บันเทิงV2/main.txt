@@ -3,7 +3,7 @@
 "author":"จ๊ากก...",
 "info": "เพื่อความบันเทิงนะจ๊ะ",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdepWLpeoT9H_zaRE6s-Fj49TykZ6tePL-AQ&usqp=CAU",
-"url": "https://www.dropbox.com/s/dpy44yzzk0faijs/%E0%B9%80%E0%B8%8A%E0%B9%87%E0%B8%94%E0%B9%80%E0%B8%82%E0%B9%89.txt?dl=1",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/บันเทิงV2/main.txt",
 "groups": [
 {
 "name":"รวมหนัง",

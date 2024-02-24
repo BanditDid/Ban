@@ -19,12 +19,18 @@
 "import":"true"
 },
 {	
+"name":"คุยเรื่องคนบ้านฉู่33 (พากย์ไทย) EP.1-8 จบ",
+"image":"https://320hd.com/wp-content/uploads/2024/02/2.80.jpg",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/คุยเรื่องคนบ้านฉู่",
+"import":"true"
+},
+{	
 "name":"คุยเรื่องคนบ้านฉู่44 (พากย์ไทย) EP.1-8 จบ",
 "image":"https://320hd.com/wp-content/uploads/2024/02/2.80.jpg",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/คุยเรื่องคนบ้านฉู่",
 "import":"true"
 },
-  
+    
  
 ]
 }

@@ -5,7 +5,13 @@
 "image":"",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bee.txt",
 "groups": [
- 
+  
+{	
+"name":"นางทาสหัวทอง",
+"image":"https://cdn.watchlakorn.in/storage/images/av-1704558397.jpg",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/นางทาสหัวทอง",
+"import":"true"
+},
 {	
 "name":"คุยเรื่องคนบ้านฉู่ (พากย์ไทย) EP.1-8 จบ",
 "image":"https://320hd.com/wp-content/uploads/2024/02/2.80.jpg",

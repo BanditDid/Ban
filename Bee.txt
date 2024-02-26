@@ -17,6 +17,12 @@
 "image":"https://320hd.com/wp-content/uploads/2024/02/2.80.jpg",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/คุยเรื่องคนบ้านฉู่",
 "import":"true"
+},
+{	
+"name":"House of ninja",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2024/02/House-of-Ninjas-2024.jpg",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/house of nnja",
+"import":"true"
 }
  
 ]

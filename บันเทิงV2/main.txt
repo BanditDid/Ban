@@ -25,7 +25,7 @@
 {
 "name":"การ์ตูน", 
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCds0zce8APoEz3dt25lhFkgNKQFbKFNizYQ&usqp=CAU",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/บันเทิงV2/Animehdzeroo_all",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/บันเทิงV2/3.anime",
 "parental": "true",
 "import":"true"
 

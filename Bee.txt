@@ -21,7 +21,7 @@
 {	
 "name":"House of ninja",
 "image":"https://www.nung2hdd.com/wp-content/uploads/2024/02/House-of-Ninjas-2024.jpg",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/house of nnja",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/house of nnja",
 "import":"true"
 }
  

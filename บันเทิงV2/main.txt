@@ -25,7 +25,7 @@
 {
 "name":"การ์ตูน", 
 "image":"https://www.thaihealth.or.th/data/content/21494/cms/21494_thaihealth_xht756fzp19a.jpg",
-"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-HD-Zeroo/animehdzeroo_พากย์ไทย.w3u",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/บันเทิงV2/Animehdzeroo_all.txt",
 "parental": "true",
 "import":"true"
 

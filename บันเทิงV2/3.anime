@@ -1,0 +1,27 @@
+{
+
+"name":"Anime",
+"author":"จ๊ากก..",
+"image":"https://uc097512a613b2b925938c3778f9.dl.dropboxusercontent.com/cd/0/inline/COBZFMfIz7sVDG-SPB3VkoQ3AN7OzyFOQncZPhPAsfLP2TFUwS8cxwX3imeadFlXOHRf8j6CYkueQfXjcRyhHo5DDqJAo3a6BQ51rEnaUE9y-Jj0xSlC90FigYBmb-aVeVmg8q1-6s5Ur6DW0a_IurIR/file#",
+"url":"",
+"groups":[
+{
+    "name": "aAnime Zeroo",
+    "info": "",
+    "image": "https://img.shirokami.me/images/2021/11/25/ba98651997d35b511638bbfc4d2bdbec.png",
+    "stations": [
+                {
+                "name":"รวม", 
+                "image":"https://img.shirokami.me/images/2021/11/25/ba98651997d35b511638bbfc4d2bdbec.png",
+                "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/บันเทิงV2/Animehdzeroo_all",
+                "parental": "true",
+                "import":"true"
+                }
+
+                
+                ]                
+  }
+
+
+]
+}

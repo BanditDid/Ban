@@ -24,10 +24,10 @@
 
 {
 "name":"การ์ตูน", 
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCds0zce8APoEz3dt25lhFkgNKQFbKFNizYQ&usqp=CAU",
+"image":"https://www.dropbox.com/scl/fi/1j1lh02o6smliled9nwrd/26-2-67-21-52-39.jpg?rlkey=06smg0xg9kkrobzh4wfmfm25x&raw=1",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/บันเทิงV2/3.anime",
 "parental": "true",
-"import":"true"
+"import":"false"
 
 }
 

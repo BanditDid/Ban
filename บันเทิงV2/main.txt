@@ -24,7 +24,7 @@
 
 {
 "name":"การ์ตูน", 
-"image":"https://www.thaihealth.or.th/data/content/21494/cms/21494_thaihealth_xht756fzp19a.jpg",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCds0zce8APoEz3dt25lhFkgNKQFbKFNizYQ&usqp=CAU",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/บันเทิงV2/Animehdzeroo_all.txt",
 "parental": "true",
 "import":"true"

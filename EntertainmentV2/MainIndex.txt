@@ -35,43 +35,6 @@
 },
 
 
-{
-	"name":"Cartoon",
-	"image":"https://www.hindustantimes.com/ht-img/img/2023/07/17/550x309/anime_collage_1686917525783_1689613937349.webp",
-	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Menu.txt",
-		"groups":[
-			
-			{
-				"name":"Anime Japan",
-				"image":"https://www.anime-japan.jp/2023/img/index/img_sld-1_2023_e.jpg",
-				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Jp_list.Bin",
-				"import":"true"
-			},
-			{
-				"name":"Anime America",
-				"image":"https://qph.cf2.quoracdn.net/main-qimg-848f22000c6e4e04cb4c988778d94d5d.webp",
-				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Us/Us_list.Bin",
-				"import":"true"
-			},
-			{
-				"name":"Anime-indy",
-				"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png?w=350&ssl=1",
-				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/anime-indy_2023_.Bin",
-				"import":"true"
-			},
-			{
-				"name":"Anime-indy(Search)",
-				"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png?w=350&ssl=1",
-				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/anime-indy_2023_list.Bin",
-				"import":"true"
-			},
-		]
-	},
-
-
-
-
-
 
 {
 "name":"สารคดี", 

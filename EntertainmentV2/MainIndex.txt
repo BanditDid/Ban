@@ -6,8 +6,8 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/MainIndex.txt",
 "groups": [
 {
-"name":"หนัง",
-"image":"https://docs.google.com/uc?export=view&id=16fce5cykUOmVYBAIri4qCWFBBVclGEug",
+"name":"รวมหนัง",
+"image":"https://docs.google.com/uc?export=view&id=1-2xfkh7jTfw11VT7UMA4KganZi9xm5V1",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/1.Movie.txt",
 "referer":"",
 "import":"false",
@@ -15,7 +15,7 @@
 },
 {
 "name":"ทีวีออนไลน์",
-"image":"https://docs.google.com/uc?export=view&id=16gtAtZEa0GKT3CFZPUGMxCFQRxmps866",
+"image":"https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/2.TV.txt",
 "referer":"",
 "import":"false",
@@ -32,7 +32,7 @@
 },
 {
 "name":"ขอ", 
-"image":"https://docs.google.com/uc?export=view&id=16lfEOJ0X_Zy7cCAZ1i9_r06QbEKF4aIY",
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Oung-Oung/Oung-Oung/Oung-Oung/main/ขอ",
 "parental": "true",
 "import":"false"

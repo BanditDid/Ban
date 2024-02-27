@@ -2,7 +2,7 @@
 
 "name":"Anime",
 "author":"จ๊ากก..",
-"image":"https://sv1.picz.in.th/images/2022/09/24/p9Y7Fl.jpg",
+"image":"https://www.dropbox.com/scl/fi/1j1lh02o6smliled9nwrd/26-2-67-21-52-39.jpg?rlkey=06smg0xg9kkrobzh4wfmfm25x&raw=1",
 "url":"",
 "groups":[
 {

@@ -8,7 +8,7 @@
 {
 "name":"รวมหนัง",
 "image":"https://docs.google.com/uc?export=view&id=1-2xfkh7jTfw11VT7UMA4KganZi9xm5V1",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/1.movie",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/1.movie.txt",
 "referer":"",
 "import":"false",
 "info":"" 
@@ -16,7 +16,7 @@
 {
 "name":"ทีวีออนไลน์",
 "image":"https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/2.TV",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/2.TV.txt",
 "referer":"",
 "import":"false",
 "info":"" 
@@ -25,7 +25,7 @@
 {
 "name":"การ์ตูน", 
 "image":"https://sv1.picz.in.th/images/2022/09/24/p9Y7Fl.jpg",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/3.anime",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/3.anime.txt",
 "parental": "true",
 "import":"false"
 

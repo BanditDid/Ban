@@ -8,7 +8,7 @@
 {
 "name":"รวมหนัง",
 "image":"https://docs.google.com/uc?export=view&id=1-2xfkh7jTfw11VT7UMA4KganZi9xm5V1",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/1.movie.txt",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/1.Movie.txt",
 "referer":"",
 "import":"false",
 "info":"" 

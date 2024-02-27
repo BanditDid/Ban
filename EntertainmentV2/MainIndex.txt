@@ -31,9 +31,9 @@
 
 },
 {
-"name":"สาระคดี", 
+"name":"สารคดี", 
 "image":"https://docs.google.com/uc?export=view&id=16hv6gQvjyQoSR8au340LtF-caPEClelt",
-"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/123HD/123-hd_สาระคดี.w3u",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/123HD/123-hd_สารคดี.w3u",
 "parental": "true",
 "import":"false"
 },

@@ -1,0 +1,35 @@
+{
+"name":"บันเทิง V2",
+"author":"จ๊ากก...",
+"info": "เพื่อความบันเทิงนะจ๊ะ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdepWLpeoT9H_zaRE6s-Fj49TykZ6tePL-AQ&usqp=CAU",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/MainIndex.txt",
+"groups": [
+{
+"name":"รวมหนัง",
+"image":"https://docs.google.com/uc?export=view&id=1-2xfkh7jTfw11VT7UMA4KganZi9xm5V1",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/1.movie",
+"referer":"",
+"import":"false",
+"info":"" 
+},
+{
+"name":"ทีวีออนไลน์",
+"image":"https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/2.TV",
+"referer":"",
+"import":"false",
+"info":"" 
+},
+
+{
+"name":"การ์ตูน", 
+"image":"https://sv1.picz.in.th/images/2022/09/24/p9Y7Fl.jpg",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/3.anime",
+"parental": "true",
+"import":"false"
+
+}
+
+]
+}

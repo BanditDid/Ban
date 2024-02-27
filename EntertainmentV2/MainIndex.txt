@@ -31,12 +31,18 @@
 
 },
 {
+"name":"สาระคดี", 
+"image":"https://docs.google.com/uc?export=view&id=16hv6gQvjyQoSR8au340LtF-caPEClelt",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/123HD/123-hd_สาระคดี.w3u",
+"parental": "true",
+"import":"false"
+},
+{
 "name":"ขอ", 
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Oung-Oung/Oung-Oung/Oung-Oung/main/ขอ",
 "parental": "true",
 "import":"false"
-
 }
 
 ]

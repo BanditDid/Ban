@@ -14,13 +14,13 @@
 },
 {
 "name":"หนัง Netflix",
-"image":"https://my-angers.info/wp-content/uploads/2022/07/netflix-logo.webp",
+"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/main_netflix.txt",
 "import":"false"
 },
 {
 "name":"หนังไทย th",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKfslKRKhuuGvDrH-A2ezfzdKl0CmhypuTA&usqp=CAU",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNulC3K8kda8lF_XaJgV3lu2kzCxqzrj2uBnG0jiCODXVxoUhNTfkxBTA&s=10",
 "url":"https://www.dropbox.com/scl/fi/02i2de9wlhc8oqtga5vi0/fw4free_movie-thai.w3u?rlkey=r78h8ldkxi29czaqie1la68ve&raw=1",
 "import":"false"
 },

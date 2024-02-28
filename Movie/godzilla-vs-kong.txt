@@ -1,57 +1,14 @@
-{ "name": "Avatar: The Last Airbender (2024) เณรน้อยเจ้าอภินิหาร",
+{ "name": "Godzilla vs. Kong  ก็อดซิลล่า ปะทะ คอง",
 "author": "update 2024-02-28 20:33:16",
 "info": "",
-"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+"image": "https://nung.tv/wp-content/uploads/2021/06/ExQOplUWUAIbUzs-203x300.jpg.webp",
 "stations": [
 {
-"name": "ตอน 1",
-"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://tcp.miruplayer.com/media/sv3/Kb3ffTs5za7B13LGuZFA/720a.m3u8",
+"name": "Godzilla vs. Kong  ก็อดซิลล่า ปะทะ คอง",
+"image": "https://nung.tv/wp-content/uploads/2021/06/ExQOplUWUAIbUzs-203x300.jpg.webp",
+"url": "https://cdn2.red-moviehd.xyz/file/qo9n5t9/720.svg",
 "referer": ""
-},
-{
-"name": "ตอน 2",
-"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://tcp.miruplayer.com/media/sv1/4otBg5XRhJoKEtnoX5tT/720a.m3u8",
-"referer": ""
-},
-{
-"name": "ตอน 3",
-"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://tcp.miruplayer.com/media/sv2/3gnDhslUguwADcUZ1N6m/720a.m3u8",
-"referer": "xxxx"
-},
-{
-"name": "ตอน 4",
-"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://tcp.miruplayer.com/media/sv3/J5FJ7ZwNlNzOUKPVMo2M/720a.m3u8",
-"referer": "xxxx"
-},
-{
-"name": "ตอน 5",
-"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://tcp.miruplayer.com/media/sv3/_rcQEc1yOzC1Jm8x1Xke/720a.m3u8",
-"referer": "xxxx"
-},
-{
-"name": "ตอน 6",
-"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://tcp.miruplayer.com/media/sv2/II74VA5UiX9UWoTu8Ths/720a.m3u8",
-"referer": "xxxx"
-},
-{
-"name": "ตอน 7",
-"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://tcp.miruplayer.com/media/sv3/SGZBA1nqJ_0sV85OEv5v/720a.m3u8",
-"referer": "xxxx"
-},
-{
-"name": "ตอน 8 จบ",
-"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://tcp.miruplayer.com/media/sv1/S_Jh6iwSFDhuiu73ulYY/720a.m3u8",
-"referer": "xxxx"
 }
-
 
 ]
 

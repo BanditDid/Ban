@@ -15,7 +15,7 @@
 },
 
 {
-"name":"รายการทีวี 10อันดับสูงสุดในไทยวันนี้",
+"name":"ซีรี่ย์ 10 อันดับสูงสุดในไทยวันนี้",
 "image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_top_tv.txt",
 "parental": "true",

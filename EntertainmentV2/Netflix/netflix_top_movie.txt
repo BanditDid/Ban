@@ -1,58 +1,60 @@
 {
-  "name": "ภาพยนต์ 10 อันดับสูงสุดในไทยวันนี้",
-  "author": "update 2024-02-28 08:33:16",
-  "info": "",
-  "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
-  "key": [],
-  "stations": [
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    }
-    
-  ]
+"name": "ภาพยนต์ 10 อันดับสูงสุดในไทยวันนี้",
+"author": "update 2024-02-28 21:33:16",
+"info": "",
+"image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+"key": [],
+"stations": [
+
+{
+"name": "1.ดูน",
+"image": "https://cdn.majorcineplex.com/uploads/content/images/20210810140339_Dune%20Poster.jpg",
+"url": "https://xxx.77player.xyz/ioshls/90533be651c6ce2e037d365e9b38acba/90533be651c6ce2e037d365e9b38acba.m3u8",
+"referer": "xxxx"
+},
+{
+"name": "2.Godzilla vs. Kong  ก็อดซิลล่า ปะทะ คอง",
+"image": "https://nung.tv/wp-content/uploads/2021/06/ExQOplUWUAIbUzs-203x300.jpg.webp",
+"url": "https://cdn2.red-moviehd.xyz/file/qo9n5t9/720.svg",
+"referer": "xxxx"
+},
+
+{
+"name": "xxxx",
+"image": "xxx",
+"url": "xxxxx",
+"referer": "xxxx"
+},
+{
+"name": "xxxx",
+"image": "xxx",
+"url": "xxxxx",
+"referer": "xxxx"
+},
+{
+"name": "xxxx",
+"image": "xxx",
+"url": "xxxxx",
+"referer": "xxxx"
+},
+{
+"name": "xxxx",
+"image": "xxx",
+"url": "xxxxx",
+"referer": "xxxx"
+},
+{
+"name": "xxxx",
+"image": "xxx",
+"url": "xxxxx",
+"referer": "xxxx"
+},
+{
+"name": "xxxx",
+"image": "xxx",
+"url": "xxxxx",
+"referer": "xxxx"
+}
+
+]
 }

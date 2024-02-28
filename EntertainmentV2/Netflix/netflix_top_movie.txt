@@ -42,9 +42,31 @@
 "image": "https://www.v8movie-hd.com/wp-content/uploads/2024/02/montrawarrir.png",
 "url": "https://m1free.inwstream.com:1936/movie3/Mantra_Warrior_The_Legend_of_The_Eight_Moons_2023/Mantra_Warrior_The_Legend_of_The_Eight_Moons_2023_th_1080.mp4/playlist.m3u8",
 "referer": ""
-}
-]
-},
+}]},
+
+{ "name": "7.พี่นาค3",
+"author": "",
+"info": "",
+"image": "https://www.i-pic.info/i/0YKH338978.jpg",
+"stations": [
+{
+"name": "พี่นาค3",
+"image": "https://www.i-pic.info/i/0YKH338978.jpg",
+"url": "https://main.77player.xyz/m3u8/f97f49577942cbce3bfb5c15/f97f49577942cbce3bfb5c15438.m3u8",
+"referer": ""
+}]},
+
+{ "name": "8.พี่นาค2",
+"author": "",
+"info": "",
+"image": "https://www.i-pic.info/i/9iLb338977.jpg",
+"stations": [
+{
+"name": "พี่นาค2",
+"image": "https://www.i-pic.info/i/9iLb338977.jpg",
+"url": "https://main.77player.xyz/m3u8/f6621feff80350a7cfed0c0e/f6621feff80350a7cfed0c0e438.m3u8",
+"referer": ""
+}]},
 
 
 
@@ -54,7 +76,23 @@
 "image": "https://www.24-hd.com/wp-content/uploads/2024/02/14-Again-I-Love-You-Two-Thousand-2023-14-%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87-187x269.jpg",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/14.txt",
 "referer": "xxxx"
-}
+},
+
+{ "name": "10.R.I.P.D.  อาร์.ไอ.พี.ดี.หน่วยพิฆาตสยบวิญญาณ",
+"author": "",
+"info": "",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/14134ae44ffc7c9ec4aa442f1dd8e2727dcf7d8800d61c1ffd503317241e5153.jpg",
+"stations": [
+{
+"name": "R.I.P.D.  อาร์.ไอ.พี.ดี.หน่วยพิฆาตสยบวิญญาณ",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/14134ae44ffc7c9ec4aa442f1dd8e2727dcf7d8800d61c1ffd503317241e5153.jpg",
+"url": "https://hlsp2p.com/view/e1b6856f-990b-5c26-b05f-402f76155497.m3u8",
+"referer": ""
+}]},
+
+
+
+
 
 ]
 }

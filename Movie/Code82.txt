@@ -1,0 +1,16 @@
+{ "name": "ล่าคนโคตรพลัง Code 8 ภาค 2 Code 8 Part II",
+"author": "update 2024-02-28 20:33:16",
+"info": "",
+"image": "https://series-888.com/wp-content/uploads/2024/02/1274245345.png",
+"stations": [
+{
+"name": "ล่าคนโคตรพลัง Code 8 ภาค 2 Code 8 Part II",
+"image": "https://series-888.com/wp-content/uploads/2024/02/1274245345.png",
+"url": "https://fscp.miruplayer.com/media/sv1/RGHIg29i32t8Zks36_1S/720a.m3u8",
+"referer": ""
+}
+
+]
+
+
+}

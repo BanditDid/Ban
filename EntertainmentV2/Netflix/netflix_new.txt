@@ -35,6 +35,12 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/THELOSTCITY.txt",
 "referer": "xxxx"
 },
+{
+"name": "ล่าคนโคตรพลัง Code 8 ภาค 2 Code 8 Part II",
+"image": "https://series-888.com/wp-content/uploads/2024/02/1274245345.png",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/Code82.txt",
+"referer": "xxxx"
+},
 
 
 

@@ -1,59 +1,67 @@
 {
-  "name": "รายการทีวี 10 อันดับสูงสุดในไทยวันนี้",
-  "author": "update 2024-02-28 08:33:16",
-  "info": "",
-  "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
-  "key": [],
-  "groups": [
- 
-    {
-      "name": "1.เณรน้อยเจ้าอภินิหาร",
-      "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-      "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/เณรน้อยเจ้าอภินิหาร.txt",
-      "referer": "xxxx"
-    },
-  {	
-  "name":"2.เฮาส์ ออฟ นินจา",
-  "image":"https://www.nung2hdd.com/wp-content/uploads/2024/02/House-of-Ninjas-2024.jpg",
-  "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/house of nnja",
-  "import":"true"
-  },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    }
-    
-  ]
+"name": "รายการทีวี 10 อันดับสูงสุดในไทยวันนี้",
+"author": "update 2024-02-28 08:33:16",
+"info": "",
+"image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+"key": [],
+"groups": [
+
+{
+"name": "1.เณรน้อยเจ้าอภินิหาร",
+"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/เณรน้อยเจ้าอภินิหาร.txt",
+"referer": "xxxx"
+},
+{	
+"name":"2.เฮาส์ ออฟ นินจา",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2024/02/House-of-Ninjas-2024.jpg",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/house of nnja",
+"import":"true"
+},
+
+{
+"name": "xxxx",
+"image": "xxx",
+"url": "xxxxx",
+"referer": "xxxx"
+},
+{
+"name": "xxxx",
+"image": "xxx",
+"url": "xxxxx",
+"referer": "xxxx"
+},
+
+{	
+"name":"5.นางทาสหัวทอง",
+"image":"https://cdn.watchlakorn.in/storage/images/av-1704558397.jpg",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/นางทาสหัวทอง",
+"import":"true"
+},
+{
+"name": "xxxx",
+"image": "xxx",
+"url": "xxxxx",
+"referer": "xxxx"
+},
+{
+"name": "xxxx",
+"image": "xxx",
+"url": "xxxxx",
+"referer": "xxxx"
+},
+{
+"name": "xxxx",
+"image": "xxx",
+"url": "xxxxx",
+"referer": "xxxx"
+},
+{
+"name": "xxxx",
+"image": "xxx",
+"url": "xxxxx",
+"referer": "xxxx"
+}
+
+]
 }

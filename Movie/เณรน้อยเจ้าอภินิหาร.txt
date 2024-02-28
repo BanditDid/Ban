@@ -7,49 +7,49 @@
 "name": "ตอน 1",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
 "url": "https://main.24playerhd.com/m3u8/74e01ef1cf7c5834caba8b28/74e01ef1cf7c5834caba8b28438.m3u8",
-"referer": "xxxx"
+"referer": "https://www.123-hd.com/"
 },
 {
 "name": "ตอน 2",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
 "url": "https://main.24playerhd.com/m3u8/b6eaed8fd6c869a21ab2fab5/b6eaed8fd6c869a21ab2fab5438.m3u8",
-"referer": "xxxx"
+"referer": "https://www.123-hd.com/"
 },
 {
 "name": "ตอน 3",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
 "url": "https://main.24playerhd.com/m3u8/6f0ed1dcaf89998b57692b47/6f0ed1dcaf89998b57692b47438.m3u8",
-"referer": "xxxx"
+"referer": "https://www.123-hd.com/"
 },
 {
 "name": "ตอน 4",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
 "url": "https://main.24playerhd.com/m3u8/b394078a8af83d4f9720fe4e/b394078a8af83d4f9720fe4e438.m3u8",
-"referer": "xxxx"
+"referer": "https://www.123-hd.com/"
 },
 {
 "name": "ตอน 5",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
 "url": "https://main.24playerhd.com/m3u8/028f049ba202795d0b344c59/028f049ba202795d0b344c59438.m3u8",
-"referer": "xxxx"
+"referer": "https://www.123-hd.com/"
 },
 {
 "name": "ตอน 6",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
 "url": "https://main.24playerhd.com/m3u8/1a390c221196bf9afd3d7bbf/1a390c221196bf9afd3d7bbf438.m3u8",
-"referer": "xxxx"
+"referer": "https://www.123-hd.com/"
 },
 {
 "name": "ตอน 7",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
 "url": "https://main.24playerhd.com/m3u8/dd1457f64543a4b03aa24374/dd1457f64543a4b03aa24374438.m3u8",
-"referer": "xxxx"
+"referer": "https://www.123-hd.com/"
 },
 {
 "name": "ตอน 8 จบ",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
 "url": "https://main.24playerhd.com/m3u8/5b8cd437864a6ce8fa33e3f0/5b8cd437864a6ce8fa33e3f0438.m3u8",
-"referer": "xxxx"
+"referer": "https://www.123-hd.com/"
 },
 
 

@@ -17,48 +17,26 @@
 "url": "https://cdn2.red-moviehd.xyz/file/qo9n5t9/720.svg",
 "referer": "xxxx"
 },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    },
-    {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
-      "referer": "xxxx"
-    }
-    
+{
+"name": "ดูน",
+"image": "https://cdn.majorcineplex.com/uploads/content/images/20210810140339_Dune%20Poster.jpg",
+"url": "https://xxx.77player.xyz/ioshls/90533be651c6ce2e037d365e9b38acba/90533be651c6ce2e037d365e9b38acba.m3u8",
+"referer": "xxxx"
+},
+{
+"name": "Fantastic Beasts The Secrets of Dumbledore (2022) สัตว์มหัศจรรย์ ความลับของดัมเบิลดอร์",
+"image": "https://www.i-moviehd.com/wp-content/uploads/2022/04/Fantastic-Beasts-The-Secrets-of-Dumbledore-2022-%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C.png",
+"url": "https://main.24playerhd.com/newplaylist/4476a057641a872ae450ca14/4476a057641a872ae450ca14.m3u8",
+"referer": "xxxx"
+},
+{
+"name": "THE LOST CITY (2022) ผจญภัยนครสาบสูญ",
+"image": "https://www.i-moviehd.com/wp-content/uploads/2022/05/The-Lost-City-2022-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B8%8D.png",
+"url": "https://main.24playerhd.com/newplaylist/0b78860b6ec0bd629778534e/0b78860b6ec0bd629778534e.m3u8",
+"referer": "xxxx"
+},
+
+
+
   ]
 }

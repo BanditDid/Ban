@@ -25,9 +25,9 @@
 
    
     {
-      "name": "xxxx",
-      "image": "xxx",
-      "url": "xxxxx",
+      "name": "เณรน้อยเจ้าอภินิหาร",
+      "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+      "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/เณรน้อยเจ้าอภินิหาร.txt",
       "referer": "xxxx"
     },
     {

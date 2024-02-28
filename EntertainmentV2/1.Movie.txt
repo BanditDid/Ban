@@ -7,7 +7,7 @@
 {
 "name":"หนังใหม่2024",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNulC3K8kda8lF_XaJgV3lu2kzCxqzrj2uBnG0jiCODXVxoUhNTfkxBTA&s=10",
-"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/123HD/123-hd_หนังใหม่-2024.w3u",
+"url":"https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยjaกินมันติดเหงือกกินเผือกติดฟันกินทั้งมันทั้งเผือกติดทั้งเงือกติดทั้งฟัน/123-hd_หนังใหม่-2024.w3u",
 "referer":"",
 "import":"false",
 "info":"" 

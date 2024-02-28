@@ -1,0 +1,33 @@
+{
+
+"name":"Netflix",
+"author":"จ๊ากก..",
+"image":"https://www.dropbox.com/scl/fi/1j1lh02o6smliled9nwrd/26-2-67-21-52-39.jpg?rlkey=06smg0xg9kkrobzh4wfmfm25x&raw=1",
+"url":"",
+"groups":[
+
+{
+"name":"Anime Zeroo", 
+"image":"https://img.shirokami.me/images/2021/11/25/ba98651997d35b511638bbfc4d2bdbec.png",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Animehdzeroo_all.txt",
+"parental": "true",
+"import":"false"
+},
+
+{
+"name":"Anime indy",
+"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png?w=350&ssl=1",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Indy/anime-indy_anime_.w3u",
+"parental": "true",
+"import":"false"
+},
+
+{
+"name":"Fairy anime",
+"image":"https://www.emmys.com/sites/default/files/styles/slider_images/public/photos-article/anime-survey2-1170x780.jpg",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Fairyanime/fairyanime_.w3u",
+"import":"true"
+},
+
+]
+}

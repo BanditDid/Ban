@@ -1,0 +1,38 @@
+{
+
+"name":"Netflix",
+"author":"จ๊ากก..",
+"image":"https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+"url":"",
+"groups":[
+
+{
+"name":"เนื้อหาเปิดตัวใหม่", 
+"image":"https://img.shirokami.me/images/2021/11/25/ba98651997d35b511638bbfc4d2bdbec.png",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/netflix_new.txt",
+"parental": "true",
+"import":"false"
+},
+
+{
+"name":"รายการทีวี 10อันดับสูงสุดในไทยวันนี้",
+"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png?w=350&ssl=1",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Indy/netflix_top_tv.txt",
+"parental": "true",
+"import":"false"
+},
+
+{
+"name":"ภาพยนต์ 10 อันดับสูงสุดในไทยวันนี้",
+"image":"https://www.emmys.com/sites/default/files/styles/slider_images/public/photos-article/anime-survey2-1170x780.jpg",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Fairyanime/netflix_top_movie.txt",
+"import":"true"
+},
+{
+"name":"ฮิตที่ netflix",
+"image":"https://www.emmys.com/sites/default/files/styles/slider_images/public/photos-article/anime-survey2-1170x780.jpg",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Fairyanime/netflix_hit",
+"import":"true"
+},
+]
+}

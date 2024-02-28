@@ -25,6 +25,29 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/FantasticDumbledore.txt",
 "referer": "xxxx"
 },
+{
+"name": "4.THE LOST CITY (2022) ผจญภัยนครสาบสูญ",
+"image": "https://www.i-moviehd.com/wp-content/uploads/2022/05/The-Lost-City-2022-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B8%8D.png",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/THELOSTCITY.txt",
+"referer": "xxxx"
+},
+
+{ "name": "6.นักรบมนตรา: ตำนานแปดดวงจันทร์ (2024)",
+"author": "",
+"info": "",
+"image": "https://www.v8movie-hd.com/wp-content/uploads/2024/02/montrawarrir.png",
+"stations": [
+{
+"name": "นักรบมนตรา: ตำนานแปดดวงจันทร์ (2024)",
+"image": "https://www.v8movie-hd.com/wp-content/uploads/2024/02/montrawarrir.png",
+"url": "https://m1free.inwstream.com:1936/movie3/Mantra_Warrior_The_Legend_of_The_Eight_Moons_2023/Mantra_Warrior_The_Legend_of_The_Eight_Moons_2023_th_1080.mp4/playlist.m3u8",
+"referer": ""
+}
+]
+}
+
+
+
 
 {
 "name": "9.14 อีกครั้ง",

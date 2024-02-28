@@ -20,7 +20,7 @@
 {
 "name": "ดูน",
 "image": "https://cdn.majorcineplex.com/uploads/content/images/20210810140339_Dune%20Poster.jpg",
-"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/xxxx.txt",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/Dune.txt",
 "referer": "xxxx"
 },
 {

@@ -1,0 +1,16 @@
+{ "name": "ดูน",
+"author": "update 2024-02-28 20:33:16",
+"info": "",
+"image": "https://cdn.majorcineplex.com/uploads/content/images/20210810140339_Dune%20Poster.jpg",
+"stations": [
+{
+"name": "ดูน",
+"image": "https://cdn.majorcineplex.com/uploads/content/images/20210810140339_Dune%20Poster.jpg",
+"url": "https://xxx.77player.xyz/ioshls/90533be651c6ce2e037d365e9b38acba/90533be651c6ce2e037d365e9b38acba.m3u8",
+"referer": ""
+}
+
+]
+
+
+}

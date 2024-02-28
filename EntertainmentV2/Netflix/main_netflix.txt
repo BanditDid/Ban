@@ -2,13 +2,13 @@
 
 "name":"Netflix",
 "author":"จ๊ากก..",
-"image":"https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
 "url":"",
 "groups":[
 
 {
 "name":"เนื้อหาเปิดตัวใหม่", 
-"image":"https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_new.txt",
 "parental": "true",
 "import":"false"
@@ -16,7 +16,7 @@
 
 {
 "name":"รายการทีวี 10อันดับสูงสุดในไทยวันนี้",
-"image":"https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_top_tv.txt",
 "parental": "true",
 "import":"false"
@@ -24,19 +24,19 @@
 
 {
 "name":"ภาพยนต์ 10 อันดับสูงสุดในไทยวันนี้",
-"image":"https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_top_movie.txt",
 "import":"true"
 },
 {
 "name":"ฮิตที่ netflix",
-"image":"https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_hit.txt",
 "import":"true"
 },
 {
 "name":"All Netflix",
-"image":"https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
 "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/123HD/123-hd_ดูหนัง-netflix.w3u",
 "import":"false"
 },

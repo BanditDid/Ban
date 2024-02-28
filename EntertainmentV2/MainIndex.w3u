@@ -1,0 +1,55 @@
+{
+"name":"บันเทิง V2",
+"author":"จ๊ากก...",
+"info": "เพื่อความบันเทิงนะจ๊ะ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdepWLpeoT9H_zaRE6s-Fj49TykZ6tePL-AQ&usqp=CAU",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/MainIndex.txt",
+"groups": [
+{
+"name":"รวมหนัง",
+"image":"https://docs.google.com/uc?export=view&id=1-2xfkh7jTfw11VT7UMA4KganZi9xm5V1",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/1.Movie.txt",
+"referer":"",
+"import":"false",
+"info":"" 
+},
+{
+"name":"ทีวีออนไลน์",
+"image":"https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/2.TV.txt",
+"referer":"",
+"import":"false",
+"info":"" 
+},
+
+
+
+
+{
+"name":"การ์ตูน", 
+"image":"https://www.dropbox.com/scl/fi/1j1lh02o6smliled9nwrd/26-2-67-21-52-39.jpg?rlkey=06smg0xg9kkrobzh4wfmfm25x&raw=1",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/3.anime.txt",
+"parental": "true",
+"import":"false"
+
+},
+
+
+
+{
+"name":"สารคดี", 
+"image":"https://docs.google.com/uc?export=view&id=16hv6gQvjyQoSR8au340LtF-caPEClelt",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/Watchlakorn_สาระความรู้.w3u",
+"parental": "true",
+"import":"false"
+},
+{
+"name":"ขอ", 
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",
+"url":"https://raw.githubusercontent.com/BanditDid/Oung-Oung/Oung-Oung/Oung-Oung/main/ขอ",
+"parental": "true",
+"import":"false"
+}
+
+]
+}

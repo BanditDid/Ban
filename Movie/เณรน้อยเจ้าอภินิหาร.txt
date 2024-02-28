@@ -1,0 +1,65 @@
+{ "name": "Avatar: The Last Airbender (2024) เณรน้อยเจ้าอภินิหาร",
+"author": "update 2024-02-28 08:33:16",
+"info": "",
+"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+"stations": [
+{
+"name": "ตอน 1",
+"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+"url": "https://tcp.miruplayer.com/media/sv3/Kb3ffTs5za7B13LGuZFA/play.m3u8",
+"referer": "xxxx"
+},
+{
+"name": "ตอน 1 720",
+"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+"url": "https://tcp.miruplayer.com/media/sv3/Kb3ffTs5za7B13LGuZFA/720a.m3u8",
+"referer": "xxxx"
+},
+{
+"name": "ตอน 2",
+"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+"url": "https://tcp.miruplayer.com/media/sv3/Kb3ffTs5za7B13LGuZFA/720a.m3u8",
+"referer": "xxxx"
+},
+{
+"name": "ตอน 2",
+"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+"url": "xxxx",
+"referer": "xxxx"
+},
+{
+"name": "ตอน 2",
+"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+"url": "xxxx",
+"referer": "xxxx"
+},
+{
+"name": "ตอน 2",
+"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+"url": "xxxx",
+"referer": "xxxx"
+},
+{
+"name": "ตอน 2",
+"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+"url": "xxxx",
+"referer": "xxxx"
+},
+{
+"name": "ตอน 2",
+"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+"url": "xxxx",
+"referer": "xxxx"
+},
+{
+"name": "ตอน 2",
+"image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
+"url": "xxxx",
+"referer": "xxxx"
+},
+
+
+]
+
+
+}

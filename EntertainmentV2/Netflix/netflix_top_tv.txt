@@ -7,11 +7,17 @@
   "groups": [
  
     {
-      "name": "เณรน้อยเจ้าอภินิหาร",
+      "name": "1.เณรน้อยเจ้าอภินิหาร",
       "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
       "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/เณรน้อยเจ้าอภินิหาร.txt",
       "referer": "xxxx"
     },
+  {	
+  "name":"2.เฮาส์ ออฟ นินจา",
+  "image":"https://www.nung2hdd.com/wp-content/uploads/2024/02/House-of-Ninjas-2024.jpg",
+  "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/house of nnja",
+  "import":"true"
+  },
     {
       "name": "xxxx",
       "image": "xxx",

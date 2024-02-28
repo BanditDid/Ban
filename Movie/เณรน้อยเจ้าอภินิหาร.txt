@@ -1,55 +1,55 @@
 { "name": "Avatar: The Last Airbender (2024) เณรน้อยเจ้าอภินิหาร",
-"author": "พากย์ไทย",
+"author": "update 2024-02-28 20:33:16",
 "info": "",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
 "stations": [
 {
 "name": "ตอน 1",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://main.24playerhd.com/newplaylist/74e01ef1cf7c5834caba8b28/74e01ef1cf7c5834caba8b28.m3u8",
+"url": "https://tcp.miruplayer.com/media/sv3/Kb3ffTs5za7B13LGuZFA/720a.m3u8",
 "referer": "https://www.123-hd.com/"
 },
 {
 "name": "ตอน 2",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://main.24playerhd.com/m3u8/b6eaed8fd6c869a21ab2fab5/b6eaed8fd6c869a21ab2fab5438.m3u8",
+"url": https://tcp.miruplayer.com/media/sv1/4otBg5XRhJoKEtnoX5tT/720a.m3u8",
 "referer": "https://www.123-hd.com/"
 },
 {
 "name": "ตอน 3",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://main.24playerhd.com/m3u8/6f0ed1dcaf89998b57692b47/6f0ed1dcaf89998b57692b47438.m3u8",
-"referer": "https://www.123-hd.com/"
+"url": "https://tcp.miruplayer.com/media/sv2/3gnDhslUguwADcUZ1N6m/720a.m3u8",
+"referer": "xxxx"
 },
 {
 "name": "ตอน 4",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://main.24playerhd.com/m3u8/b394078a8af83d4f9720fe4e/b394078a8af83d4f9720fe4e438.m3u8",
-"referer": "https://www.123-hd.com/"
+"url": "https://tcp.miruplayer.com/media/sv3/J5FJ7ZwNlNzOUKPVMo2M/720a.m3u8",
+"referer": "xxxx"
 },
 {
 "name": "ตอน 5",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://main.24playerhd.com/m3u8/028f049ba202795d0b344c59/028f049ba202795d0b344c59438.m3u8",
-"referer": "https://www.123-hd.com/"
+"url": "https://tcp.miruplayer.com/media/sv3/_rcQEc1yOzC1Jm8x1Xke/720a.m3u8",
+"referer": "xxxx"
 },
 {
 "name": "ตอน 6",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://main.24playerhd.com/m3u8/1a390c221196bf9afd3d7bbf/1a390c221196bf9afd3d7bbf438.m3u8",
-"referer": "https://www.123-hd.com/"
+"url": "https://tcp.miruplayer.com/media/sv2/II74VA5UiX9UWoTu8Ths/720a.m3u8",
+"referer": "xxxx"
 },
 {
 "name": "ตอน 7",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://main.24playerhd.com/m3u8/dd1457f64543a4b03aa24374/dd1457f64543a4b03aa24374438.m3u8",
-"referer": "https://www.123-hd.com/"
+"url": "https://tcp.miruplayer.com/media/sv3/SGZBA1nqJ_0sV85OEv5v/720a.m3u8",
+"referer": "xxxx"
 },
 {
 "name": "ตอน 8 จบ",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
-"url": "https://main.24playerhd.com/m3u8/5b8cd437864a6ce8fa33e3f0/5b8cd437864a6ce8fa33e3f0438.m3u8",
-"referer": "https://www.123-hd.com/"
+"url": "https://tcp.miruplayer.com/media/sv1/S_Jh6iwSFDhuiu73ulYY/720a.m3u8",
+"referer": "xxxx"
 },
 
 

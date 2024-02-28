@@ -1,0 +1,16 @@
+{ "name": "CODE 8 ล่าคนโคตรพลัง",
+"author": "update 2024-02-28 20:33:16",
+"info": "",
+"image": "https://www.i-moviehd.com/wp-content/uploads/2020/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-Code-8-2019-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87.png",
+"stations": [
+{
+"name": "CODE 8 ล่าคนโคตรพลัง",
+"image": "https://www.i-moviehd.com/wp-content/uploads/2020/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-Code-8-2019-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87.png",
+"url": "https://xxx.77player.xyz/ioshls/1906579d87fe8b17860dbe072426fdb7/1906579d87fe8b17860dbe072426fdb7.m3u8",
+"referer": ""
+}
+
+]
+
+
+}

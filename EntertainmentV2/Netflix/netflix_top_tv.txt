@@ -20,15 +20,15 @@
 },
 
 {
-"name": "xxxx",
-"image": "xxx",
-"url": "xxxxx",
+"name": "3.เกมชนคนโสด (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/game_sing.txt",
 "referer": "xxxx"
 },
 {
-"name": "xxxx",
-"image": "xxx",
-"url": "xxxxx",
+"name": "4.Doctor Slump (2024) หัวใจหมอไม่มอดไหม้",
+   "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Doctor-Slump-2024.jpg",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/123-hd_doctor-slump.txt",
 "referer": "xxxx"
 },
 
@@ -38,30 +38,24 @@
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/นางทาสหัวทอง",
 "import":"true"
 },
-{
-"name": "xxxx",
-"image": "xxx",
-"url": "xxxxx",
-"referer": "xxxx"
+{	
+"name":"6. A killer Paradox (2024) – หน้ากากความยุติธรรม",
+"image":"https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/A-killer-Paradox-2024-หน้ากากความยุติธรรม.jpg",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/killer.txt",
+"import":"true"
 },
 {
-"name": "xxxx",
-"image": "xxx",
-"url": "xxxxx",
-"referer": "xxxx"
+"name":"7.Captivating the King (2024) เสน่ห์ร้ายบัลลังก์ลวง",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/01/Captivating-the-King.jpg",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/123-hd_captivating-the-king.w3u",
+"import":"false"
 },
 {
-"name": "xxxx",
-"image": "xxx",
-"url": "xxxxx",
-"referer": "xxxx"
+"name":"9.Dungeon Meshi สูตรลับตำรับดันเจียน",
+"image":"https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=132269&type=animeindy&hash=59a0f531cd8bfe58a9a2f84c582740c4",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/19bbb6537232dda6ff71b1b61deddb56491a3847/Main/Anime_list/Japan/Sub/dungeon-meshi-dubth.w3u",
+"import":"false"
 },
-{
-"name": "xxxx",
-"image": "xxx",
-"url": "xxxxx",
-"referer": "xxxx"
-}
 
 ]
 }

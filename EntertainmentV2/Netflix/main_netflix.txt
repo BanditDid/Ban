@@ -28,12 +28,7 @@
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_top_movie.txt",
 "import":"true"
 },
-{
-"name":"ฮิตที่ netflix",
-"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_hit.txt",
-"import":"true"
-},
+
 {
 "name":"All Netflix",
 "image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",

@@ -1,0 +1,50 @@
+ {
+   "name": "Ready, Set, Love เกมชนคนโสด (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+   "author": "",
+  "info": "",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/525a5638-2423-52a4-9ed2-03860a2c55b5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ee4a5b4b-c13d-58c7-9f9a-31e24b9413b9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4b741623-bca2-5481-9043-4e779b79012a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/6a591533-46c1-5bf2-bc6c-ecd5577f196e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/3f4ff879-3d11-5883-90f6-d33c9b09a76a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1af9d4a4-54de-580f-acee-e83f999de9f5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  }

@@ -7,13 +7,13 @@
 "name": "ตอน 1",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
 "url": "https://tcp.miruplayer.com/media/sv3/Kb3ffTs5za7B13LGuZFA/720a.m3u8",
-"referer": "https://www.123-hd.com/"
+"referer": ""
 },
 {
 "name": "ตอน 2",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
 "url": https://tcp.miruplayer.com/media/sv1/4otBg5XRhJoKEtnoX5tT/720a.m3u8",
-"referer": "https://www.123-hd.com/"
+"referer": ""
 },
 {
 "name": "ตอน 3",

@@ -10,6 +10,14 @@
 "referer": ""
 }
 
+{
+"name": "Godzilla vs. Kong  ก็อดซิลล่า ปะทะ คอง",
+"image": "https://nung.tv/wp-content/uploads/2021/06/ExQOplUWUAIbUzs-203x300.jpg.webp",
+"url": "https://main.24playerhd.com/newplaylist/d270968004114b350624c039/d270968004114b350624c039.m3u8",
+"referer": ""
+}
+
+
 ]
 
 

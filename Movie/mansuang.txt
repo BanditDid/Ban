@@ -1,0 +1,16 @@
+{ "name": "แมนสรวง ManSuang",
+"author": "update 2024-02-29 15:51:16",
+"info": "",
+"image": "https://1112hd.com/wp-content/uploads/2024/02/404.jpg",
+"stations": [
+{
+"name": "แมนสรวง ManSuang",
+"image": "https://1112hd.com/wp-content/uploads/2024/02/404.jpg",
+"url": "https://tcp.miruplayer.com/media/sv1/uEUjtl40xIhiw3omxtVP/720a.m3u8",
+"referer": ""
+}
+
+]
+
+
+}

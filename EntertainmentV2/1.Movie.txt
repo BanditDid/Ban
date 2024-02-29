@@ -14,7 +14,7 @@
 },
 {
 "name":"หนัง Netflix",
-"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
+"image":"https://image.bangkokbiznews.com/image/kt/media/image/news/2020/03/30/873498/750x422_873498_1585570727.jpg",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/main_netflix.txt",
 "import":"false"
 },

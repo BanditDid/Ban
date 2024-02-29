@@ -2,13 +2,13 @@
 
 "name":"Netflix",
 "author":"จ๊ากก..",
-"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
+"image":"https://image.bangkokbiznews.com/image/kt/media/image/news/2020/03/30/873498/750x422_873498_1585570727.jpg",
 "url":"",
 "groups":[
 
 {
 "name":"เนื้อหาเปิดตัวใหม่", 
-"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
+"image":"https://image.bangkokbiznews.com/image/kt/media/image/news/2020/03/30/873498/750x422_873498_1585570727.jpg",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_new.txt",
 "parental": "true",
 "import":"false"
@@ -16,7 +16,7 @@
 
 {
 "name":"ซีรี่ย์ 10 อันดับสูงสุดในไทยวันนี้",
-"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
+"image":"https://image.bangkokbiznews.com/image/kt/media/image/news/2020/03/30/873498/750x422_873498_1585570727.jpg",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_top_tv.txt",
 "parental": "true",
 "import":"false"
@@ -24,14 +24,14 @@
 
 {
 "name":"ภาพยนต์ 10 อันดับสูงสุดในไทยวันนี้",
-"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
+"image":"https://image.bangkokbiznews.com/image/kt/media/image/news/2020/03/30/873498/750x422_873498_1585570727.jpg",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_top_movie.txt",
 "import":"true"
 },
 
 {
 "name":"All Netflix",
-"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
+"image":"https://image.bangkokbiznews.com/image/kt/media/image/news/2020/03/30/873498/750x422_873498_1585570727.jpg",
 "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/123HD/123-hd_ดูหนัง-netflix.w3u",
 "import":"false"
 },

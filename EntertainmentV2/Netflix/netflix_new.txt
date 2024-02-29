@@ -9,7 +9,7 @@
 
 {
 "name": "แมนสรวง ManSuang",
-   "image": "https://1112hd.com/wp-content/uploads/2024/02/404.jpg",
+   "image": "https://1112hd.com/wp-content/uploads/2024/02/550-10-185x239.jpg",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/mansuang.txt",
 "referer": "xxxx"
 },

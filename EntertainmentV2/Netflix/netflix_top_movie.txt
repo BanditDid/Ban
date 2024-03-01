@@ -1,37 +1,47 @@
 {
 "name": "ภาพยนต์ 10 อันดับสูงสุดในไทยวันนี้",
-"author": "update 2024-02-28 21:33:16",
+"author": "update 2024-03-1 12:07:16",
 "info": "",
 "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
 "key": [],
 "groups": [
 
 {
-"name": "1.ดูน",
+"name": "1.ล่าคนโคตรพลัง Code 8 ภาค 2 Code 8 Part II",
+"image": "https://series-888.com/wp-content/uploads/2024/02/1274245345.png",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/Code82.txt",
+"referer": "xxxx"
+},
+{
+"name": "2.ดูน",
 "image": "https://cdn.majorcineplex.com/uploads/content/images/20210810140339_Dune%20Poster.jpg",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/Dune.txt",
 "referer": "xxxx"
 },
     {
-"name": "2.Godzilla vs. Kong  ก็อดซิลล่า ปะทะ คอง",
+"name": "3.Godzilla vs. Kong  ก็อดซิลล่า ปะทะ คอง",
 "image": "https://nung.tv/wp-content/uploads/2021/06/ExQOplUWUAIbUzs-203x300.jpg.webp",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/godzilla-vs-kong.txt",
 "referer": "xxxx"
 },
 
 {
-"name": "3.สัตว์มหัศจรรย์ ความลับของดัมเบิลดอร์",
+"name": "4.สัตว์มหัศจรรย์ ความลับของดัมเบิลดอร์",
 "image": "https://www.i-moviehd.com/wp-content/uploads/2022/04/Fantastic-Beasts-The-Secrets-of-Dumbledore-2022-%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C.png",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/FantasticDumbledore.txt",
 "referer": "xxxx"
 },
+{ "name": "5.พี่นาค2",
+"author": "",
+"info": "",
+"image": "https://www.i-pic.info/i/9iLb338977.jpg",
+"stations": [
 {
-"name": "4.THE LOST CITY (2022) ผจญภัยนครสาบสูญ",
-"image": "https://www.i-moviehd.com/wp-content/uploads/2022/05/The-Lost-City-2022-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B8%8D.png",
-"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/THELOSTCITY.txt",
-"referer": "xxxx"
-},
-
+"name": "พี่นาค2",
+"image": "https://www.i-pic.info/i/9iLb338977.jpg",
+"url": "https://main.77player.xyz/m3u8/f6621feff80350a7cfed0c0e/f6621feff80350a7cfed0c0e438.m3u8",
+"referer": ""
+}]},
 { "name": "6.นักรบมนตรา: ตำนานแปดดวงจันทร์ (2024)",
 "author": "",
 "info": "",
@@ -56,27 +66,15 @@
 "referer": ""
 }]},
 
-{ "name": "8.พี่นาค2",
-"author": "",
-"info": "",
-"image": "https://www.i-pic.info/i/9iLb338977.jpg",
-"stations": [
 {
-"name": "พี่นาค2",
-"image": "https://www.i-pic.info/i/9iLb338977.jpg",
-"url": "https://main.77player.xyz/m3u8/f6621feff80350a7cfed0c0e/f6621feff80350a7cfed0c0e438.m3u8",
-"referer": ""
-}]},
-
-
-
-
-{
-"name": "9.14 อีกครั้ง",
-"image": "https://www.24-hd.com/wp-content/uploads/2024/02/14-Again-I-Love-You-Two-Thousand-2023-14-%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87-187x269.jpg",
-"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/14.txt",
+"name": "8.THE LOST CITY (2022) ผจญภัยนครสาบสูญ",
+"image": "https://www.i-moviehd.com/wp-content/uploads/2022/05/The-Lost-City-2022-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B8%8D.png",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/THELOSTCITY.txt",
 "referer": "xxxx"
 },
+
+
+
 
 { "name": "10.R.I.P.D.  อาร์.ไอ.พี.ดี.หน่วยพิฆาตสยบวิญญาณ",
 "author": "",
@@ -96,3 +94,11 @@
 
 ]
 }
+
+
+{
+"name": "9.14 อีกครั้ง",
+"image": "https://www.24-hd.com/wp-content/uploads/2024/02/14-Again-I-Love-You-Two-Thousand-2023-14-%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87-187x269.jpg",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/14.txt",
+"referer": "xxxx"
+},

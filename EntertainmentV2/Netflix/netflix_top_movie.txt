@@ -12,6 +12,33 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/Code82.txt",
 "referer": "xxxx"
 },
+ {
+   "name": "2.ผมชื่อโรกีวาน My Name Is Loh Kiwan (2024) ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024.png",
+   "stations": [
+    {
+     "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024.png",
+     "url": "https://streamhls.com/view/6ae8fd6b-ae4c-559d-90b7-12aea4c20fe1.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024.png",
+     "url": "https://play.kakjeawplay.xyz/1e203b5d-b799-449e-a71f-7480b04aab77/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024.png",
+     "url": "https://streamhls.com/view/1a93a2ff-2248-5976-94fa-92219651e72f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
 {
 "name": "2.ดูน",
 "image": "https://cdn.majorcineplex.com/uploads/content/images/20210810140339_Dune%20Poster.jpg",

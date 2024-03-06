@@ -52,15 +52,22 @@
 
 "groups": [
 {
+"name":"Bee 🐝", 
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/655956387/android/sticker.png",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Bee.txt",
+"parental": "true",
+"import":"false"
+},
+{
 "name":"Exynos", 
-"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/653501313/android/sticker.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Exynos.txt",
 "parental": "true",
 "import":"false"
 },
 {
 "name":"Bird Ch 👑", 
-"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/653761241/android/sticker.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Bird.txt",
 "parental": "true",
 "import":"false"

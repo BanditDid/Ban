@@ -1,0 +1,803 @@
+{
+"name": "Exynos",
+"image": "https://i.pinimg.com/originals/af/84/29/af8429e1db3f4349a47b1b2cc9fc7433.gif",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Exynos.txt",
+"author": "ช่องน็อต",
+"groups": [
+
+
+
+{
+"name":"LTNS (2024) คู่แห้ง แล้งรัก ",
+"author":"น็อตขอมา",
+"image":"https://t1.blockdit.com/photos/2023/12/6584fdb79a279f3e43eccd23_800x0xcover_e4erNP11.jpg",
+"stations": [ 
+{
+"name": "EP 1",
+"info": "",
+"image": "https://t1.blockdit.com/photos/2023/12/6584fdb79a279f3e43eccd23_800x0xcover_e4erNP11.jpg",
+"url": "https://tcp.miruplayer.com/media/sv3/mffg84x0Ft0hUfBk1Lc7/play.m3u8",
+"referer": "xxxxx"
+},
+{
+"name": "EP 2",
+"info": "",
+"image": "https://t1.blockdit.com/photos/2023/12/6584fdb79a279f3e43eccd23_800x0xcover_e4erNP11.jpg",
+"url": "https://tcp.miruplayer.com/media/sv3/w3ULFNdaTW9f0sS61ql1/play.m3u8",
+"referer": "xxxxx"
+},
+{
+"name": "EP 3",
+"info": "",
+"image": "https://t1.blockdit.com/photos/2023/12/6584fdb79a279f3e43eccd23_800x0xcover_e4erNP11.jpg",
+"url": "https://tcp.miruplayer.com/media/sv2/5J7mQ5VpoU3_XfZl8Ocf/play.m3u8",
+"referer": "xxxxx"
+},
+{
+"name": "EP 4",
+"info": "",
+"image": "https://t1.blockdit.com/photos/2023/12/6584fdb79a279f3e43eccd23_800x0xcover_e4erNP11.jpg",
+"url": "https://tcp.miruplayer.com/media/sv1/k3CyH2HJcaewwwqw7GxF/play.m3u8",
+"referer": "xxxxx"
+},
+{
+"name": "EP 5",
+"info": "",
+"image": "https://t1.blockdit.com/photos/2023/12/6584fdb79a279f3e43eccd23_800x0xcover_e4erNP11.jpg",
+"url": "https://tcp.miruplayer.com/media/sv1/k3CyH2HJcaewwwqw7GxF/play.m3u8",
+"referer": "xxxxx"
+},
+{
+"name": "EP 6",
+"info": "",
+"image": "https://t1.blockdit.com/photos/2023/12/6584fdb79a279f3e43eccd23_800x0xcover_e4erNP11.jpg",
+"url": "https://tcp.miruplayer.com/media/sv3/QCRwfvIQ9BMfYrFg2fUy/play.m3u8",
+"referer": "xxxxx"
+},
+]
+},
+
+{
+"name":"Prison Break Season 1-5 ",
+"author":"น็อตขอมา",
+"image":"https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v9_ah.jpg",
+"groups": [ 
+
+{
+"name":"Prison Break Season 1 (2005)",
+"author":"บันเทิง",
+"image":"https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"stations": [ 
+{
+"name": "EP 1",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/de8f92b528f50901edb4407f/de8f92b528f50901edb4407f.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 2",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/85978daec50a5d0ff9537dfe/85978daec50a5d0ff9537dfe.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 3",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/f78981486fe4566b0d2ebae4/f78981486fe4566b0d2ebae4.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 4",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/a4dbe1dac82f49ad4c7275e1/a4dbe1dac82f49ad4c7275e1.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 5",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/7e10e81bb72f483e4acf0773/7e10e81bb72f483e4acf0773.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 6",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/53796fde17cbfd124f2888be/53796fde17cbfd124f2888be.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 7",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/58c1eda858c80f6f21201455/58c1eda858c80f6f21201455.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 8",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/519856831b3417fd24db9190/519856831b3417fd24db9190.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 9",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/061c7345df2c404d61056e9b/061c7345df2c404d61056e9b.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 10",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/5c2d91bb6b85f6bd77d11872/5c2d91bb6b85f6bd77d11872.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 11",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/6b0f8464562cd52be4ab217d/6b0f8464562cd52be4ab217d.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 12",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/d0e4785e0af37903cc5b4b99/d0e4785e0af37903cc5b4b99.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 13",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/259835a5ba944a79f1ae9fea/259835a5ba944a79f1ae9fea.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 14",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/00a9267c67adc9e0345ee7ba/00a9267c67adc9e0345ee7ba.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 15",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/f7c56b0eb9227dd0f6dfefea/f7c56b0eb9227dd0f6dfefea.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 16",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/66563a588444cb142a2136dc/66563a588444cb142a2136dc.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 17",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/fd070d96c9d479e67cfba95e/fd070d96c9d479e67cfba95e.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 18",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/3ad70cd10a48061589c8e039/3ad70cd10a48061589c8e039.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 19",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/bb1e253ecbdfd40ce5e1b022/bb1e253ecbdfd40ce5e1b022.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 20",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/3a03957f9485a330fbac79d4/3a03957f9485a330fbac79d4.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 21",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/af2080dca50545917ad22498/af2080dca50545917ad22498.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 22 จบ",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/f085eff7fbc8ce2519ae25dc/f085eff7fbc8ce2519ae25dc.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+
+]},
+
+
+
+
+{
+"name":"Prison Break Season 2 (2006)",
+"author":"บันเทิง",
+"image":"https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"stations": [ 
+{
+"name": "EP 1",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/2b79650587a0bef06544d1d7/2b79650587a0bef06544d1d7.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 2",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/39b6dbbd173bd60432167f5d/39b6dbbd173bd60432167f5d.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 3",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/e7514dee365477479713839a/e7514dee365477479713839a.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 4",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/30778e5ef6d54f5fbc4bc1a6/30778e5ef6d54f5fbc4bc1a6.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 5",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/3681a4a6bb6f5080ad6bb251/3681a4a6bb6f5080ad6bb251.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 6",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/6eacb35d90cd10a9a4291f61/6eacb35d90cd10a9a4291f61.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 7",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/07fb7b7397f0d1fd27c02c1b/07fb7b7397f0d1fd27c02c1b.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 8",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/1ae60808e61306b09ec8dbd1/1ae60808e61306b09ec8dbd1.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 9",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/0d57fc3fdb4bc80bf36cc35f/0d57fc3fdb4bc80bf36cc35f.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 10",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/1979662769445543323c45e7/1979662769445543323c45e7.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 11",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/73a358e2e6c3b72d1aa68499/73a358e2e6c3b72d1aa68499.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 12",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/ab15771819b4f3961f6cbe7f/ab15771819b4f3961f6cbe7f.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 13",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/588e4789ba3d640214499b5f/588e4789ba3d640214499b5f.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 14",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/0c5c61693e162746e4bdf0a9/0c5c61693e162746e4bdf0a9.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 15",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/c641aff444ccd7a459558cd0/c641aff444ccd7a459558cd0.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 16",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/74e58086d450d16245bb2404/74e58086d450d16245bb2404.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 17",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/a34180731a9c117e8cfdaa58/a34180731a9c117e8cfdaa58.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 18",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/c039a20e6731b5ebcf68028d/c039a20e6731b5ebcf68028d.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 19",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/4e871f13a1adee7600a23556/4e871f13a1adee7600a23556.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 20",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/48b9aba67270a2b76c0b0da2/48b9aba67270a2b76c0b0da2.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 21",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/bc615fdf5073284e704c9847/bc615fdf5073284e704c9847.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 22 จบ",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-2-2006-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/18028f18dd51c9fc85c70726/18028f18dd51c9fc85c70726.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+
+
+]},
+
+{
+"name":"Prison Break  Season 3 (2007)",
+"author":"บันเทิง",
+"image":"https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"stations": [ 
+{
+"name": "EP 1",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/713f856cd5043754afc000b4/713f856cd5043754afc000b4.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 2",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/d7f442321904cca7ab5515ce/d7f442321904cca7ab5515ce.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 3",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/082919df233e52dd58569960/082919df233e52dd58569960.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 4",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/f7e567fdd45c3ec22d162236/f7e567fdd45c3ec22d162236.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 5",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/a8533f50903f2263213ba3c0/a8533f50903f2263213ba3c0.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 6",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/c16ca24cadb7766d54164a11/c16ca24cadb7766d54164a11.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 7",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/1777a0f8b245ae7c7bbf16ea/1777a0f8b245ae7c7bbf16ea.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 8",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/036f29526432351b3b139322/036f29526432351b3b139322.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 9",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/c8bfe11dbe8d58333066a8eb/c8bfe11dbe8d58333066a8eb.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 10",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/f32abf92252bc72faaf9ac78/f32abf92252bc72faaf9ac78.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 11",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/f0950aa6c26b3366d6e510b9/f0950aa6c26b3366d6e510b9.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 12",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/45067c2775b946071219ddfd/45067c2775b946071219ddfd.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 13 จบ",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-3-2007-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/c55110fb1b452689768b6ab0/c55110fb1b452689768b6ab0.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+}
+
+
+]},
+
+{
+"name":"Prison Break Season 4 (2008)",
+"author":"บันเทิง",
+"image":"https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"stations": [ 
+{
+"name": "EP 1",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/423a0c58c46df114c0ed1d08/423a0c58c46df114c0ed1d08.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 2",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/a61cce1f7495b127ae420542/a61cce1f7495b127ae420542.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 3",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/9811c10871495373d653fbd0/9811c10871495373d653fbd0.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 4",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/27722c11651c9471637ea4d1/27722c11651c9471637ea4d1.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 5",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/007ecb37e393f13c86e8f6c6/007ecb37e393f13c86e8f6c6.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 6",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/896cdebd88bfc8481de055e3/896cdebd88bfc8481de055e3.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 7",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/2f70f0e3dc7beb86250a4eff/2f70f0e3dc7beb86250a4eff.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 8",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/bfed4b6f396f8712e018c495/bfed4b6f396f8712e018c495.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 9",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/e66a4c4cccabc35bc20c401c/e66a4c4cccabc35bc20c401c.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 10",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/bd3b7913048706f46137475d/bd3b7913048706f46137475d.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 11",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/8345a627ae6fa781f380fcf4/8345a627ae6fa781f380fcf4.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 12",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/33711748bcf726877b4c1dc5/33711748bcf726877b4c1dc5.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 13",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/441fb04990dcc57b28c4bb73/441fb04990dcc57b28c4bb73.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 14",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/e31f75a5eb387171438a5629/e31f75a5eb387171438a5629.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 15",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/eaa83abbcf9f3913251798f0/eaa83abbcf9f3913251798f0.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 16",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/dbafb8fff374fd983d322fde/dbafb8fff374fd983d322fde.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 17",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/fb4a8eff3fb30bcdcc5da972/fb4a8eff3fb30bcdcc5da972.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 18",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/79db49c4a3f1912bfdf6838c/79db49c4a3f1912bfdf6838c.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 19",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/787bd23c84a5398d65a8c584/787bd23c84a5398d65a8c584.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 20",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/49c578973afb97c1a37e8932/49c578973afb97c1a37e8932.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 21",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/f17d7ab046e0e0be03900b9e/f17d7ab046e0e0be03900b9e.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+{
+"name": "EP 22 จบ",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-4-2008-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/2a128aaa491cf5c0aaf6e571/2a128aaa491cf5c0aaf6e571.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+
+
+]},
+
+{
+"name":"Prison Break  Season 5 (2017)",
+"author":"บันเทิง",
+"image":"https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-5-2017-200x300.jpg",
+"stations": [ 
+{
+"name": "EP 1",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-5-2017-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/381beb88d37e6228ba531019/381beb88d37e6228ba531019.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+}, 
+{
+"name": "EP 2",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-5-2017-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/b4b65d8f4b38168e984d16ff/b4b65d8f4b38168e984d16ff.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+}, 
+{
+"name": "EP 3",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-5-2017-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/9f30a66408ffec79efb59e7a/9f30a66408ffec79efb59e7a.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+}, 
+{
+"name": "EP 4",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-5-2017-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/696a9c41a66d8b40010824c6/696a9c41a66d8b40010824c6.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+}, 
+{
+"name": "EP 5",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-5-2017-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/5d7fa56fb53c3609756c2766/5d7fa56fb53c3609756c2766.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+}, 
+{
+"name": "EP 6",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-5-2017-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/86e773b53db0bbea61d26fdc/86e773b53db0bbea61d26fdc.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+}, 
+{
+"name": "EP 7",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-5-2017-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/c20e86704b9cf98d9972f193/c20e86704b9cf98d9972f193.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+}, 
+{
+"name": "EP 8",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-5-2017-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/8e83f879d587a0e82f98e5b6/8e83f879d587a0e82f98e5b6.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+}, 
+{
+"name": "EP 9",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-5-2017-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/f4910aa33624f7b52c9aa1f8/f4910aa33624f7b52c9aa1f8.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+}, 
+{
+"name": "EP 10 จบ",
+"info": "HD",
+"image": "https://www.seriesday.com/wp-content/uploads/2023/03/Prison-Break-Season-5-2017-200x300.jpg",
+"url": "https://main.77player.xyz/newplaylist/2c5d29b989600e7c9c353001/2c5d29b989600e7c9c353001.m3u8",
+"referer": "https://main.77player.xyz/?id=de8f92b528f50901edb4407f"
+},
+
+
+]},
+
+
+]},
+
+
+{
+"name":"Gen V",
+"author":"บันเทิง",
+"image":"https://www.123-hd.com/wp-content/uploads/2023/09/Gen-V-300x450.jpg",
+"stations": [
+  
+{
+"name": "Gen V EP 1",
+"info": "HD",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/09/Gen-V-300x450.jpg",
+"url": "https://main.77player.xyz:443/m3u8/3dbfaf56673eab5ca4495333/3dbfaf56673eab5ca4495333438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Gen V EP 2",
+"info": "HD",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/09/Gen-V-300x450.jpg",
+"url": "https://main.77player.xyz:443/m3u8/37e3113b004f88f1fd77b2c6/37e3113b004f88f1fd77b2c6438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Gen V EP 3",
+"info": "HD",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/09/Gen-V-300x450.jpg",
+"url": "https://main.77player.xyz:443/m3u8/df3d61c2ee2a4207814088b0/df3d61c2ee2a4207814088b0438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Gen V EP 4",
+"info": "HD",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/09/Gen-V-300x450.jpg",
+"url": "https://main.77player.xyz:443/m3u8/814f4c04902655e0be7ae1b4/814f4c04902655e0be7ae1b4438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Gen V EP 5",
+"info": "HD",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/09/Gen-V-300x450.jpg",
+"url": "https://main.77player.xyz:443/m3u8/bd6d9f86b3ca50340ee6a992/bd6d9f86b3ca50340ee6a992438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Gen V EP 6",
+"info": "HD",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/09/Gen-V-300x450.jpg",
+"url": "https://main.77player.xyz/newplaylist/25c9be16ce2418ee4009d21f/25c9be16ce2418ee4009d21f.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Gen V EP 7",
+"info": "HD",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/09/Gen-V-300x450.jpg",
+"url": "https://main.77player.xyz:443/m3u8/9fcbe39ff79d32fd1bf9c509/9fcbe39ff79d32fd1bf9c509438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Gen V EP 8",
+"info": "HD",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/09/Gen-V-300x450.jpg",
+"url": "https://main.77player.xyz:443/m3u8/6f5976704c07fe287a08150a/6f5976704c07fe287a08150a438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+]
+},

@@ -27,7 +27,7 @@
 "name": "EP 3",
 "info": "",
 "image": "https://t1.blockdit.com/photos/2023/12/6584fdb79a279f3e43eccd23_800x0xcover_e4erNP11.jpg",
-"url": "https://tcp.miruplayer.com/media/sv2/5J7mQ5VpoU3_XfZl8Ocf/play.m3u8",
+"url": "https://tcp.miruplayer.com/media/sv3/HP9D61oIx6ICgYqwNu_W/play.m3u8",
 "referer": "xxxxx"
 },
 {
@@ -41,7 +41,7 @@
 "name": "EP 5",
 "info": "",
 "image": "https://t1.blockdit.com/photos/2023/12/6584fdb79a279f3e43eccd23_800x0xcover_e4erNP11.jpg",
-"url": "https://tcp.miruplayer.com/media/sv1/k3CyH2HJcaewwwqw7GxF/play.m3u8",
+"url": "https://tcp.miruplayer.com/media/sv1/LqXu2a95AfRXup3EAXRb/play.m3u8",
 "referer": "xxxxx"
 },
 {

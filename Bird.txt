@@ -1,0 +1,21 @@
+{
+"name": "Bird Ch 👑",
+"image": "https://i.pinimg.com/originals/af/84/29/af8429e1db3f4349a47b1b2cc9fc7433.gif",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bird.txt",
+"author": "ช่องพี่เบิร์ด",
+"groups": [
+
+{
+      "name": "หุ่นพยนต์",
+      "info": "ซีรี่ย์พากย์ไทย, ซีรีย์ใหม่ 2023, ซีรี่ย์ไทย",
+      "image": "",
+      "stations": [
+        {
+          "name": "EP.1 HOME SCHOOL (2023) นักเรียนต้องขัง",
+          "info": "1080p",
+          "image": "https://seriesmy.com/wp-content/uploads/2023/06/HOME-SCHOOL-นักเรียนต้องขัง.jpg",
+          "url": "https://up2img.com/videoplayback/38e0190358cb1e45433e2cb555ba9fd9/8cf01b368bc7f2275a72064f7095d065/1080p/HomeSchoolEP01.mp4?token=alRMdjVidE0zVlphUVNxYWxISFR5QT09OjokYeXA7aPrzD%2ByH4ZxIhD8",
+          "referer": "https://up2img.com/"
+        },
+]
+}

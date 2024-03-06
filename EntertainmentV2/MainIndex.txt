@@ -43,13 +43,37 @@
 "parental": "true",
 "import":"false"
 },
+
 {
-"name":"ขอ", 
+"name":"ขอ",
+"author":"จ๊ากก...",
+"info": "เพื่อความบันเทิงนะจ๊ะ",
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",
+
+"groups": [
+{
+"name":"Exynos", 
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Exynos.txt",
+"parental": "true",
+"import":"false"
+},
+{
+"name":"Bird Ch 👑", 
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Bird.txt",
+"parental": "true",
+"import":"false"
+},
+{
+"name":"รวม", 
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Oung-Oung/Oung-Oung/Oung-Oung/main/ขอ",
 "parental": "true",
 "import":"false"
 }
+
+]}
 
 ]
 }

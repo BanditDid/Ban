@@ -68,7 +68,7 @@
 {
 "name":"รวม", 
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",
-"url":"https://raw.githubusercontent.com/BanditDid/Oung-Oung/Oung-Oung/Oung-Oung/main/ขอ",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/ขอ",
 "parental": "true",
 "import":"false"
 }

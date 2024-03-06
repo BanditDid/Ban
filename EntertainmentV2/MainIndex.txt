@@ -50,7 +50,7 @@
 "info": "เพื่อความบันเทิงนะจ๊ะ",
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",
 
-"stations": [
+"groups": [
 {
 "name":"Exynos", 
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",

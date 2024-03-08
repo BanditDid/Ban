@@ -16,7 +16,7 @@
 "info": "พากย์ไทย",
 "image": "https://ดูหนังฟรี24.com/wp-content/uploads/2023/11/Damsel-2024-poster.webp",
 "url": "https://script.google.com/macros/s/AKfycby8DTsrTknwAOCTVFWh-gQFJ7eTbUGDicK7nJHgvOu4M_WPrb47wHQxXD-K6POlYzBA/exec",
-"referer": https://xn--24-3qi3cza1b2a4dxc2byb.com/"
+"referer": "https://xn--24-3qi3cza1b2a4dxc2byb.com/"
 }
 ]
 },

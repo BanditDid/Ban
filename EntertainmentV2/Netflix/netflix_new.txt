@@ -6,6 +6,21 @@
   "key": [],
   "groups": [
 
+{
+"name": "Damsel (2024) ดรุณีผู้พิชิต",
+"info": "เสียงไทย",
+"image": "https://ดูหนังฟรี24.com/wp-content/uploads/2023/11/Damsel-2024-poster.webp",
+"url": "https://movie.fun-gg.com/embed/?TUNpaFVMVWNKTnY2bEt4VFhYdHpLazVMRWZnT3NoRk4rNmRKTXJ3Q0JGMzV5WUpuTUhxdFRmTXJvaVVUWC9oTG01Y1lHLzJBckxYTUZjaVZUVGZKdDA3NzFSYUZxV1dGZHpOc3FPMGtZQ0tRNjZuQzFKTDVnTzVtM0FGYmQ0bzM6OuGSjcManZL8ztopeiQSLkQ%3D",
+"referer": "https://7yup.net/"
+},
+{
+"name": "Damsel (2024) ดรุณีผู้พิชิต",
+"image": "https://ดูหนังฟรี24.com/wp-content/uploads/2023/11/Damsel-2024-poster.webp",
+"url": "https://script.google.com/macros/s/AKfycby8DTsrTknwAOCTVFWh-gQFJ7eTbUGDicK7nJHgvOu4M_WPrb47wHQxXD-K6POlYzBA/exec",
+"referer": https://xn--24-3qi3cza1b2a4dxc2byb.com/"
+},
+
+
 
 {
 "name": "แมนสรวง ManSuang",

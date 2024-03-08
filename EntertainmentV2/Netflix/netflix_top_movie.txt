@@ -1,6 +1,6 @@
 {
 "name": "ภาพยนต์ 10 อันดับสูงสุดในไทยวันนี้",
-"author": "update 2024-03-1 12:07:16",
+"author": "update 2024-03-8 16:07:16",
 "info": "",
 "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
 "key": [],
@@ -12,45 +12,98 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/Code82.txt",
 "referer": "xxxx"
 },
- {
-   "name": "2.ผมชื่อโรกีวาน My Name Is Loh Kiwan (2024) ",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024.png",
-   "stations": [
-    {
-     "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024.png",
-     "url": "https://streamhls.com/view/6ae8fd6b-ae4c-559d-90b7-12aea4c20fe1.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024.png",
-     "url": "https://play.kakjeawplay.xyz/1e203b5d-b799-449e-a71f-7480b04aab77/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024.png",
-     "url": "https://streamhls.com/view/1a93a2ff-2248-5976-94fa-92219651e72f.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
 {
-"name": "2.ดูน",
+"name": "Mea Culpa (2024) ทนายคดีฆ่า",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mea-Culpa.jpg",
+"stations": [
+{
+"name": "Mea Culpa (2024) ทนายคดีฆ่า",
+"info": "ตัวเล่นหลัก พากย์ไทย",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mea-Culpa.jpg",
+"url": "https://play.kakjeawplay.xyz/5a8e0b5b-7a4e-49d5-9075-4888db01a47c/_",
+"referer": "https://www.nung2hdd.com/"
+},
+{
+"name": "Mea Culpa (2024) ทนายคดีฆ่า",
+"info": "ตัวเล่นสำรอง พากย์ไทย",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mea-Culpa.jpg",
+"url": "https://streamhls.com/view/774cfdfc-75ae-5216-aca4-f5eaacff5dd0.m3u8",
+"referer": "https://www.nung2hdd.com/"
+}
+]
+},
+{
+"name": "Spaceman (2024) สเปซแมน",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Spaceman.png",
+"stations": [
+{
+"name": "Spaceman (2024) สเปซแมน",
+"info": "ตัวเล่นหลัก พากย์ไทย",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Spaceman.png",
+"url": "https://play.kakjeawplay.xyz/aa5a27df-69fb-4a3a-bbc1-8f1eaaab9487/_",
+"referer": "https://www.nung2hdd.com/"
+},
+{
+"name": "Spaceman (2024) สเปซแมน",
+"info": "ตัวเล่นสำรอง พากย์ไทย",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Spaceman.png",
+"url": "https://streamhls.com/view/0716acc4-16ee-5d8f-ba4d-9f8ba8ec49d5.m3u8",
+"referer": "https://www.nung2hdd.com/"
+}
+]
+},
+
+{
+"name": "Despicable Me 3 มิสเตอร์แสบร้ายเกินพิกัด 3",
+"info": "เสียงไทย",
+"image": "http://7yup.net/wp-content/uploads/2022/06/Despicable-Me-3-มิสเตอร์แสบร้ายเกินพิกัด-3.webp",
+"url": "https://movie.fun-gg.com/embed/?TUNpaFVMVWNKTnY2bEt4VFhYdHpLazVMRWZnT3NoRk4rNmRKTXJ3Q0JGMzV5WUpuTUhxdFRmTXJvaVVUWC9oTG01Y1lHLzJBckxYTUZjaVZUVGZKdDA3NzFSYUZxV1dGZHpOc3FPMGtZQ0tRNjZuQzFKTDVnTzVtM0FGYmQ0bzM6OuGSjcManZL8ztopeiQSLkQ%3D",
+"referer": "https://7yup.net/"
+},
+{
+"name": "Minions 2  มินเนี่ยน 2",
+"image": "https://www.x10movies4k.com/wp-content/uploads/2022/11/wFzxWjF3qAOwxgXJyZb1q928jtOmGLh-185x278.jpg",
+"url": "https://streaming-3.vip-streaming.com:30443/x10movies4k-com/3-ssd/movie/store-2000/Minions2.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjMgMToxMjo0MiBQTSZoYXNoX3ZhbHVlPWdTc0YzcW0wbjYyQmU5Wmg0ZEhvYkE9PSZ2YWxpZG1pbnV0ZXM9NjA=",
+"referer": "https://www.x10movies4k.com/"
+},
+
+
+{
+"name": "Ruby Gillman Teenage Kraken  รูบี้ สาวน้อยอสูรทะเล",
+"image": "https://www.v8movie-hd.com/wp-content/uploads/2023/07/Ruby-Gillman-Teenage-Kraken2023.jpg",
+"info": "HD พากย์ไทย",
+"stations": [
+{
+"name": "Ruby Gillman Teenage Kraken  รูบี้ สาวน้อยอสูรทะเล",
+"info": "พากย์ไทย",
+"image": "https://www.v8movie-hd.com/wp-content/uploads/2023/07/Ruby-Gillman-Teenage-Kraken2023.jpg",
+"url": "https://streamhls.com/view/1def4f50-1f67-5b19-b99d-f713a031af89.m3u8",
+"referer": "https://www.v8movie-hd.com/"
+}
+]
+},
+
+{
+"name": "Super Mario Bros  ซูเปอร์มาริโอ",
+"info": "HD Thai)",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Super-Mario-Bros-1993-Poster.jpg",
+"stations": [
+{
+"name": "Super Mario Bros  ซูเปอร์มาริโอ(พากย์ไทย)",
+"info": "พากย์ไทย",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Super-Mario-Bros-1993-Poster.jpg",
+"url": "https://streamhls.com/view/88b55806-eacf-5abf-b566-636a2e6a6313.m3u8"
+}
+]
+},
+
+{
+"name": "ดูน",
 "image": "https://cdn.majorcineplex.com/uploads/content/images/20210810140339_Dune%20Poster.jpg",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/Dune.txt",
 "referer": "xxxx"
 },
-    {
-"name": "3.Godzilla vs. Kong  ก็อดซิลล่า ปะทะ คอง",
-"image": "https://nung.tv/wp-content/uploads/2021/06/ExQOplUWUAIbUzs-203x300.jpg.webp",
-"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/godzilla-vs-kong.txt",
-"referer": "xxxx"
-},
+
 
 {
 "name": "4.สัตว์มหัศจรรย์ ความลับของดัมเบิลดอร์",
@@ -58,17 +111,7 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/FantasticDumbledore.txt",
 "referer": "xxxx"
 },
-{ "name": "5.พี่นาค2",
-"author": "",
-"info": "",
-"image": "https://www.i-pic.info/i/9iLb338977.jpg",
-"stations": [
-{
-"name": "พี่นาค2",
-"image": "https://www.i-pic.info/i/9iLb338977.jpg",
-"url": "https://main.77player.xyz/m3u8/f6621feff80350a7cfed0c0e/f6621feff80350a7cfed0c0e438.m3u8",
-"referer": ""
-}]},
+
 { "name": "6.นักรบมนตรา: ตำนานแปดดวงจันทร์ (2024)",
 "author": "",
 "info": "",
@@ -81,39 +124,17 @@
 "referer": ""
 }]},
 
-{ "name": "7.พี่นาค3",
+{ "name": "Ballerina ร่ายระบำฆ่า",
 "author": "",
 "info": "",
-"image": "https://www.i-pic.info/i/0YKH338978.jpg",
+"image": "https://www.037hdmovie.com/wp-content/uploads/2023/10/Ballerina-2023.jpg",
 "stations": [
 {
-"name": "พี่นาค3",
-"image": "https://www.i-pic.info/i/0YKH338978.jpg",
-"url": "https://main.77player.xyz/m3u8/f97f49577942cbce3bfb5c15/f97f49577942cbce3bfb5c15438.m3u8",
-"referer": ""
-}]},
-
-{
-"name": "8.THE LOST CITY (2022) ผจญภัยนครสาบสูญ",
-"image": "https://www.i-moviehd.com/wp-content/uploads/2022/05/The-Lost-City-2022-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B8%8D.png",
-"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/THELOSTCITY.txt",
-"referer": "xxxx"
-},
-
-
-
-
-{ "name": "10.R.I.P.D.  อาร์.ไอ.พี.ดี.หน่วยพิฆาตสยบวิญญาณ",
-"author": "",
-"info": "",
-"image": "https://m.media-amazon.com/images/S/pv-target-images/14134ae44ffc7c9ec4aa442f1dd8e2727dcf7d8800d61c1ffd503317241e5153.jpg",
-"stations": [
-{
-"name": "R.I.P.D.  อาร์.ไอ.พี.ดี.หน่วยพิฆาตสยบวิญญาณ",
-"image": "https://m.media-amazon.com/images/S/pv-target-images/14134ae44ffc7c9ec4aa442f1dd8e2727dcf7d8800d61c1ffd503317241e5153.jpg",
-"url": "https://hlsp2p.com/view/e1b6856f-990b-5c26-b05f-402f76155497.m3u8",
-"referer": ""
-}]},
+"name": "Ballerina ร่ายระบำฆ่า",
+"image": "https://www.037hdmovie.com/wp-content/uploads/2023/10/Ballerina-2023.jpg",
+"url": "https://streamhls.com/view/510f7af5-3829-53cc-97c0-49b0123bc344.m3u8",
+"referer": "https://www.stream1688.com/"
+}]}
 
 
 

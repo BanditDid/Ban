@@ -1,0 +1,309 @@
+{
+"name": "GTO จีทีโอ คุณครูพันธุ์หายาก ตอนที่ 1-43 พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"author": "",
+"info": "",
+"stations": [
+{
+"name": "ตอนที่ 1",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/WNdhx4b/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 2",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/EbvewTJ8/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 3",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/1WJsei9/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 4",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/XlB2AX6/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 5",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/u3EnUx2h/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 6",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/ZtSdKXau/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 7",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/0lkzOgsX/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 8",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/6GJ9AULD/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 9",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/NkUWdZdt/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 10",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/bMgCGaUn/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 11",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/9D8zcVKx/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 12",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/BBK7RsS3/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 13",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/Pv3Z4b8J/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 14",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/gTazERkK/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 15",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/eGHdKbTn/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 16",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/vFva9PJo/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 17",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/Moa1xaYB/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 18",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/eo2aSmQ/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 19",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/4ETSJIxY/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 20",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/k9We5Yle/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 21",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/x8JLVWOL/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 22",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/nVhrpy2x/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 23",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/qd4s2hM8/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 24",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/a5LySnHa/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 25",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/lIe7andp/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 26",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/H93shwPp/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 27",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/iJMg4cPS/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 28",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/iBztk2Qa/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 29",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/IxAUxXY0/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 30",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/8UsMdsRB/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 31",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/ZCU3RmT9/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 32",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/nj3RZ8cz/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 33",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/939EKvYT/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 34",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/ELB6MLU/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 35",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/jdMDXE7z/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 36",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/KobAq4EP/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 37",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/exJUvMrW/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 38",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/1tDh7cyl/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 39",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/Jea1RZph/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 40",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/AH4l2LJ0/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 41",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/FGRSl9vU/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 42",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/3f4Hjn6/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+},
+{
+"name": "ตอนที่ 43",
+"info": "พากย์ไทย",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/9mdsEeNa/video.mp4/playlist.m3u8",
+"referer": "https://indy.team-indy.net/"
+}
+]
+}

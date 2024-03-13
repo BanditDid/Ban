@@ -1,8 +1,8 @@
 {
-"name":"Bee",
-"author":"",
+"name":"Bee 🐝",
+"author":"ช่องบี",
 "info": "",
-"image":"",
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/655956387/android/sticker.png",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bee.txt",
 "groups": [
   

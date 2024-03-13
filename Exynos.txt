@@ -4,6 +4,15 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Exynos.txt",
 "author": "ช่องน็อต",
 "groups": [
+
+
+
+{	
+"name":"GTO จีทีโอ คุณครูพันธุ์หายาก",
+"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/172982.jpg",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Anime/GTO.txt",
+"import":"true"
+},
 {
 "name":"LTNS (2024) คู่แห้ง แล้งรัก ",
 "author":"น็อตขอมา",

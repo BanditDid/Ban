@@ -1,6 +1,6 @@
 {
 "name": "Exynos",
-"image": "https://i.pinimg.com/originals/af/84/29/af8429e1db3f4349a47b1b2cc9fc7433.gif",
+"image": "https://stickershop.line-scdn.net/stickershop/v1/sticker/653501313/android/sticker.png",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Exynos.txt",
 "author": "ช่องน็อต",
 "groups": [

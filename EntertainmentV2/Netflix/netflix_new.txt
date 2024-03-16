@@ -9,19 +9,19 @@
 
 {
 "name"              :     "The Gentlemen (2024) สุภาพบุรุษมาหากัญ",
-"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen.jpg",
+"image"             :     "https://dnm.nflximg.net/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABaZTbX787Y-RC0yNZc7C7v3EMMcsskTDBqWKKzxETMdrxAx5H3Dv9wp_j17hZ_lAn1jAV8cUR_QNX20MZg4mRg70t_06Mo-eZgj55Dzfjz5aQswkdU5mjV4d5wMyU4Q4DyDp9A.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/thegentlemen",
 "import": false
 },
 {
 "name"              :     "The Signal (2024) สัญญาณ",
-"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Signal.jpg",
+"image"             :     "https://dnm.nflximg.net/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABd6BysqoEP9OBm_OPRVgYLVeYX6V9lheuRVVUJfTRqolPi2fKETapB5PidyMgY3fJQ-1VMEFavPwBG6-jnXoGo4XI8iU5pL6deqcM-6eQYRH2LPtROLTRr7EHVpwDm8PRbzufA.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/thesignal",
 "import": false
 },
 {
 "name"              :     "Furies (2024) ชำระแค้นทรชน",
-"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies.jpg",
+"image"             :     "https://dnm.nflximg.net/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABVPmDq5pOaUxzcXS3S_xENlU-ZkxR_5KOEH_FRLE5_x36FVkCPdv1RkF5FnskrcEGK6QV82vti-LYvK51sNKbnIMNRZcD8s9jx0xfWLlrEitWkcQC95NqvjpTX8ocUQTLnfjwg.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/furies",
 "import": false
 },
@@ -43,12 +43,12 @@
 
 {
 "name": "Damsel (2024) ดรุณีผู้พิชิต",
-"image": "https://ดูหนังฟรี24.com/wp-content/uploads/2023/11/Damsel-2024-poster.webp",
+"image": "https://dnm.nflximg.net/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABSVexbsyb9u57C1BPeCsim9xiIuHxZnCH0sS9ApWSay5KiIEpxE42j1yJ21SGRvxutVX82XbwBhVcTZqJyRP05fvagguYw9L6ha3_HjjhXBy2GfYpd7BXoqszCV33YlpPTHWVQ.jpg",
 "stations": [
 {
 "name": "Damsel (2024) ดรุณีผู้พิชิต",
 "info": "พากย์ไทย",
-"image": "https://ดูหนังฟรี24.com/wp-content/uploads/2023/11/Damsel-2024-poster.webp",
+"image": "https://dnm.nflximg.net/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABSVexbsyb9u57C1BPeCsim9xiIuHxZnCH0sS9ApWSay5KiIEpxE42j1yJ21SGRvxutVX82XbwBhVcTZqJyRP05fvagguYw9L6ha3_HjjhXBy2GfYpd7BXoqszCV33YlpPTHWVQ.jpg",
 "url": "https://script.google.com/macros/s/AKfycby8DTsrTknwAOCTVFWh-gQFJ7eTbUGDicK7nJHgvOu4M_WPrb47wHQxXD-K6POlYzBA/exec",
 "referer": "https://xn--24-3qi3cza1b2a4dxc2byb.com/"
 }

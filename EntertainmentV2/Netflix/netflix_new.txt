@@ -1,10 +1,44 @@
 {
-  "name": "เนื้อหาเปิดตัวใหม่",
-  "author": "update 2024-02-28 21:33:16",
-  "info": "",
-  "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
-  "key": [],
-  "groups": [
+"name": "เนื้อหาเปิดตัวใหม่",
+"author": "update 2024-03-16 8:33:16",
+"info": "",
+"image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+"key": [],
+"groups": [
+
+
+{
+"name"              :     "The Gentlemen (2024) สุภาพบุรุษมาหากัญ",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/thegentlemen",
+"import": false
+},
+{
+"name"              :     "The Signal (2024) สัญญาณ",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Signal.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/thesignal",
+"import": false
+},
+{
+"name"              :     "Furies (2024) ชำระแค้นทรชน",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/furies",
+"import": false
+},
+{
+"name"              :     "Shōgun (2024)",
+"image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2024/02/Shogun-2024.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/โชกุน",
+"import": false
+},
+{
+"name"              :     "Avatar: The Last Airbender (2024) เณรน้อยเจ้าอภินิหาร",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Last-Airbender-220x300-c-default.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/atla",
+"import": false
+},
+
+
 
 
 {
@@ -23,18 +57,18 @@
 
 {
 "name": "แมนสรวง ManSuang",
-   "image": "https://1112hd.com/wp-content/uploads/2024/02/550-10-185x239.jpg",
+"image": "https://1112hd.com/wp-content/uploads/2024/02/550-10-185x239.jpg",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/mansuang.txt",
 "referer": "xxxx"
 },
 
-    {
+{
 "name": "เณรน้อยเจ้าอภินิหาร",
 "image": "https://320hd.com/wp-content/uploads/2024/02/4040-3.jpg",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/เณรน้อยเจ้าอภินิหาร.txt",
 "referer": "xxxx"
 },
-    {
+{
 "name": "Godzilla vs. Kong  ก็อดซิลล่า ปะทะ คอง",
 "image": "https://nung.tv/wp-content/uploads/2021/06/ExQOplUWUAIbUzs-203x300.jpg.webp",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/godzilla-vs-kong.txt",
@@ -73,7 +107,7 @@
 },
 {
 "name": "Ready, Set, Love เกมชนคนโสด (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/game_sing.txt",
 "referer": "xxxx"
 }
@@ -81,5 +115,5 @@
 
 
 
-  ]
+]
 }

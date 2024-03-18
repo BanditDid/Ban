@@ -23,36 +23,8 @@
 "image":"https://www.nung2hdd.com/wp-content/uploads/2024/02/House-of-Ninjas-2024.jpg",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/house of nnja",
 "import":"true"
-},
- {
-"name":"เนื้อหาเปิดตัวใหม่", 
-"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_new.txt",
-"parental": "true",
-"import":"false"
-},
+}
 
-{
-"name":"ซีรี่ย์ 10 อันดับสูงสุดในไทยวันนี้",
-"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_top_tv.txt",
-"parental": "true",
-"import":"false"
-},
-
-{
-"name":"ภาพยนต์ 10 อันดับสูงสุดในไทยวันนี้",
-"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/Netflix/netflix_top_movie.txt",
-"import":"true"
-},
-
-{
-"name":"All Netflix",
-"image":"https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
-"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/123HD/123-hd_ดูหนัง-netflix.w3u",
-"import":"false"
-},
 
 
 ]

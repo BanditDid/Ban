@@ -5,7 +5,12 @@
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/655956387/android/sticker.png",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bee.txt",
 "groups": [
-  
+  {	
+"name":"สงครามสมรส",
+"image":"https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/สงครามสมรส.txt",
+"import":"true"
+},
 {	
 "name":"นางทาสหัวทอง",
 "image":"https://www.123-hd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time-2024-นางทาสหัวทอง-300x450.jpg",

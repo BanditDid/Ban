@@ -4,7 +4,6 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bird.txt",
 "author": "ช่องพี่เบิร์ด",
 "groups": [
-
 {
 "name": "Death Note สมุดโน๊ตกระชากวิญญาณ",
 "info": "ทุกภาค",
@@ -23,18 +22,21 @@
 "referer": "https://www.123-hd.com/"
 },
 {
-"Death Note 3 L Change the World (2008) สมุดโน้ตสิ้นโลก",
+"name": "Death Note 3 L Change the World (2008) สมุดโน้ตสิ้นโลก",
 "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-3-L-Change-the-World-2008-%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%99%E0%B9%89%E0%B8%95%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-300x450.jpg",
 "url": "https://main.24playerhd.com/m3u8/408d934eb42ec5c2aee80b6e/408d934eb42ec5c2aee80b6e438.m3u8",
 "referer": "https://www.123-hd.com/"
 },
 {
-"Death Note 4 Light Up the New World (2016) สมุดมรณะ",
+"name": "Death Note 4 Light Up the New World (2016) สมุดมรณะ",
 "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-4-Light-Up-the-New-World-2016-%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-300x450.jpg",
 "url": "https://main.24playerhd.com/m3u8/7808b82ad84b9d208b99b94d/7808b82ad84b9d208b99b94d438.m3u8",
 "referer": "https://www.123-hd.com/"
-},
+}
 ]}
 
 
-]}
+
+
+]
+}

@@ -9,113 +9,113 @@
 "name": "ตอนที่ 1",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
-"url": "https://xxx.77player.xyz/ioshls/9ca916ba5e9a45fd64cf1200319ea2e4/9ca916ba5e9a45fd64cf1200319ea2e4.m3u8",
-"referer": "https://www.123-hd.com"
+"url": "https://sgcdnseriesn.xyz/view/494eb23a-e7f3-52ff-839a-154d1f2c136c.m3u8",
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 2",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
-"url": "https://xxx.77player.xyz/ioshls/ec862a61b533e38fe19b2cd0b460633a/ec862a61b533e38fe19b2cd0b460633a.m3u8",
-"referer": "https://www.123-hd.com"
+"url": "https://sgcdnseriesn.xyz/view/e39b5a26-ae1c-50b0-8180-9d7e24916375.m3u8",
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 3",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
-"url": "xxxx",
-"referer": "https://www.123-hd.com"
+"url": "https://sgcdnseriesn.xyz/view/1b9691c5-e7c9-5b86-9e52-72ea80e57072.m3u8",
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 4",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
-"url": "xxxx",
-"referer": "https://www.123-hd.com"
+"url": "https://sgcdnseriesn.xyz/view/ca3943bf-6b21-5444-a871-3010d5ba35db.m3u8",
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 5",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
-"url": "xxxx",
-"referer": "https://www.123-hd.com"
+"url": "https://sgcdnseriesn.xyz/view/f4888666-e8dc-54bf-847a-f521aeabb66f.m3u8",
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 6",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
-"url": "xxxx",
-"referer": "https://www.123-hd.com"
+"url": "https://sgcdnseriesn.xyz/view/adc8032d-230a-5216-8dcd-2fee039d80ca.m3u8",
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 7",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
-"url": "xxxx",
-"referer": "https://www.123-hd.com"
+"url": "https://sgcdnseriesn.xyz/view/42aad324-e594-57bd-bfcc-d12f70093e44.m3u8",
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 8",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
-"url": "xxxx",
-"referer": "https://www.123-hd.com"
+"url": "https://sgcdnseriesn.xyz/view/c86a1fc6-ca36-5fca-b915-358715476201.m3u8",
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 9",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
 "url": "xxxx",
-"referer": "https://www.123-hd.com"
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 10",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
 "url": "xxxx",
-"referer": "https://www.123-hd.com"
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 11",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
 "url": "xxxx",
-"referer": "https://www.123-hd.com"
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 12",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
 "url": "xxxx",
-"referer": "https://www.123-hd.com"
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 13",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
 "url": "xxxx",
-"referer": "https://www.123-hd.com"
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 14",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
 "url": "xxxx",
-"referer": "https://www.123-hd.com"
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 15",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
 "url": "xxxx",
-"referer": "https://www.123-hd.com"
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 {
 "name": "ตอนที่ 16",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/04/The-King-Eternal-Monarch-2020-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
 "url": "xxxx",
-"referer": "https://www.123-hd.com"
+"referer": "https://www.sgcdnseriesn.xyz/"
 },
 
 ]}

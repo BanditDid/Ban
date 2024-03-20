@@ -5,6 +5,13 @@
 "image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
 "stations": [
 {
+"name": "ตอนที่ 2",
+"info": "วันที่ 19 มีนาคม 2567",
+"image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
+"url": "https://www.watchlakorn.in/egdeny/bd6d8afa6536e543092734996a6a0377/aGQ=/master.m3u8",
+"referer": "https://www.watchlakorn.in/"
+},
+{
 "name": "ตอนที่ 1",
 "info": "วันที่ 18 มีนาคม 2567",
 "image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",

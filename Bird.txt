@@ -6,18 +6,35 @@
 "groups": [
 
 {
-"name": "Death Note: Light Up the New World (2016) สมุดมรณะ",
-"info": "ซีรี่ย์พากย์ไทย, ซีรีย์ใหม่ 2023, ซีรี่ย์ไทย",
+"name": "Death Note สมุดโน๊ตกระชากวิญญาณ",
+"info": "ทุกภาค",
 "image": "https://www.x10movies4k.com/wp-content/uploads/2022/07/YtxBrAbxLpmgtY7MKQbAe84gBXzx3Wnaa-185x278.jpg",
 "stations": [
 {
-"name": "Death Note: Light Up the New World (2016) สมุดมรณะ",
-"image": "https://www.x10movies4k.com/wp-content/uploads/2022/07/YtxBrAbxLpmgtY7MKQbAe84gBXzx3Wnaa-185x278.jpg",
-"url": "https://streaming-3.vip-streaming.com:30443/x10movies4k-com/3-ssd/movie/store-36/Death.Note.Light.Up.the.New.World.2016.1080p.BDRip.TH-4K.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjMgMToyMDo0MCBQTSZoYXNoX3ZhbHVlPUJYRGZrOUgrUnhZdnNnK3lGRXpqN3c9PSZ2YWxpZG1pbnV0ZXM9NjA=",
-"referer": "https://www.x10movies4k.com/"
-}
-]
-}
+"name": "Death Note (2006) สมุดโน๊ตกระชากวิญญาณ",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%99%E0%B9%8A%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93-300x450.jpg",
+"url": "https://main.24playerhd.com/m3u8/e8821e5c1ad6930210bcf455/e8821e5c1ad6930210bcf455438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Death Note 2 The Last Name (2006) อวสานสมุดมรณะ",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2-The-Last-Name-2006-%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-300x450.jpg",
+"url": "https://main.24playerhd.com/m3u8/7885833747e0d90202a40fb7/7885833747e0d90202a40fb7438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"Death Note 3 L Change the World (2008) สมุดโน้ตสิ้นโลก",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-3-L-Change-the-World-2008-%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%99%E0%B9%89%E0%B8%95%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-300x450.jpg",
+"url": "https://main.24playerhd.com/m3u8/408d934eb42ec5c2aee80b6e/408d934eb42ec5c2aee80b6e438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"Death Note 4 Light Up the New World (2016) สมุดมรณะ",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-4-Light-Up-the-New-World-2016-%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-300x450.jpg",
+"url": "https://main.24playerhd.com/m3u8/7808b82ad84b9d208b99b94d/7808b82ad84b9d208b99b94d438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+]}
 
 
 ]}

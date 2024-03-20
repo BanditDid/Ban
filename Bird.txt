@@ -4,11 +4,20 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bird.txt",
 "author": "ช่องพี่เบิร์ด",
 "groups": [
+
 {
-      "name": "Death Note: Light Up the New World (2016) สมุดมรณะ",
-      "image": "https://www.x10movies4k.com/wp-content/uploads/2022/07/YtxBrAbxLpmgtY7MKQbAe84gBXzx3Wnaa-185x278.jpg",
-      "url": "https://streaming-3.vip-streaming.com:30443/x10movies4k-com/3-ssd/movie/store-36/Death.Note.Light.Up.the.New.World.2016.1080p.BDRip.TH-4K.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjMgMToyMDo0MCBQTSZoYXNoX3ZhbHVlPUJYRGZrOUgrUnhZdnNnK3lGRXpqN3c9PSZ2YWxpZG1pbnV0ZXM9NjA=",
-      "referer": "https://www.x10movies4k.com/"
-    }
+"name": "Death Note: Light Up the New World (2016) สมุดมรณะ",
+"info": "ซีรี่ย์พากย์ไทย, ซีรีย์ใหม่ 2023, ซีรี่ย์ไทย",
+"image": "https://www.x10movies4k.com/wp-content/uploads/2022/07/YtxBrAbxLpmgtY7MKQbAe84gBXzx3Wnaa-185x278.jpg",
+"stations": [
+{
+"name": "Death Note: Light Up the New World (2016) สมุดมรณะ",
+"image": "https://www.x10movies4k.com/wp-content/uploads/2022/07/YtxBrAbxLpmgtY7MKQbAe84gBXzx3Wnaa-185x278.jpg",
+"url": "https://streaming-3.vip-streaming.com:30443/x10movies4k-com/3-ssd/movie/store-36/Death.Note.Light.Up.the.New.World.2016.1080p.BDRip.TH-4K.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjMgMToyMDo0MCBQTSZoYXNoX3ZhbHVlPUJYRGZrOUgrUnhZdnNnK3lGRXpqN3c9PSZ2YWxpZG1pbnV0ZXM9NjA=",
+"referer": "https://www.x10movies4k.com/"
+}
+]
+}
+
 
 ]}

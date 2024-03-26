@@ -6,7 +6,36 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/DID.txt",
 "groups": [
 
-
+{
+"name"              :     "3 Body Problem (2024) ดาวซานถี่ อุบัติการณ์สงครามล้างโลก",
+"image"             :     "https://www.serie-day.com/wp-content/uploads/2024/03/3-Body-Problem-2024-214x300.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/3bp",
+"import": false
+},
+{
+"name"              :     "Iron Reign (2024) เจ้าพ่อกำปั้นเหล็ก",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/Iron-Reign.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ironf",
+"import": false
+},
+{
+"name"              :     "The Gentlemen (2024) สุภาพบุรุษมาหากัญ",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/thegentlemen",
+"import": false
+},
+{
+"name"              :     "The Signal (2024) สัญญาณ",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Signal.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/thesignal",
+"import": false
+},
+{
+"name"              :     "Furies (2024) ชำระแค้นทรชน",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/furies",
+"import": false
+},
 {
 "name":"ตำนานสัญญาวิวาห์แม่นางพัค",
 "image":"https://www.123-hd.com/wp-content/uploads/2023/11/The-Story-of-Parks-Marriage-Contract.jpg",

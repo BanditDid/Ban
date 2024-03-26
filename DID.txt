@@ -5,7 +5,12 @@
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/660034605/android/sticker.png",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/DID.txt",
 "groups": [
-
+{
+"name"              :     "ชำระแค้นทรชน Furies (2024)",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/furies",
+"import": false
+},
 {
 "name"              :     "3 Body Problem (2024) ดาวซานถี่ อุบัติการณ์สงครามล้างโลก",
 "image"             :     "https://www.serie-day.com/wp-content/uploads/2024/03/3-Body-Problem-2024-214x300.jpg",
@@ -13,29 +18,24 @@
 "import": false
 },
 {
-"name"              :     "Iron Reign (2024) เจ้าพ่อกำปั้นเหล็ก",
+"name"              :     "เจ้าพ่อกำปั้นเหล็ก Iron Reign (2024) ",
 "image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/Iron-Reign.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ironf",
 "import": false
 },
 {
-"name"              :     "The Gentlemen (2024) สุภาพบุรุษมาหากัญ",
+"name"              :     "สุภาพบุรุษมาหากัญ The Gentlemen (2024) ",
 "image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/thegentlemen",
 "import": false
 },
 {
-"name"              :     "The Signal (2024) สัญญาณ",
+"name"              :     "สัญญาณ The Signal (2024)",
 "image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Signal.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/thesignal",
 "import": false
 },
-{
-"name"              :     "Furies (2024) ชำระแค้นทรชน",
-"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/furies",
-"import": false
-},
+
 {
 "name":"ตำนานสัญญาวิวาห์แม่นางพัค",
 "image":"https://www.123-hd.com/wp-content/uploads/2023/11/The-Story-of-Parks-Marriage-Contract.jpg",

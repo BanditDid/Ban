@@ -5,10 +5,10 @@
 "image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
 "stations": [
 {
-"name": "ตอนที่ 4  รออัพเดท",
+"name": "ตอนที่ 4",
 "info": "วันที่ 26 มีนาคม 2567",
 "image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
-"url": "xxxx",
+"url": "https://www.watchlakorn.in/egde/ecdd729df7b63751fdb2c9fa62d7fa6e/NDkzMQ==/NA==/ZGF0YTE1LzI2LTAzLTIwMjQvU29uZ2tocmFtU29tcm90LURpc2M0LTI2LU1hci0yMDI0Lm1wNA==/index-v1-a1.m3u8",
 "referer": "https://www.watchlakorn.in/"
 },
 {

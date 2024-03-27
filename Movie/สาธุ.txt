@@ -22,49 +22,49 @@
 "name": "ตอนที่ 3",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Believers-2024-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-300x450.jpg",
-"url": "xxxx",
+"url": "https://main.24playerhd.com/m3u8/e3c391c64d3e340c420d457b/e3c391c64d3e340c420d457b438.m3u8",
 "referer": "https://www.watchlakorn.in/"
 },
 {
 "name": "ตอนที่ 4",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Believers-2024-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-300x450.jpg",
-"url": "xxxx",
+"url": "https://main.24playerhd.com/m3u8/ca43fc5f652593cc10841676/ca43fc5f652593cc10841676438.m3u8",
 "referer": "https://www.watchlakorn.in/"
 },
 {
 "name": "ตอนที่ 5",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Believers-2024-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-300x450.jpg",
-"url": "xxxx",
+"url": "https://main.24playerhd.com/m3u8/b5907b0e361c7064fb5c0371/b5907b0e361c7064fb5c0371438.m3u8",
 "referer": "https://www.watchlakorn.in/"
 },
 {
 "name": "ตอนที่ 6",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Believers-2024-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-300x450.jpg",
-"url": "xxxx",
+"url": "https://main.24playerhd.com/m3u8/0efb9360acc7304d45427fa8/0efb9360acc7304d45427fa8438.m3u8",
 "referer": "https://www.watchlakorn.in/"
 },
 {
 "name": "ตอนที่ 7",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Believers-2024-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-300x450.jpg",
-"url": "xxxx",
+"url": "https://main.24playerhd.com/m3u8/aa8a6d0d7ead267151255cf9/aa8a6d0d7ead267151255cf9438.m3u8",
 "referer": "https://www.watchlakorn.in/"
 },
 {
 "name": "ตอนที่ 8",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Believers-2024-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-300x450.jpg",
-"url": "xxxx",
+"url": "https://main.24playerhd.com/m3u8/5f1ca10957f65bec20fb1c79/5f1ca10957f65bec20fb1c79438.m3u8",
 "referer": "https://www.watchlakorn.in/"
 },
 {
 "name": "ตอนที่ 9",
 "info": "",
 "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Believers-2024-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-300x450.jpg",
-"url": "xxxx",
+"url": "https://main.24playerhd.com/m3u8/8b0298c51b6fed398588a7d5/8b0298c51b6fed398588a7d5438.m3u8",
 "referer": "https://www.watchlakorn.in/"
 },
 ]}

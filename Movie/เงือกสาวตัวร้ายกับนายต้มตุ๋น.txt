@@ -1,0 +1,132 @@
+{
+"name": "เงือกสาวตัวร้ายกับนายต้มตุ๋น",
+"author": "อัพวันที่ 27 มีนาคม 2567",
+"info": "",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+      "info": "ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/aed477d5-bd9e-4f98-979f-df3ab917c152/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/53c3c76f-0119-4401-8429-6b6413ff1a07/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/a13a5ac2-c2cd-4aaa-adcd-094adb85c4ce/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/5d572b13-5fe9-4fc4-8b45-02286a128345/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/4b2d60dc-21a7-4ae7-8604-fafbfd5c6a0b/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/b7f9a58c-3b36-4c84-bed8-ddc15af69ac6/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/05e48190-a77a-493c-9e35-98d7ba1e1167/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/55ba3ef9-b431-4501-924a-ebd4ff2e9aba/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/51c35c9c-f6a6-4c7c-811a-a56f2f3d53f9/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/69dd49ba-b55e-4985-af04-ed0797355eef/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/b155bd38-f5f7-4605-8e6d-9c4df98b3384/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/ca25dd26-100f-47b4-a9a5-3eee5adf114d/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/b5d5c4ff-0f02-4dc7-a852-ebfcdfef1cad/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/6ab3c30b-d05a-4e1f-a0ec-da564a4fd5c2/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/5492dc20-ee72-4d63-9b16-6c685edb7479/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/8498990a-1f87-4947-8852-417e771dec49/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/c0b27c0f-c970-4a62-8ad5-6cf16b976731/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/b21bbb68-343e-48d8-b8c2-0c6de89ce05f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/db35f982-d33c-471b-be19-420aec78f23a/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 20 (จบ)",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/01/vhBdwKSYOvops4o68X1zNXqEDF1-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/998f28b1-efbd-4218-acdd-a382d525468c/_"
+        }
+      
+
+
+
+]}

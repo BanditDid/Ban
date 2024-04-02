@@ -5,6 +5,13 @@
 "image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
 "stations": [
 {
+"name": "ตอนที่ 5",
+"info": "วันที่ 1 เมษายน 2567",
+"image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
+"url": "https://www.watchlakorn.in/egde/cf1336bad094b17fad0ca940233a5e04/NDkzMQ==/NQ==/ZGF0YTE1LzAxLTA0LTIwMjQvU29uZ2tocmFtU29tcm90LURpc2M1LTEtQXByLTIwMjQubXA0/index-v1-a1.m3u8",
+"referer": "https://www.watchlakorn.in/"
+},
+{
 "name": "ตอนที่ 4",
 "info": "วันที่ 26 มีนาคม 2567",
 "image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",

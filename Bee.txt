@@ -5,6 +5,17 @@
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/655956387/android/sticker.png",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bee.txt",
 "groups": [
+ {
+   "name": "ธี่หยด Death Whisperer (2023)",
+   "image": "https://img.inwiptv.net/postor/20240410001304dsS99k66XydZP6lHStoda5DGtxd.jpg",
+   "stations": [
+    {
+     "name": "ธี่หยด Death Whisperer (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240410001304dsS99k66XydZP6lHStoda5DGtxd.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Death_Whisperer_2023/Death_Whisperer_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }]},
 
   {	
 "name":"สงครามสมรส",

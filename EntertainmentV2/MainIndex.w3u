@@ -66,6 +66,14 @@
 "import":"false"
 },
 {
+"name":"Pu", 
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/665394646/android/sticker.png",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Pu.txt",
+"parental": "true",
+"import":"false"
+},
+
+{
 "name":"Exynos", 
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/653501313/android/sticker.png",
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Exynos.txt",

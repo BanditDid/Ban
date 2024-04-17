@@ -87,7 +87,13 @@
 "parental": "true",
 "import":"false"
 },
-
+{
+"name":"เด็กใหม่บริษัท", 
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/664120604/android/sticker.png",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/A.txt",
+"parental": "true",
+"import":"false"
+},
 {
 "name":"รวม", 
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/654967642/android/sticker.png",

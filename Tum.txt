@@ -1,275 +1,659 @@
 {
-    "name": "Tum",
-    "image": "https://stickershop.line-scdn.net/stickershop/v1/sticker/665350430/android/sticker.png",
-    "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bird.txt",
-    "author": "ช่องพี่ตั้ม",
-  "groups": [
+"name": "Tum",
+"image": "https://stickershop.line-scdn.net/stickershop/v1/sticker/665350430/android/sticker.png",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bird.txt",
+"author": "ช่องพี่ตั้ม",
+"groups": [
+
+{
+"name": "123-HD.com",
+"author": "เจียว เจียว",
+"info": "ถ้าคุณรู้สึกเหนื่อยจงเรียนรู้ที่จะพักแต่อย่าล้มเลิก",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"groups": [
+{
+"name": "หนัง",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"info": "วันไหนที่หมดไฟจงนึกถึงวันแรกที่อยากทำ",
+"groups": [
+{
+"name": "ดูหนังออนไลน์HD",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ดูหนังออนไลน์.w3u",
+"import": "false"
+},
+{
+"name": "หนังภาคต่อ",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังภาคต่อ.w3u",
+"import": "false"
+},
+{
+"name": "หนังใหม่2024",
+"image": "https://th.bing.com/th/id/OIP.D7c1E2YU5ydTuiauiTue_QHaHa?rs=1&pid=ImgDetMain",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังใหม่-2024.w3u",
+"import": "false"
+},
+{
+"name": "หนังใหม่2023",
+"image": "https://png.pngtree.com/png-vector/20220910/ourmid/pngtree-2023-colourful-logo-png-image_6156691.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังใหม่-2023.w3u",
+"import": "false"
+},
+{
+"name": "หนัง2022",
+"image": "https://th.bing.com/th/id/R.ab0300f29392f0fd2352df4d5b87e183?rik=0sOFmJof9Mx6jw&pid=ImgRaw&r=0",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังใหม่-2022.w3u",
+"import": "false"
+},
+{
+"name": "หนัง2021",
+"image": "https://th.bing.com/th/id/R.eeaabd8a6065d250ad10cbf300319f35?rik=Co4gMpVQ0fEJmA&pid=ImgRaw&r=0",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังใหม่-2021.w3u",
+"import": "false"
+},
+{
+"name": "หนัง2020",
+"image": "https://th.bing.com/th/id/R.4cccb8477ad0c313ecb3b5ea8491658d?rik=ES%2b4FZ7hbyGYWA&pid=ImgRaw&r=0",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังใหม่-2020.w3u",
+"import": "false"
+},
+{
+"name": "หนัง2019",
+"image": "https://th.bing.com/th/id/R.4c18718b8b96a7cbb32b68b089369d79?rik=mvJR7di%2fdr%2b21w&pid=ImgRaw&r=0",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังใหม่-2019.w3u",
+"import": "false"
+},
+{
+"name": "หนังชนโรง",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังชนโรง.w3u",
+"import": "false"
+},
+{
+"name": "หนังNetflix",
+"image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ดูหนัง-netflix.w3u",
+"import": "false"
+},
+{
+"name": "หนังฝรั่ง",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังฝรั่ง.w3u",
+"import": "false"
+},
+{
+"name": "หนังไทย",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังไทย.w3u",
+"import": "false"
+},
+{
+"name": "หนังจีน",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังจีน.w3u",
+"import": "false"
+},
+{
+"name": "หนังญี่ปุ่น",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังญี่ปุ่น.w3u",
+"import": "false"
+},
+{
+"name": "หนังอินเดีย",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังอินเดีย.w3u",
+"import": "false"
+},
+{
+"name": "หนังเกาหลี",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังเกาหลี.w3u",
+"import": "false"
+},
+{
+"name": "หนังHBO",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนัง-hbo.w3u",
+"import": "false"
+},
+{
+"name": "รวมหนังmarvel",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_รวมหนัง-marvel.w3u",
+"import": "false"
+},
+{
+"name": "หนังซอมบี้",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังซอมบี้.w3u",
+"import": "false"
+},
+{
+"name": "1970-2021",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/1970-2021.w3u",
+"import": "false"
+}
+]
+},
+{
+"name": "ซีรี่ย์",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"info": "อย่าหวังอะไรจากสิ่งที่ไม่ได้ลงมือทำ",
+"groups": [
+{
+"name": "ดูซีรี่ย์ออนไลน์",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ดูซีรี่ย์ออนไลน์.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์ใหม่2024",
+"image": "https://th.bing.com/th/id/OIP.D7c1E2YU5ydTuiauiTue_QHaHa?rs=1&pid=ImgDetMain",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ซีรี่ย์ใหม่-2024.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์ใหม่2023",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ซีรี่ย์ใหม่-2023.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์ใหม่2022",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ซีรี่ย์ใหม่-2022.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์ใหม่2021",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ซีรี่ย์ใหม่-2021.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์ใหม่2020",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ซีรี่ย์ใหม่-2020.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์พากย์ไทย",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ซีรี่ย์พากย์ไทย.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์ซับไทย",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ซีรี่ย์ซับไทย.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์จีน",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ซีรี่ย์จีน.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์เกาหลี",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ซีรี่ย์เกาหลี.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์ฝรั่ง",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_series-ฝรั่ง.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์ไทย",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_series-ไทย.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์ญี่ปุ่น",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_series-ญี่ปุ่น.w3u",
+"import": "false"
+},
+{
+"name": "ซีรี่ย์วาย",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ซีรีย์วาย.w3u",
+"import": "false"
+}
+]
+},
+{
+"name": "แยกตามประเภท",
+"author": "เจียว เจียว",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"info": "ทำไม่ได้กับไม่ได้ทำผลลัพธ์ที่ได้ต่างกันคือประสบการณ์",
+"groups": [
+{
+"name": "พากย์ไทย",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_พากย์ไทย.w3u",
+"import": "false"
+},
+{
+"name": "ซับไทย",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ซับไทย.w3u",
+"import": "false"
+},
+{
+"name": "ตอนแรก",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_ตอนแรก.w3u",
+"import": "false"
+},
+{
+"name": "united-states",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_united-states.w3u",
+"import": "false"
+},
+{
+"name": "united-kingdom",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_united-kingdom.w3u",
+"import": "false"
+},
+{
+"name": "canada",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_canada.w3u",
+"import": "false"
+},
+{
+"name": "germany",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_germany.w3u",
+"import": "false"
+},
+{
+"name": "หนังไซไฟ",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังไซไฟ.w3u",
+"import": "false"
+},
+{
+"name": "หนังแนวปริศนา",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังแนวปริศนา.w3u",
+"import": "false"
+},
+{
+"name": "หนังระทึกขวัญ",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังระทึกขวัญ.w3u",
+"import": "false"
+},
+{
+"name": "หนังสยองขวัญ",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังสยองขวัญ.w3u",
+"import": "false"
+},
+{
+"name": "Actionบู๊",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังบู๊แอ็คชั่น.w3u",
+"import": "false"
+},
+{
+"name": "Adventureผจญภัย",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังแนวผจญภัย.w3u",
+"import": "false"
+},
+{
+"name": "Biographyชีวิตจริง",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังสร้างจากชีวิตจริง.w3u",
+"import": "false"
+},
+{
+"name": "Comedyตลก",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังตลก.w3u",
+"import": "false"
+},
+{
+"name": "Crimeอาชญากรรม",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังอาชญากรรม.w3u",
+"import": "false"
+},
+{
+"name": "Documentaryสารคดี",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_สารคดี.w3u",
+"import": "false"
+},
+{
+"name": "Dramaชีวิต",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังแนวดราม่า.w3u",
+"import": "false"
+},
+{
+"name": "Familyครอบครัว",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังครอบครัว.w3u",
+"import": "false"
+},
+{
+"name": "Fantasyแฟนตาซี",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_หนังแฟนตาซี.w3u",
+"import": "false"
+}
+]
+},
+{
+"name": "การ์ตูน",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"info": "หากไม่เริ่มต้นในวันนี้ก็ไม่มีทางที่จะสำเร็จได้ในวันพรุ่งนี้",
+"groups": [
+{
+"name": "Animeอนิเมะ",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_anime-อนิเมะ.w3u",
+"import": "false"
+},
+{
+"name": "Animationอนิเมชั่น",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_animation.w3u",
+"import": "false"
+},
+{
+"name": "TheMovieเดอะมูฟวี่",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องUser-BANNEDbyอุ๋งอุ๋ง/123-hd_the-movie-เดอะมูฟวี่.w3u",
+"import": "false"
+}
+]
+}
+]
+},
 
 
-        {
-            "name": "หนัง Nung2hdd",
-            "author": "",
-            "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-            "groups": [
-                {
-                    "name": "หนังใหม่",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_newmovie-2020.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "2024",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_2024.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "2023",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_2023.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "2022",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_2022.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "Marvel Collection",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_marvel-collection.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "Netflix",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_netflix-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "iQiyi",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_iqiyi-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "WeTV",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_wetv-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "Viu",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_viu-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "Disney+ Hotstar",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_disney-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "Amazon Prime",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_หนัง-amazon-prime.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "HBO",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_หนัง-hbo.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "AppleTV+",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_movies-appletv.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังดร่ามา",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_drama.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังแอคชั่น",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_action.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังตลกขำขัน",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_comedy.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังผจญภัย",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_adventure.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังรักโรแมนติก",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_romance.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังอาชญากรรม",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_crime.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังแฟนตาซี",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_fantasy.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังสยองขวัญ",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_horror.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังระทึกขวัญ",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_thriller.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังลึกลับ",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_mystery.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังสงคราม",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_war.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังไซไฟ",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_sci-fi.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "การ์ตูนอนิเมชั่น",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_cartoon.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "สารคดี",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_documentary.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังครอบครัว",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_family.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังชีวประวัติ",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_biography.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังซอมบี้",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_zombie-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังกีฬา",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_sport.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "บรรยายไทย",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_soundtrack-thai.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังวัยรุ่น",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_teenmovies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังซุปเปอร์ฮีโร่",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_superhero-movie.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังอินเดีย",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_cinema-india.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังญี่ปุ่น",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_japan-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังเกาหลี",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_korea-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังฝรั่ง",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_hollywood-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "หนังไทย",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_thai-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "จีน",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_china-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "Collection",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_collection-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "Local_Movie",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_local-movies.w3u",
-                    "import": "false"
-                },
-                {
-                    "name": "TVSHOW",
-                    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-                    "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_tvshow.w3u",
-                    "import": "false"
-                }
-            ]
-        }
-    ]
+
+
+
+
+{
+"name": "หนัง Nung2hdd",
+"author": "",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"groups": [
+{
+"name": "หนังใหม่",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_newmovie-2020.w3u",
+"import": "false"
+},
+{
+"name": "2024",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_2024.w3u",
+"import": "false"
+},
+{
+"name": "2023",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_2023.w3u",
+"import": "false"
+},
+{
+"name": "2022",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_2022.w3u",
+"import": "false"
+},
+{
+"name": "Marvel Collection",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_marvel-collection.w3u",
+"import": "false"
+},
+{
+"name": "Netflix",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_netflix-movies.w3u",
+"import": "false"
+},
+{
+"name": "iQiyi",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_iqiyi-movies.w3u",
+"import": "false"
+},
+{
+"name": "WeTV",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_wetv-movies.w3u",
+"import": "false"
+},
+{
+"name": "Viu",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_viu-movies.w3u",
+"import": "false"
+},
+{
+"name": "Disney+ Hotstar",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_disney-movies.w3u",
+"import": "false"
+},
+{
+"name": "Amazon Prime",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_หนัง-amazon-prime.w3u",
+"import": "false"
+},
+{
+"name": "HBO",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_หนัง-hbo.w3u",
+"import": "false"
+},
+{
+"name": "AppleTV+",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_movies-appletv.w3u",
+"import": "false"
+},
+{
+"name": "หนังดร่ามา",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_drama.w3u",
+"import": "false"
+},
+{
+"name": "หนังแอคชั่น",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_action.w3u",
+"import": "false"
+},
+{
+"name": "หนังตลกขำขัน",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_comedy.w3u",
+"import": "false"
+},
+{
+"name": "หนังผจญภัย",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_adventure.w3u",
+"import": "false"
+},
+{
+"name": "หนังรักโรแมนติก",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_romance.w3u",
+"import": "false"
+},
+{
+"name": "หนังอาชญากรรม",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_crime.w3u",
+"import": "false"
+},
+{
+"name": "หนังแฟนตาซี",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_fantasy.w3u",
+"import": "false"
+},
+{
+"name": "หนังสยองขวัญ",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_horror.w3u",
+"import": "false"
+},
+{
+"name": "หนังระทึกขวัญ",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_thriller.w3u",
+"import": "false"
+},
+{
+"name": "หนังลึกลับ",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_mystery.w3u",
+"import": "false"
+},
+{
+"name": "หนังสงคราม",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_war.w3u",
+"import": "false"
+},
+{
+"name": "หนังไซไฟ",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_sci-fi.w3u",
+"import": "false"
+},
+{
+"name": "การ์ตูนอนิเมชั่น",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_cartoon.w3u",
+"import": "false"
+},
+{
+"name": "สารคดี",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_documentary.w3u",
+"import": "false"
+},
+{
+"name": "หนังครอบครัว",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_family.w3u",
+"import": "false"
+},
+{
+"name": "หนังชีวประวัติ",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_biography.w3u",
+"import": "false"
+},
+{
+"name": "หนังซอมบี้",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_zombie-movies.w3u",
+"import": "false"
+},
+{
+"name": "หนังกีฬา",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_sport.w3u",
+"import": "false"
+},
+{
+"name": "บรรยายไทย",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_soundtrack-thai.w3u",
+"import": "false"
+},
+{
+"name": "หนังวัยรุ่น",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_teenmovies.w3u",
+"import": "false"
+},
+{
+"name": "หนังซุปเปอร์ฮีโร่",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_superhero-movie.w3u",
+"import": "false"
+},
+{
+"name": "หนังอินเดีย",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_cinema-india.w3u",
+"import": "false"
+},
+{
+"name": "หนังญี่ปุ่น",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_japan-movies.w3u",
+"import": "false"
+},
+{
+"name": "หนังเกาหลี",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_korea-movies.w3u",
+"import": "false"
+},
+{
+"name": "หนังฝรั่ง",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_hollywood-movies.w3u",
+"import": "false"
+},
+{
+"name": "หนังไทย",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_thai-movies.w3u",
+"import": "false"
+},
+{
+"name": "จีน",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_china-movies.w3u",
+"import": "false"
+},
+{
+"name": "Collection",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_collection-movies.w3u",
+"import": "false"
+},
+{
+"name": "Local_Movie",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_local-movies.w3u",
+"import": "false"
+},
+{
+"name": "TVSHOW",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/wiseplayพูดคุยbyอุ๋งอุ๋ง/nung2hdd_tvshow.w3u",
+"import": "false"
+}
+]
+}
+]
 }

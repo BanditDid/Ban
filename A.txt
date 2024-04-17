@@ -1,0 +1,187 @@
+{
+"name": "เด็กใหม่",
+"image": "https://stickershop.line-scdn.net/stickershop/v1/sticker/664120604/android/sticker.png",
+"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bird.txt",
+"author": "เด็กใหม่",
+"groups": [
+
+{
+      "name": "Loki (2021) โลกิ Disney+",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/16242eb0-0056-55c8-8ef2-b90a0392fe42.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bf31dd62-5a31-515d-a902-3fef0fe3beff.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1f0d8960-8201-5090-8272-4e31b413392b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2cdd48be-55e8-5e6b-8caf-d53c0330239c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9a00cb63-70a2-58b4-a06c-8b3fb4f749d6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5f3ad5e0-7daa-5b2e-a7ef-141b2b862d78.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/975aca2f-d419-514a-9eb8-7e4ca39c4a9e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/616e16fa-57ff-5056-932e-3cffa5fb557c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4bb9be39-600a-513f-aed8-249a5c79358e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6eac32b3-8368-5a08-bd8c-160b9b63ee81.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8fc54695-7790-52b6-98cb-32a6aaab96da.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/578f8c90-76e2-56b7-b6be-ab6ca8762800.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0f292ff9-0a9d-5d81-88c3-7b1224ac02eb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fadde345-3d14-5497-8c39-3d6536dda031.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4d60e810-2322-5504-9259-611c9b039095.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c0617e9b-c5c2-5cad-b2b2-48ca01e12cb2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/45eaccca-a456-5dec-a64c-efd69d9afe80.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9ccd5f89-f6c0-560b-9400-b21f3ee02f34.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e268091e-b202-511b-81b1-0a146b0f508b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6fc08dd9-9e51-54ff-88ae-2482c550d831.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/72fc393b-6659-552e-8d81-b38cd9125786.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6caf72e0-0aa9-5c63-8f0a-782222334194.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/913d4ff7-9542-5652-8ac2-1f515bab6e8b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e3f9f684-f3bd-5866-8fe4-ac9fdd34b9cb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+
+
+
+]
+}

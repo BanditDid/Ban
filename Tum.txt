@@ -15,7 +15,7 @@
      "name": "SANCTUM (2011) แซงทัม ดิ่ง ท้า ตาย",
      "info": " พากย์ไทย [1080p]",
      "image": "https://www.i-moviehd.com/wp-content/uploads/2019/12/Sanctum-2011-%E0%B9%81%E0%B8%8B%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%A1-%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%97%E0%B9%89%E0%B8%B2-%E0%B8%95%E0%B8%B2%E0%B8%A2.png",
-     "url": "https://xxx.77player.xyz/ioshls/cb8b37565823850a34fc9e764ffc1b83/cb8b37565823850a34fc9e764ffc1b83.m3u8",
+     "url": "https://xxx.77player.xyz/ioshls/81a43a46797b4304bede4ad840a56e25/81a43a46797b4304bede4ad840a56e25.m3u8",
      "referer": "https://https://www.i-moviehd.com/"
     }]},
 

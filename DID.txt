@@ -6,6 +6,234 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/DID.txt",
 "groups": [
 
+ {
+      "name": "Sword and Fairy 1 (2024) ตำนานเซียนกระบี่",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2157ff86-990f-53dd-a75a-210e98ad044b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7e8f2d1d-d911-56cc-bb14-0ba5f58e3c14.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c547a1f2-3207-591f-b336-fbbd3823a814.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/dc5d55cd-ca6e-5ba8-9b3c-e41412e01f3a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ce0a27f9-c78f-5a16-a329-bb9b712f8e0f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/37a6c748-34b5-55a1-b5d6-843506342490.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/370fe01a-1cd9-57b4-8e89-9abb894f9eed.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/51398952-dfd5-5751-b3b9-c2e77497a7b2.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cc555fc1-3983-57ad-b69a-2559b42024e5.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/530278e8-bf75-5a8b-a2ca-7d6974edca76.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c40d1d8d-a6c0-571e-8167-8965682277b2.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7ea42f5d-2da4-5465-9375-2c3a7a6b8e92.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/931843bd-440d-51cd-b0bc-d9f6e853f2ce.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e2e55d75-df3d-51f0-98c3-333429dd134b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/aa40509c-43ac-5fbd-861a-2a22adae35e0.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f3bcd328-5d40-58e3-a789-dbe5f74114c2.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4751ce3c-2018-54cb-9bdb-5aa1159167cd.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4a801e77-90c9-549f-8e20-48ecfb7b4020.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d003e35d-5696-56da-96b9-ce16ced60f69.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a561e0f9-799a-5b45-8e1a-22f0ae9456e7.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bf888655-2564-5b91-878c-fb13fb2a101e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4aecb147-7c51-5e15-bb3d-e8737ebc6fad.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b4605be7-0eae-51b3-9e3e-344e1e480b7a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9ba57b34-a08c-5de9-939c-f6abb49209f8.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/313a956b-dfd4-59fa-a6d1-f8e02952fca5.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d08f99a4-fda6-584a-8d2f-2883fef92277.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f916a567-12bc-5397-b3ea-b5e39afc5184.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2273aeca-8172-58a3-96c3-ea9d69e79217.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+  {
+          "name": "ตอนที่ 29",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1d2604a5-5d84-5cb4-82a8-8517ed977b65.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/6c5af2b0-80f7-55c0-987b-77df405edd43.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
 
 
  {

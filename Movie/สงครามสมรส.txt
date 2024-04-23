@@ -5,12 +5,11 @@
 "image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
 "stations": [
 
-
 {
 "name": "ตอนที่ 9",
-"info": "วันที่ 15 เมษายน 2567",
+"info": "วันที่ 22 เมษายน 2567",
 "image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
-"url": "xxxx",
+"url": "https://www.watchlakorn.in/egde/8f5f5da331ccd99ba091e0f81c196ed2/NDkzMQ==/OQ==/ZGF0YTE1LzIyLTA0LTIwMjQvU29uZ2tocmFtU29tcm90LURpc2M5LTIyLUFwci0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
 "referer": "https://www.watchlakorn.in/"
 },
 {

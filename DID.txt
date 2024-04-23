@@ -227,7 +227,97 @@
 
 
 
-
+ {
+      "name": "Different Princess ฮวาชิงเกอ ป่วนรักทะลุมิติ (2024) พากย์ไทย",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/815d7f9f-bd3e-5d51-85af-a6eec9422ae9.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/453b8cfd-a9e8-58d1-81b9-9c84706fce9f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bfb348ae-4039-5e5a-ac00-84e0fcc6091b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e0c67871-1d61-533b-a0db-118ef3362434.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/262099a7-dae0-5ebf-a2e7-71ade147f782.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0d05bc46-28f3-5cb7-8474-0fd093d760c6.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4b82c6fe-8835-5942-a263-c6e8d8e7ae82.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a353fa59-d2be-57f0-adc1-0c3bdc597f2e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3da6e823-83cd-50dd-8421-97012a52c7ed.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/399e13a7-2c44-55af-a00d-fd50ba0dc808.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/00f00f78-cd5a-5b20-851b-20e1aa3c5604.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2b2e3463-e109-57cf-80ae-870e8f1c4eb3.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
 
 
 

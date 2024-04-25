@@ -5,6 +5,21 @@
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/655956387/android/sticker.png",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bee.txt",
 "groups": [
+
+{
+"name"              :     "ลมเล่นไฟ",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1711643326.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ลมเล่นไฟ",
+"import": false
+},
+  {	
+"name":"สงครามสมรส",
+"image":"https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/สงครามสมรส.txt",
+"import":"true"
+},
+
+
  {
    "name": "ธี่หยด Death Whisperer (2023)",
    "image": "https://img.inwiptv.net/postor/20240410001304dsS99k66XydZP6lHStoda5DGtxd.jpg",
@@ -17,12 +32,7 @@
      "referer": "https://fw4free.com/"
     }]},
 
-  {	
-"name":"สงครามสมรส",
-"image":"https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/สงครามสมรส.txt",
-"import":"true"
-},
+
 
   {	
 "name":"สาธุ",

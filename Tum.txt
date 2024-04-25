@@ -5,7 +5,66 @@
 "author": "ช่องพี่ตั้ม",
 "groups": [
 
-
+    {
+      "name": "Halo (2022) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-ซับไทย-300x450.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-ซับไทย-300x450.png",
+          "url": "https://xxx.77player.xyz/autoplaylist/02ec03d517431aad5c198eeb731750fe/02ec03d517431aad5c198eeb731750fe.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-ซับไทย-300x450.png",
+          "url": "https://xxx.77player.xyz/autoplaylist/496f66484ed3ecd32d01717e32089702/496f66484ed3ecd32d01717e32089702.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-ซับไทย-300x450.png",
+          "url": "https://xxx.77player.xyz/autoplaylist/fbf0e0c4228e833893bb8b33b83566a8/fbf0e0c4228e833893bb8b33b83566a8.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-ซับไทย-300x450.png",
+          "url": "https://xxx.77player.xyz/autoplaylist/0536ec7ce7c022902b7b3ea821b88f4f/0536ec7ce7c022902b7b3ea821b88f4f.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-ซับไทย-300x450.png",
+          "url": "https://xxx.77player.xyz/autoplaylist/a660d800be09c1a440157dc33beb041b/a660d800be09c1a440157dc33beb041b.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-ซับไทย-300x450.png",
+          "url": "https://xxx.77player.xyz/autoplaylist/3971c3b481a7798b8f1e12061f064d8b/3971c3b481a7798b8f1e12061f064d8b.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-ซับไทย-300x450.png",
+          "url": "https://xxx.77player.xyz/autoplaylist/1bae25cd8f4d52683b8796c950e815b8/1bae25cd8f4d52683b8796c950e815b8.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-ซับไทย-300x450.png",
+          "url": "https://xxx.77player.xyz/autoplaylist/2adfc332a756421e9be2dbe10e91aa79/2adfc332a756421e9be2dbe10e91aa79.m3u8"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-ซับไทย-300x450.png",
+          "url": "https://xxx.77player.xyz/autoplaylist/76a8f5ee94bb564eb68c070ef3c11449/76a8f5ee94bb564eb68c070ef3c11449.m3u8"
+        }
+      ]
+    },
 
  {
    "name": "SANCTUM (2011) แซงทัม ดิ่ง ท้า ตาย ",

@@ -5,6 +5,17 @@
 "author": "Pu",
 "groups": [
 
+ {
+   "name": "My Zombabe (2024) ต่อให้เป็นซอมบี้… ก็จะรัก",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/04/My-Zombabe-2024-%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89.-%E0%B8%81%E0%B9%87%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%81-187x269.jpg",
+   "stations": [
+    {
+     "name": "My Zombabe (2024) ต่อให้เป็นซอมบี้… ก็จะรัก",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/04/My-Zombabe-2024-%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89.-%E0%B8%81%E0%B9%87%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%81-187x269.jpg",
+     "url": "https://main.24playerhd.com:443/m3u8/488e005d60cc1cdb90acd262/488e005d60cc1cdb90acd262438.m3u8",
+     "referer": "https://fw4free.com/"
+    }]},
 
  {
    "name": "ของแขก ",

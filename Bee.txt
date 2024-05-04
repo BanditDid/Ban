@@ -9,7 +9,7 @@
 {
 "name"              :     "ลมเล่uไฟ",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1711643326.jpg",
-"url"               :     "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/โaมlล่uไฟ",
+"url"               :     "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/ลม",
 "import": false
 },
 

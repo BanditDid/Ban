@@ -5,6 +5,20 @@
 "author": "Pu",
 "groups": [
 
+
+ {
+   "name": "เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาวเวอร์",
+   "image": "https://2umv.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024-225x300-1.webp",
+   "stations": [
+    {
+     "name": "เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาวเวอร์",
+     "info": " 2024",
+     "image": "https://2umv.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024-225x300-1.webp",
+     "url": "https://zplays.xyz/1a6d0156-2987-4f88-8da2-fdbe472d1a55/0",
+     "referer": "https://fw4free.com/"
+    }]},
+
+
  {
    "name": "My Zombabe (2024) ต่อให้เป็นซอมบี้… ก็จะรัก",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/04/My-Zombabe-2024-%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89.-%E0%B8%81%E0%B9%87%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%81-187x269.jpg",

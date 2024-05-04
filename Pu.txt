@@ -6,6 +6,20 @@
 "groups": [
 
 
+
+
+
+ {
+   "name": "จับ มือ ผี",
+   "image": "https://www.037hdmovie.com/wp-content/uploads/2023/09/Talk-to-Me-2023.jpg",
+   "stations": [
+    {
+     "name": "จับ มือ ผี",
+     "info": " 2023",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2023/09/Talk-to-Me-2023.jpg",
+     "url": "https://hlsp2p.xyz/view/102ed7cb-e9af-52be-aef0-cdcf82d3f844.m3u8",
+     "referer": "https://fw4free.com/"
+    }]},
  {
    "name": "เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาวเวอร์",
    "image": "https://2umv.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024-225x300-1.webp",

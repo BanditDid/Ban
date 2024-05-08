@@ -102,6 +102,13 @@
           "url": "https://www.sgcdnseriesn.xyz/view/931843bd-440d-51cd-b0bc-d9f6e853f2ce.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
+{
+          "name": "ตอนที่ 13 สำรอง",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://oklive-1.xyz/hls/QjB3ZXZsejNMdjVpNFRsZFlIM2FEOGEydHpnenZndExtT21CejVZTFRRR0ZZak4xOU1lRFN1VFk2QlMwdDdQQUV0eFJBRkI0TnF1Z0s2ZFZBMDE5Y0sraTFNM21DS0t0YmFnMXcxc3VyY003ckF5UFFyNlhFNnorUTZ5eUJabHN0dnJRNW5YUDBtKzQyY1FHWHJuTk9JbXJMRVFaVkdNZm9TRWFGTUsxNEVtUG1ENlI5VFhBWG1KQWYrUnpHeisx",
+          "referer": "https://320hd.com/"
+        },
         {
           "name": "ตอนที่ 14",
           "info": "ซับไทย",

@@ -6,7 +6,12 @@
 "groups": [
 
 
-
+{
+"name"              :     "บางกอกคณิกา",
+"image"             :     "https://thethaiger.com/th/wp-content/uploads/2024/02/425491273_122169424892009598_7470095559076187036_n.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/บางกอกคณิกา",
+"import": false
+},
 
 
  {

@@ -1,10 +1,154 @@
 {
     "name": "หนังใหม่-2024",
-    "author": "update 2024-05-15 21:26:51",
+    "author": "update 2024-05-15 21:50:18",
     "info": "",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNulC3K8kda8lF_XaJgV3lu2kzCxqzrj2uBnG0jiCODXVxoUhNTfkxBTA&s=10",
     "key": [],
     "stations": [
+        {
+            "name": "Godzilla x Kong The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024-ก็อดซิลล่า-ปะทะ-คอง-2-อาณาจักรใหม่-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/16c7aea31ac96ecfd2fd7fba/16c7aea31ac96ecfd2fd7fba.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "The Idea of You (2024) ภาพฝัน ฉันกับเธอ",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Idea-of-You-2024-ภาพฝัน-ฉันกับเธอ-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/2b86cb37d5ecaa46b4f2a161/2b86cb37d5ecaa46b4f2a161.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "The Beatles Let It Be (2024)",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Beatles-Let-It-Be-2024-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/0ed7888f99f4329d19e0b34f/0ed7888f99f4329d19e0b34f.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Firewire Sniper (2024) ภารกิจกล้า ฝ่ากระสุน",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Firewire-Sniper-2024-ภารกิจกล้า-ฝ่ากระสุน-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/e82e639179a6c8d136ae8b0e/e82e639179a6c8d136ae8b0e.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Love Without Permission (2024) โปเยโปโลเย รักสูญสลาย",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Love-Without-Permission-2024-โปเยโปโลเย-รักสูญสลาย-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/ad15178c7262421f44e44623/ad15178c7262421f44e44623.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "All India Rank (2024)",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/All-India-Rank-2024-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/c2da81fd823d373b850a1f05/c2da81fd823d373b850a1f05.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Article 370 (2024) มาตรา 370",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Article-370-2024-มาตรา-370-1-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/23490e0f98edc321af7e5e37/23490e0f98edc321af7e5e37.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "The Ministry of Ungentlemanly Warfare (2024) แสบจารชนคนพลิกโลก",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Ministry-of-Ungentlemanly-Warfare-2024-แสบจารชนคนพลิกโลก-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/7b530d980c36e00cdc93562a/7b530d980c36e00cdc93562a.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes-2024-อาณาจักรแห่งพิภพวานร-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/56510ea03cbad4684cea507b/56510ea03cbad4684cea507b.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/c50a8b619306a421c75580ae/c50a8b619306a421c75580ae.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Living with Leopards (2024) อยู่กับเสือดาว",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Living-with-Leopards-2024-อยู่กับเสือดาว-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/a2e659f5265ee1054d53953b/a2e659f5265ee1054d53953b.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "The Guardian Of The Monarchs (2024) ผู้พิทักษ์ผีเสื้อ",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Guardian-Of-The-Monarchs-2024-ผู้พิทักษ์ผีเสื้อ-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/f2f7b1cc50da0c7642921d24/f2f7b1cc50da0c7642921d24.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Mother of the Bride (2024) แม่เจ้าสาว",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Mother-of-the-Bride-2024-แม่เจ้าสาว-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/c46299a01e83d0ab11e5f69c/c46299a01e83d0ab11e5f69c.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Trinil (2024) ทวงร่างนางแค้น",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Trinil-2023-ทวงร่างนางแค้น-1-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/daed77de6b1838caf881386a/daed77de6b1838caf881386a.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Lisa Frankenstein (2024) ลิซ่า แฟรงเกนสไตน์",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Lisa-Frankenstein-2024-1-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/6962dc44356e8b6efed3ae5c/6962dc44356e8b6efed3ae5c.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Yi Mei Returns (2024) มือปราบอี้เหม่ย",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Yi-Mei-Returns-2024-มือปราบอี้เหม่ย-1-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/42c09dc28959de040ffb389f/42c09dc28959de040ffb389f.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "The Meaning Of The Word (2024)",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Meaning-Of-The-Word-2024-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/196598f11babd9f313fe878b/196598f11babd9f313fe878b.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Kung Fu Panda 4 (2024) กังฟูแพนด้า 4",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/946eb89924236cf4aa706a05/946eb89924236cf4aa706a05.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/1e4fffc35827f85906dd1bd3/1e4fffc35827f85906dd1bd3.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Abigail (2024)",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Abigail-2024-1-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/4361d16a546c1d932740bf58/4361d16a546c1d932740bf58.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "The Final Attack on Wembley (2024)",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Final-Attack-on-Wembley-2024-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/f7f50ad53641accf60f54959/f7f50ad53641accf60f54959.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "All Lives (2024) เส้นทางชีวิต",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/All-Lives-2024-เส้นทางชีวิต-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/c87a1260d4811719e4a1a60b/c87a1260d4811719e4a1a60b.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "The Monster in the Abyss (2024) เบฮีมอธแห่งขุมนรก",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Monster-in-the-Abyss-2024-เบฮีมอธแห่งขุมนรก-1-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/dfd167f5fe4b4a39c208f443/dfd167f5fe4b4a39c208f443.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Shi Qian Guai Shou (2024)",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Shi-Qian-Guai-Shou-2024-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/70e785416a9253932deb6b82/70e785416a9253932deb6b82.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
         {
             "name": "The Thundermans Return (2024)",
             "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Thundermans-Return-2024-300x450.jpg",

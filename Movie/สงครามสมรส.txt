@@ -1,10 +1,18 @@
 {
 "name": "สงครามสมรส",
-"author": "อัพวันที่ 7 พฤษภาคม 2567",
+"author": "อัพวันที่ 14 พฤษภาคม 2567",
 "info": "",
 "image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
 "stations": [
 
+
+{
+"name": "ตอนที่ 16",
+"info": "วันที่ 14 พฤษภาคม 2567",
+"image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
+"url": "https://www.watchlakorn.in/egde/da457ca6d0ed4381318c1abee0b59f31/NDkzMQ==/MTY=/ZGF0YTE1LzE0LTA1LTIwMjQvU29uZ2tocmFtU29tcm90LURpc2MxNi0xNC1NYXktMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+"referer": "https://www.watchlakorn.in/"
+},
 
 {
 "name": "ตอนที่ 15",

@@ -7,7 +7,7 @@
 {
 "name":"หนังใหม่2024 S1",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNulC3K8kda8lF_XaJgV3lu2kzCxqzrj2uBnG0jiCODXVxoUhNTfkxBTA&s=10",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/123-hd_หนังใหม่-2024.txt",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/123-hd_หนังใหม่-2024.txt",
 "referer":"",
 "import":"false",
 "info":"" 
@@ -42,7 +42,7 @@
 {
 "name":"หนัง Netflix",
 "image":"https://image.bangkokbiznews.com/image/kt/media/image/news/2020/03/30/873498/750x422_873498_1585570727.jpg",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/123-hd_ดูหนัง-netflix.txt",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/123-hd_ดูหนัง-netflix.txt",
 "import":"false"
 },
 

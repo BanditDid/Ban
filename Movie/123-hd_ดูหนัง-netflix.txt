@@ -1,6 +1,6 @@
 {
     "name": "ดูหนัง-netflix",
-    "author": "update 2024-05-15 20:04:35",
+    "author": "update 2024-05-15 20:24:10",
     "info": "",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNulC3K8kda8lF_XaJgV3lu2kzCxqzrj2uBnG0jiCODXVxoUhNTfkxBTA&s=10",
     "key": [],
@@ -560,7 +560,7 @@
         {
             "name": "Tokyo Revengers (2021) โตเกียว รีเวนเจอร์ส",
             "image": "https://www.123-hd.com//wp-content/uploads/2022/08/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส-300x450.png",
-            "url": "https://main.24playerhd.com/newplaylist/18a4ca3ea0cad2ab1d42d41b4503bfde/18a4ca3ea0cad2ab1d42d41b4503bfde.m3u8",
+            "url": "https://main.24playerhd.com/newplaylist/9274de1051c4e665915602ed02ae04bf/9274de1051c4e665915602ed02ae04bf.m3u8",
             "referer": "https://www.123-hd.com/"
         },
         {

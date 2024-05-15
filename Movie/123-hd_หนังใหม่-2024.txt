@@ -1,10 +1,46 @@
 {
     "name": "หนังใหม่-2024",
-    "author": "update 2024-05-15 20:21:07",
+    "author": "update 2024-05-15 20:23:12",
     "info": "",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNulC3K8kda8lF_XaJgV3lu2kzCxqzrj2uBnG0jiCODXVxoUhNTfkxBTA&s=10",
     "key": [],
     "stations": [
+        {
+            "name": "The Thundermans Return (2024)",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Thundermans-Return-2024-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/d259db2405e818890092058b/d259db2405e818890092058b.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Turtles All the Way Down (2024) กลเกลียวสุดห้วงกาล",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Turtles-All-the-Way-Down-2024-กลเกลียวสุดห้วงกาล-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/75233bdccb90ee2c38da5ce6/75233bdccb90ee2c38da5ce6.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Red (2024)",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Red-2024-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/8dff5c74785678f8292cfeb2/8dff5c74785678f8292cfeb2.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Shaitaan (2024) ซาตาน",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Shaitaan-2024-ซาตาน-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/4af293223ac969dc028b3b26/4af293223ac969dc028b3b26.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Prom Dates (2024)",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Prom-Dates-2024-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/1c8c69b3a08e9a579f16ede9/1c8c69b3a08e9a579f16ede9.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Unfrosted (2024) ศึกป๊อปทาร์ต",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Unfrosted-2024-ศึกป๊อปทาร์ต-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/0ed3cf2a8e795bf648eda9d9/0ed3cf2a8e795bf648eda9d9.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
         {
             "name": "Chief of Station (2024)",
             "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Chief-of-Station-2024-300x450.jpg",
@@ -111,84 +147,6 @@
             "name": "Monkey Man (2024)",
             "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Monkey-Man-2024-1-300x450.jpg",
             "url": "https://main.24playerhd.com/newplaylist/88689f1750d819b9dad92896/88689f1750d819b9dad92896.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "The Package (2024) พัสดุฝ่าแดนมรณะ",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/The-Package-2024-พัสดุฝ่าแดนมรณะ-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/7d371c2891fa80050f06cca2/7d371c2891fa80050f06cca2.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "City Hunter (2024) ซิตี้ ฮันเตอร์",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/City-Hunter-2024-ซิตี้-ฮันเตอร์-1-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/e3ad9f898e1662e4960ce065/e3ad9f898e1662e4960ce065.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "The Doomsday Cult Of Antares De La Luz (2024) ลัทธิวันสิ้นโลก",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/The-Doomsday-Cult-Of-Antares-De-La-Luz-2024-ลัทธิวันสิ้นโลก-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/e21344af1d210062491251da/e21344af1d210062491251da.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Yolo-2024-หมวยย้วย...มวยไม่ยอมม้วย-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/c6a22b970e5b4c0f03349d74/c6a22b970e5b4c0f03349d74.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Exhuma (2024) ขุดมันขึ้นมาจากหลุม",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Exhuma-2024-ขุดมันขึ้นมาจากหลุม-1-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/9ca29d1330daffee4a9f1224/9ca29d1330daffee4a9f1224.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Tigers on the Rise (2024)",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Tigers-on-the-Rise-2024-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/ab7fe960024355943cf35371/ab7fe960024355943cf35371.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Monkey Man (2024)",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Monkey-Man-2024-1-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/88689f1750d819b9dad92896/88689f1750d819b9dad92896.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "The Package (2024) พัสดุฝ่าแดนมรณะ",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/The-Package-2024-พัสดุฝ่าแดนมรณะ-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/7d371c2891fa80050f06cca2/7d371c2891fa80050f06cca2.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "City Hunter (2024) ซิตี้ ฮันเตอร์",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/City-Hunter-2024-ซิตี้-ฮันเตอร์-1-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/e3ad9f898e1662e4960ce065/e3ad9f898e1662e4960ce065.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "The Doomsday Cult Of Antares De La Luz (2024) ลัทธิวันสิ้นโลก",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/The-Doomsday-Cult-Of-Antares-De-La-Luz-2024-ลัทธิวันสิ้นโลก-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/e21344af1d210062491251da/e21344af1d210062491251da.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Yolo-2024-หมวยย้วย...มวยไม่ยอมม้วย-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/c6a22b970e5b4c0f03349d74/c6a22b970e5b4c0f03349d74.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Exhuma (2024) ขุดมันขึ้นมาจากหลุม",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Exhuma-2024-ขุดมันขึ้นมาจากหลุม-1-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/9ca29d1330daffee4a9f1224/9ca29d1330daffee4a9f1224.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Tigers on the Rise (2024)",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Tigers-on-the-Rise-2024-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/ab7fe960024355943cf35371/ab7fe960024355943cf35371.m3u8",
             "referer": "https://www.123-hd.com/"
         },
         {
@@ -333,108 +291,6 @@
             "name": "The Tearsmith (2024) เจ้าแห่งน้ำตา",
             "image": "https://www.123-hd.com//wp-content/uploads/2024/04/The-Tearsmith-2024-เจ้าแห่งน้ำตา-300x450.jpg",
             "url": "https://main.24playerhd.com/newplaylist/49f39299ee648c40ec9027fe/49f39299ee648c40ec9027fe.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "The Third Suspect (2024) ผู้ต้องสงสัยคนที่สาม",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/The-Third-Suspect-2024-ผู้ต้องสงสัยคนที่สาม-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/9d710345294bd7b81ad46b22/9d710345294bd7b81ad46b22.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Guntur Kaaram (2024) เจ้าพ่อกุนตูร์ ",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Guntur-Kaaram-2024-เจ้าพ่อกุนตูร์-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/fad985a1d78de8c72a23f4a0/fad985a1d78de8c72a23f4a0.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "To Kill a Tiger (2024) เมื่อต้องฆ่าเสือ ",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/04/To-Kill-a-Tiger-2024-เมื่อต้องฆ่าเสือ-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/a61fc8dcf33f4d3155bd9af1/a61fc8dcf33f4d3155bd9af1.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Zhou Gong Subdues Demons (2024) ตระกูลโจวปราบปีศาจ",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/Zhou-Gong-Subdues-Demons-2024-ตระกูลโจวปราบปีศาจ-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/a0151463eb015c7f054ada1a/a0151463eb015c7f054ada1a.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Ae Watan Mere Watan (2024) อินเดียที่รัก",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/Ae-Watan-Mere-Watan-2024-อินเดียที่รัก-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/693384e24d3128c89505964e/693384e24d3128c89505964e.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Sianviathan (2024) สัตว์ร้ายมหึมา",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/Sianviathan-2024-สัตว์ร้ายมหึมา-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/f31620653ddbec82514a4c4b/f31620653ddbec82514a4c4b.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Strange Tales of a Lonely Studio (2024) เรื่องเล่าลึกลับเหลียวไจ",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/Strange-Tales-of-a-Lonely-Studio-2024-เรื่องเล่าลึกลับเหลียวไจ-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/68ad093f291359c660e4ab32/68ad093f291359c660e4ab32.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Rest In Peace (2024) สู่สุคติ",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/Rest-In-Peace-2024-สู่สุคติ-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/b34898190bac6fc9400c8a48/b34898190bac6fc9400c8a48.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "No Pressure (2024) รักไม่กดดัน",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/No-Pressure-2024-รักไม่กดดัน-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/c8eaa7efa06473988401fe80/c8eaa7efa06473988401fe80.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Land of Bad (2024)",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/02/Land-of-Bad-2024-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/03ff12b2a073ee15804d46a8/03ff12b2a073ee15804d46a8.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Crime List (2024) บันทึกอาชญากรรม",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/Crime-List-2024-บันทึกอาชญากรรม-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/9460ed17dbb1536ed10e22e4/9460ed17dbb1536ed10e22e4.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Teri Baaton Mein Aisa Uljha Jiya (2024)",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/Teri-Baaton-Mein-Aisa-Uljha-Jiya-2024-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/ad11d17faab551cb6f95bfa7/ad11d17faab551cb6f95bfa7.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Rob N Roll (2024) มหากาพย์ปล้นจารชน",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/Rob-N-Roll-2024-มหากาพย์ปล้นจารชน-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/e1758ea5bfbf71e84efd5c3c/e1758ea5bfbf71e84efd5c3c.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Demon Slayer Kimetsu no Yaiba To the Hashira Training (2024) ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training-2024-ปาฏิหาริย์แห่งสายสัมพันธ์-สู่การสั่งสอนของเสาหลัก-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/acb4ead4585137e292343b7b/acb4ead4585137e292343b7b.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Marmalade (2024) แผนปล้นยัยส้มซ่า",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/02/Marmalade-2024-แผนปล้นยัยส้มซ่า-1-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/87dda96e3809212c208a59f5/87dda96e3809212c208a59f5.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "Fighter (2024) นักสู้ปีกเหล็ก",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/Fighter-2024-นักสู้ปีกเหล็ก-1-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/2d2a6811bca4fd11823fb700/2d2a6811bca4fd11823fb700.m3u8",
-            "referer": "https://www.123-hd.com/"
-        },
-        {
-            "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
-            "image": "https://www.123-hd.com//wp-content/uploads/2024/03/The-Casagrandes-Movie-2024-เดอะ-คาซากรานเดส์-มูฟวี่-300x450.jpg",
-            "url": "https://main.24playerhd.com/newplaylist/923fad2900aa105fc77a4247/923fad2900aa105fc77a4247.m3u8",
             "referer": "https://www.123-hd.com/"
         },
         {
@@ -705,6 +561,18 @@
             "name": "This Is Me... Now (2024) ดิส อิส มี นาว เรื่องราวความรัก",
             "image": "https://www.123-hd.com//wp-content/uploads/2024/02/This-Is-Me...-Now-2024-ดิส-อิส-มี-นาว-เรื่องราวความรัก-300x450.jpg",
             "url": "https://main.24playerhd.com/newplaylist/6c64011d97068c8131a69747/6c64011d97068c8131a69747.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Lights Out (2024)",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/02/Lights-Out-2024-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/f12ce8a0c723a30cb8a65835/f12ce8a0c723a30cb8a65835.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Kun In The Distant Ocean (2024) คุน สัตว์ประหลาดแห่งทะเลเหนือ",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/02/Kun-In-The-Distant-Ocean-2024-คุน-สัตว์ประหลาดแห่งทะเลเหนือ-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/5543935c9157578e5cb5e3b0/5543935c9157578e5cb5e3b0.m3u8",
             "referer": "https://www.123-hd.com/"
         },
         {

@@ -10,7 +10,7 @@
 {
 "name":"หนังใหม่ 2024",
 "image":"https://docs.google.com/uc?export=view&id=1-2xfkh7jTfw11VT7UMA4KganZi9xm5V1",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/test_code1.txt",
+"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/123-hd_หนังใหม่-2024.txt",
 "referer":"",
 "import":"false",
 "info":"" 

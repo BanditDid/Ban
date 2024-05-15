@@ -1,0 +1,8 @@
+{
+    "name": "ดูหนัง-netflix",
+    "author": "update 2024-05-15 18:42:33",
+    "info": "",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNulC3K8kda8lF_XaJgV3lu2kzCxqzrj2uBnG0jiCODXVxoUhNTfkxBTA&s=10",
+    "key": [],
+    "stations": []
+}

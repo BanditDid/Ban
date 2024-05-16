@@ -5,6 +5,18 @@
 "author": "Pu",
 "groups": [
 
+{
+   "name": "Elevator Game ลิฟต์ซ่อนผี (2023)",
+   "image": "https://bbk100.xyz/media/cache/movie_sm/202405/movie/6433166bc0cb799d99207f1562d68182.jpg",
+   "stations": [
+   {
+      "name": "Elevator Game ลิฟต์ซ่อนผี (2023)",
+      "image": "https://img.inwiptv.net/postor/20240510151157a4Zb13jow8RqJkYFgCUSdmzJCWq.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Elevator_Game_2023/Elevator_Game_2023_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },]},
+
+
 
 {
 "name"              :     "บางกอกคณิกา",

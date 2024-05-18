@@ -28,6 +28,12 @@
             "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Dog-Days-Are-Over-2024-สู่อนาคตที่ใหม่ที่ใหญ่ยิ่ง-1-300x450.jpg",
             "url": "https://main.24playerhd.com/newplaylist/52c81e8d235c8a36ec676484/52c81e8d235c8a36ec676484.m3u8",
             "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Sting (2024)",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Sting-2024-1-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/39d19f147664ad2fa0a268ab/39d19f147664ad2fa0a268ab.m3u8",
+            "referer": "https://www.123-hd.com/"
         }
     ]
 }

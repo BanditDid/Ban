@@ -1,8 +1,21 @@
 {
     "name": "หนังใหม่-2024",
-    "author": "update 2024-05-18 10:36:13",
+    "author": "update 2024-05-18 10:37:45",
     "info": "",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNulC3K8kda8lF_XaJgV3lu2kzCxqzrj2uBnG0jiCODXVxoUhNTfkxBTA&s=10",
     "key": [],
-    "stations": []
+    "stations": [
+        {
+            "name": "Mai (2024) รักของไม",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Mai-2024-รักของไม-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/f914d3e0c1676469699157b9/f914d3e0c1676469699157b9.m3u8",
+            "referer": "https://www.123-hd.com/"
+        },
+        {
+            "name": "Thelma the Unicorn (2024) ยูนิคอร์นน้อยเทลม่า",
+            "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Thelma-the-Unicorn-2024-ยูนิคอร์นน้อยเทลม่า-300x450.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/5c2e13199e388eb9b5b80e70/5c2e13199e388eb9b5b80e70.m3u8",
+            "referer": "https://www.123-hd.com/"
+        }
+    ]
 }

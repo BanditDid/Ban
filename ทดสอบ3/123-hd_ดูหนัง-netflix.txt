@@ -2704,6 +2704,12 @@
       "image": "https://www.123-hd.com//wp-content/uploads/2024/05/May-the-Devil-Take-You-2018-บ้านเฮี้ยน-วิญญาณโหด-300x450.jpg",
       "url": "https://main.24playerhd.com/newplaylist/f22be768697083a0b001ff86/f22be768697083a0b001ff86.m3u8",
       "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The Atypical Family (2024) ครอบครัวเหนือธรรมชาติ",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Atypical-Family-2024-ครอบครัวเหนือธรรมชาติ-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/e04a621e38bdb178eaaa9d04/e04a621e38bdb178eaaa9d04.m3u8",
+      "referer": "https://www.123-hd.com/"
     }
   ]
 }

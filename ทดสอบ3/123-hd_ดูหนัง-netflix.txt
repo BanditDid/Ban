@@ -2728,6 +2728,12 @@
       "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Thelma-the-Unicorn-2024-ยูนิคอร์นน้อยเทลม่า-300x450.jpg",
       "url": "https://main.24playerhd.com/newplaylist/5c2e13199e388eb9b5b80e70/5c2e13199e388eb9b5b80e70.m3u8",
       "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Power (2024) ตำรวจ อำนาจ และอิทธิพล",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Power-2024-ตำรวจ-อำนาจ-และอิทธิพล-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/aa3d9e26668f1096d47a7f3d/aa3d9e26668f1096d47a7f3d.m3u8",
+      "referer": "https://www.123-hd.com/"
     }
   ]
 }

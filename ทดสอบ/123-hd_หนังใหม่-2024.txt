@@ -1,6 +1,6 @@
 {
   "name": "123-hd",
-  "author": "update 2024-05-19 21:54:10",
+  "author": "update 2024-05-19 21:55:37",
   "info": "",
   "image": "https://fw4free.com/images/logo7.png",
   "key": [],
@@ -4185,6 +4185,78 @@
       "name": "Amar Singh Chamkila (2024) ตำนานเพลง แห่งปัญจาม",
       "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Amar-Singh-Chamkila-2024-ตำนานเพลง-แห่งปัญจาม-300x450.jpg",
       "url": "https://main.24playerhd.com/newplaylist/ec2e7e2ae27f1e1cec5ffbd9/ec2e7e2ae27f1e1cec5ffbd9.m3u8",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Golden Kamuy (2024) โกลเดนคามุย",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Golden-Kamuy-2024-โกลเดนคามุย-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/f054df846e33d595230eecee/f054df846e33d595230eecee.m3u8",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "IF (2024) เพื่อนในจินตนาการ",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/IF-2024-เพื่อนในจินตนาการ-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/563cb3ff09a1edee1059b9b6/563cb3ff09a1edee1059b9b6.m3u8",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Challengers (2024) ชาเลนเจอร์ส",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Challengers-2024-ชาเลนเจอร์ส-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/b885771199a62075eb431987/b885771199a62075eb431987.m3u8",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Mai (2024) รักของไม",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Mai-2024-รักของไม-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/f914d3e0c1676469699157b9/f914d3e0c1676469699157b9.m3u8",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Thelma the Unicorn (2024) ยูนิคอร์นน้อยเทลม่า",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Thelma-the-Unicorn-2024-ยูนิคอร์นน้อยเทลม่า-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/5c2e13199e388eb9b5b80e70/5c2e13199e388eb9b5b80e70.m3u8",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Power (2024) ตำรวจ อำนาจ และอิทธิพล",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Power-2024-ตำรวจ-อำนาจ-และอิทธิพล-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/aa3d9e26668f1096d47a7f3d/aa3d9e26668f1096d47a7f3d.m3u8",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Golden Kamuy (2024) โกลเดนคามุย",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Golden-Kamuy-2024-โกลเดนคามุย-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/f054df846e33d595230eecee/f054df846e33d595230eecee.m3u8",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "IF (2024) เพื่อนในจินตนาการ",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/IF-2024-เพื่อนในจินตนาการ-1-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/563cb3ff09a1edee1059b9b6/563cb3ff09a1edee1059b9b6.m3u8",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Challengers (2024) ชาเลนเจอร์ส",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Challengers-2024-ชาเลนเจอร์ส-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/b885771199a62075eb431987/b885771199a62075eb431987.m3u8",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Mai (2024) รักของไม",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Mai-2024-รักของไม-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/f914d3e0c1676469699157b9/f914d3e0c1676469699157b9.m3u8",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Thelma the Unicorn (2024) ยูนิคอร์นน้อยเทลม่า",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Thelma-the-Unicorn-2024-ยูนิคอร์นน้อยเทลม่า-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/5c2e13199e388eb9b5b80e70/5c2e13199e388eb9b5b80e70.m3u8",
+      "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "Power (2024) ตำรวจ อำนาจ และอิทธิพล",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Power-2024-ตำรวจ-อำนาจ-และอิทธิพล-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/aa3d9e26668f1096d47a7f3d/aa3d9e26668f1096d47a7f3d.m3u8",
       "referer": "https://www.123-hd.com/"
     }
   ]

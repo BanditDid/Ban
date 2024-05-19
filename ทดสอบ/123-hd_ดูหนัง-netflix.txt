@@ -6,24 +6,6 @@
   "key": [],
   "stations": [
     {
-      "name": "Frankly Speaking (2024) พูดตรงๆ คงต้องรัก",
-      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Frankly-Speaking-300x450.jpg",
-      "url": "https://main.24playerhd.com/newplaylist/89166f2c898671862e9bb050/89166f2c898671862e9bb050.m3u8",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "The Whole Truth (2021) ปริศนารูหลอน",
-      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Whole-Truth-2021-ปริศนารูหลอน-300x450.jpg",
-      "url": "https://main.24playerhd.com/newplaylist/ce0ebd61e5794a64939bed50/ce0ebd61e5794a64939bed50.m3u8",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
-      "name": "Dare To Love Me (2024) ท้ารักให้ฉ่ำปอด",
-      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Dare-To-Love-Me-300x450.jpg",
-      "url": "https://main.24playerhd.com/newplaylist/e8177192aa5f4fbb6cd8e85e/e8177192aa5f4fbb6cd8e85e.m3u8",
-      "referer": "https://www.123-hd.com/"
-    },
-    {
       "name": "All India Rank (2024)",
       "image": "https://www.123-hd.com//wp-content/uploads/2024/05/All-India-Rank-2024-300x450.jpg",
       "url": "https://main.24playerhd.com/newplaylist/c2da81fd823d373b850a1f05/c2da81fd823d373b850a1f05.m3u8",

@@ -2710,6 +2710,12 @@
       "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Atypical-Family-2024-ครอบครัวเหนือธรรมชาติ-300x450.jpg",
       "url": "https://main.24playerhd.com/newplaylist/e04a621e38bdb178eaaa9d04/e04a621e38bdb178eaaa9d04.m3u8",
       "referer": "https://www.123-hd.com/"
+    },
+    {
+      "name": "The 8 Show (2024) เกมโชว์เลือดแลกเงิน",
+      "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-8-Show-2024-เกมโชว์เลือดแลกเงิน-300x450.jpg",
+      "url": "https://main.24playerhd.com/newplaylist/cd3c0a2d79a5ad015676a8d2/cd3c0a2d79a5ad015676a8d2.m3u8",
+      "referer": "https://www.123-hd.com/"
     }
   ]
 }

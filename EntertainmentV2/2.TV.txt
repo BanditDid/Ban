@@ -4,6 +4,81 @@
 	"image":"https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png",
 	"stations": 
 		[
+
+{
+		"name": "ฟรีทีวี",
+		"author": "A",
+		"image":"https://www.banidea.com/wp-content/uploads/2014/04/TV-Digital-Thai-Logo.png",
+		"url": "",
+		 "info": "A",
+ 
+		"stations":[
+ 
+ 
+ 
+{"name":"NBT","image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png","url":"https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"THAI PBS","image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png","url":"http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"ALTV 4","image":"https://www.i-pic.info/i/4Bol643617.png","url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"ททบ 5","image":"https://overseer.blackboxsys.net/images/png/hd-ch5.png","url":"http://147.50.195.35:1935/tv5hdlive/tv5hdlive/playlist.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"T SPORTS 7","image":"https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"TPTV","image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png","url":"https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/main.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"TNN 16","image":"https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp","url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/index.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"JKN 18","image":"https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png","url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv/index.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"NATION 22","image":"https://www.beartai.com/wp-content/uploads/2013/12/Nation22.png","url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation/index.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"WORKPOINT","image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png","url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint/index.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+{name:"TRUE 4 U",image:"https://overseer.blackboxsys.net/images/png/sd-24u.png",url:"https://true4u.com/live/","playInNatPlayer": "true"},
+ 
+{"name":"GMM 25","image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png","url":"https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"CH 8","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png","url":"https://www.thaich8.com/live?var_link=720p","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"MONO 29","image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F35a35017-8473-4953-8474-5c58d805b74a.png&w=320&h=240","url":"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8",referer:""},
+ 
+{"name":"MCOT HD 30","image":"https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp","url":"https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"ONE 31","image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png","url":"https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+{"name":"ไทยรัฐ","image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png","url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/index.m3u8","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"CH 3","image":"https://img2.pic.in.th/pic/5ff3e.webp","url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{"name":"AMARIN","image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png","url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{name:"CH 7",image:"https://www.ch7.com/xl/lg/images/Ch-7-HD-Logo-crop.png",url:"https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8",referer:""},
+ 
+{"name":"PPTV","image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png","url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+
+ {"name":"ZING","image":"https://cms.dmpcdn.com/livetv/2021/01/06/68be8520-500f-11eb-8d28-4b8e3f30b51b_320.png","url":"https://tv.trueid.net/embed/zing?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ {"name":"ZEE ANMOL","image":"https://cms.dmpcdn.com/livetv/2022/02/10/16689820-8a46-11ec-8573-9fd52c482da3_webp_original.png","url":"https://tv.trueid.net/embed/zee-anmol-sd?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+{name:"ธรรมะบันดาลใจ",image:"https://img2.pic.in.th/pic/images-removebg-previewddc2a7da6cb609ff.png",url:"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0056/HLS/V0056.m3u8","playInNatPlayer": "true"},
+
+{name:"WHITE CHANNEL",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0059.png",url:"http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8","playInNatPlayer": "true"},
+{name:"ETV",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0087.png",url:"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0087/HLS/V0087.m3u8","playInNatPlayer": "true"},
+ 
+{name:"NEW TM",image:"https://img2.pic.in.th/pic/imagesfaf2c511e5b9c1e6.png",url:"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0060/HLS/V0060.m3u8","playInNatPlayer": "true"},
+ 
+ 
+ 
+ 
+]
+},
+
+
+
+
+
 			{
 				"name":"NBT",
 				"info":"AISPLAY",

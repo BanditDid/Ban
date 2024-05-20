@@ -1,6 +1,6 @@
 {
  "name": "123-hd",
- "author": "update 2024-05-20 17:17:06",
+ "author": "update 2024-05-20 17:18:12",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
@@ -141,6 +141,18 @@
    "name": "Lisa Frankenstein (2024) ลิซ่า แฟรงเกนสไตน์",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Lisa-Frankenstein-2024-1-300x450.jpg",
    "url": "https://main.24playerhd.com/newplaylist/6962dc44356e8b6efed3ae5c/6962dc44356e8b6efed3ae5c.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Golden Kamuy (2024) โกลเดนคามุย",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Golden-Kamuy-2024-โกลเดนคามุย-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/f054df846e33d595230eecee/f054df846e33d595230eecee.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "IF (2024) เพื่อนในจินตนาการ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/IF-2024-เพื่อนในจินตนาการ-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/563cb3ff09a1edee1059b9b6/563cb3ff09a1edee1059b9b6.m3u8",
    "referer": "https://www.123-hd.com/"
   }
  ]

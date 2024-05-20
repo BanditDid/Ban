@@ -5,7 +5,157 @@
 "author": "ช่องน็อต",
 "groups": [
 
-
+{
+      "name": "Monster Farm มอนสเตอร์ฟาร์ม ตอนที่ 1-72 พากย์ไทย",
+      "info": "Monster Farm มอนสเตอร์ฟาร์ม ตอนที่ 1-72 พากย์ไทย",
+      "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+      "stations": [
+        {
+          "name": "ตอนที่ 01-03 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb01.dark-player.net/kwdata/13b10d199d86ede26195a5e796c40a28/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 04-06 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb00.dark-player.net/kwdata/4af3a114532116d57bba28bf1ede9bff/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 07-09 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb00.dark-player.net/kwdata/df1924d3d93ee9aaa5d46be333c19b08/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 10-12 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb02.dark-player.net/kwdata/1280844e55962121192e1b883744ace2/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 13-15 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb02.dark-player.net/kwdata/443941f40a101362950a0cabe678434a/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 16-18 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb00.dark-player.net/kwdata/5782b625b64826ca8e3a8f9b85a45084/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 19-21 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb03.dark-player.net/kwdata/c1d612c6ebaef82c9110117f31266814/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 22-24 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb02.dark-player.net/kwdata/3f9c8c30b44e75e3ac6f793590f929a2/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 25-27 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb01.dark-player.net/kwdata/5f7fe5e82e733ac27b9c1b3738b69246/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 28-30 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb03.dark-player.net/kwdata/765b1d6d2d23c9f2d4054dff8d1bf9c1/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 31-33 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb00.dark-player.net/kwdata/9d345f8508c81a3a1d97d3f0462ddc52/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 34-36 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb00.dark-player.net/kwdata/1b95d0ca1f854d74163da295c2d02df8/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 37-39 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb01.dark-player.net/kwdata/b7b0289bc9a4b1c327a1394b5ded39f8/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 40-42 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb01.dark-player.net/kwdata/ecf8dc1ba48c8b21d57c55556aaed0ec/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 43-45 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb01.dark-player.net/kwdata/315c60288f4a7094efe4f264bb7ddc73/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 46-48 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb03.dark-player.net/kwdata/2d2f324b103b735a480ecbbd7dc59021/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 49-51 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb01.dark-player.net/kwdata/5bc17b8347b8c63e8bea0ef4bab7a104/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 52-54 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb01.dark-player.net/kwdata/fc2c988f972687b34548842e3e177153/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 55-57 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb00.dark-player.net/kwdata/4638f919375f26f0a8574afeaebd1696/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 58-60 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb00.dark-player.net/kwdata/061d750545e2d54b68bc7d504fe2ee10/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 61-63 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb00.dark-player.net/kwdata/ad4324fa5cf47d902cc3dc9b969788a0/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 64-66 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb02.dark-player.net/kwdata/f633bd4c8daac205fb3654d43b70813b/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 67-69 พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb01.dark-player.net/kwdata/e068064e97bbec2ed6f1b0101a0776eb/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        },
+        {
+          "name": "ตอนที่ 70-72 จบ พากย์ไทย",
+          "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",
+          "url": "https://dlb00.dark-player.net/kwdata/410c1c931a35df03d3e480d719de4182/playlist.m3u8",
+          "referer": "https://www.animetobi.com/"
+        }
+      ]
+    },
 
 {	
 "name":"GTO จีทีโอ คุณครูพันธุ์หายาก",

@@ -5,7 +5,133 @@
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/660034605/android/sticker.png",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/DID.txt",
 "groups": [
-
+ {
+      "name": "A Korean Odyssey ฮวายูกิ รักวุ่นทะลุพิภพ ตอนที่ 1-20 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/cb5d0529-cff0-444d-a845-2966f2ba857c/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/853f0093-b508-4bea-9819-b308699e62c8/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/e21d31da-a051-4433-b067-0388f4faf66b/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/c667a019-499a-4dec-b987-20a286025881/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/776e63cd-7e13-4836-85b7-c21b4aa4a4b7/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/44d7626a-87d5-489e-a145-a2c889fbe1ee/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/457a42a7-46ed-4ecb-8c38-0c071ecea2f5/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/c1516eba-2bf1-4a74-adc2-6cbc2d683ea0/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/765c81d3-3def-47f4-a384-6ec609f1a392/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/e33df6f1-cb2b-476e-8787-39f397b83a37/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/3bd4ae73-c2fc-470d-8efe-bd915aecd3f3/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/1345fac8-6e1c-4b9e-83ba-a249f86df37d/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/7a69c0b7-048f-4b06-ae97-236a8cd15f9c/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/a0389b48-00cb-48db-99e1-a8cd9183783a/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/0b2cb3d1-2ff1-48b8-8d65-43b17e96e6a1/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/ed0c5559-abcc-4b93-9a20-facc965936b2/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/675fd3b2-edd2-4d73-9566-e5105822ac31/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/5c6157e3-5c82-4615-bd0a-661f82d1c0ae/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/cdf66f9a-f9d0-4c45-a1dd-4385fe574037/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 20 ตอนจบ",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/03/uJfF9m2bDXZf6Lng8kkyd0o0Qjz-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/6ce62490-da01-430e-a0ef-48a01cccdff7/_"
+        }
+      ]
+    },
 {
    "name": "Big Mouth – บิ๊กเมาส์ (พากย์ไทย)",
    "info": "Big Mouth – บิ๊กเมาส์ (พากย์ไทย) 2022  ซีซั่น 1 Ep 16",

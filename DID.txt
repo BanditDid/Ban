@@ -8,22 +8,641 @@
 
 
 {
-"name":"ทดสอบ",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNulC3K8kda8lF_XaJgV3lu2kzCxqzrj2uBnG0jiCODXVxoUhNTfkxBTA&s=10",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/14.txt",
-"referer":"",
-"import":"false",
-"info":"" 
-},
-
-{
-"name":"หนังใหม่2024 S1",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNulC3K8kda8lF_XaJgV3lu2kzCxqzrj2uBnG0jiCODXVxoUhNTfkxBTA&s=10",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/123-hd_หนังใหม่-2024.txt",
-"referer":"",
-"import":"false",
-"info":"" 
-},
+      "name": "My Boss (2024) กับดักรัก บอสตัวร้าย [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/2ca8d8db31ef8f2d5c6e9574/2ca8d8db31ef8f2d5c6e9574.m3u8"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/03d14e3667d2f79321f42e7c/03d14e3667d2f79321f42e7c.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/329667319d88168fcf50684b/329667319d88168fcf50684b.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/da35c0a4e7ab0f36efaf35e7/da35c0a4e7ab0f36efaf35e7.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b753a4d38893784640435331/b753a4d38893784640435331.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e7a86d4ed0d946df5a326ae3/e7a86d4ed0d946df5a326ae3.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/70d5ad196b182145c6f25de5/70d5ad196b182145c6f25de5.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6949ba7d2c0216eb8377dacb/6949ba7d2c0216eb8377dacb.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f01fc9f28946fb8542559da4/f01fc9f28946fb8542559da4.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1f06c3fdeb9053187af04555/1f06c3fdeb9053187af04555.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3dc45c9144b80f673b62299a/3dc45c9144b80f673b62299a.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/71f6360878bcaf442314adbf/71f6360878bcaf442314adbf.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c7010b1d0f5e56315d1fb349/c7010b1d0f5e56315d1fb349.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/85a852e67e07dcd066c25cd9/85a852e67e07dcd066c25cd9.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/da2d1ebfa8f55ecf22701a7a/da2d1ebfa8f55ecf22701a7a.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/5848f400319f2a9a16a8bbc8/5848f400319f2a9a16a8bbc8.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/2da1c8773214964158136109/2da1c8773214964158136109.m3u8"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/77a88586e33c9addd529335d/77a88586e33c9addd529335d.m3u8"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f02e9e1ca9de3b5c90c12c13/f02e9e1ca9de3b5c90c12c13.m3u8"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/fa1b8c5ae58eefcca566f8f8/fa1b8c5ae58eefcca566f8f8.m3u8"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/adeba5f34ba09d269def3012/adeba5f34ba09d269def3012.m3u8"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/36b5e2cdfc2c896468eebac5/36b5e2cdfc2c896468eebac5.m3u8"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b24b07e270d7f3e0b84bb409/b24b07e270d7f3e0b84bb409.m3u8"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6872c94e542bed48db098155/6872c94e542bed48db098155.m3u8"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c61bb07856dfa56eb8851ad3/c61bb07856dfa56eb8851ad3.m3u8"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/fe88aeaa3760344c9c877b7f/fe88aeaa3760344c9c877b7f.m3u8"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6ae945253ca492202f37865c/6ae945253ca492202f37865c.m3u8"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8d2de29d03c5a7c882f23d95/8d2de29d03c5a7c882f23d95.m3u8"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/df655b9b5529c3f6d60f0172/df655b9b5529c3f6d60f0172.m3u8"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c5d696b1ecd3c80669ed63b8/c5d696b1ecd3c80669ed63b8.m3u8"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/aca99fb1740c215762caa7a0/aca99fb1740c215762caa7a0.m3u8"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/234d1b61a5ad20d0318c3245/234d1b61a5ad20d0318c3245.m3u8"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/0c56f4556b99fc0e82f13cf8/0c56f4556b99fc0e82f13cf8.m3u8"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/c8e947e36b7753ee5a72a0a7/c8e947e36b7753ee5a72a0a7.m3u8"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b958c91ac75223678ea97382/b958c91ac75223678ea97382.m3u8"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f03ea1c1467052a945690597/f03ea1c1467052a945690597.m3u8"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/024fafdcc12253009348d5ab/024fafdcc12253009348d5ab.m3u8"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3095b030b93294de3775db5b/3095b030b93294de3775db5b.m3u8"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5d345a81bb37d9ad1b44d612/5d345a81bb37d9ad1b44d612.m3u8"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/615fde3c3e36faff91d8d7ec/615fde3c3e36faff91d8d7ec.m3u8"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/047cc340a898d678db352345/047cc340a898d678db352345.m3u8"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b640708d3e933788b5fd69ff/b640708d3e933788b5fd69ff.m3u8"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/f262ef5f9fb1ad213300a62a/f262ef5f9fb1ad213300a62a.m3u8"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/fd4e783bf9f256f9c90940fa/fd4e783bf9f256f9c90940fa.m3u8"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b640708d3e933788b5fd69ff/b640708d3e933788b5fd69ff.m3u8"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/f262ef5f9fb1ad213300a62a/f262ef5f9fb1ad213300a62a.m3u8"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/d8c648e1c6b74ccc3eb18ecf/d8c648e1c6b74ccc3eb18ecf.m3u8"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/36f14fc9edfeb2721ee36791/36f14fc9edfeb2721ee36791.m3u8"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/98c058b81c9b63c3a75a7ad0/98c058b81c9b63c3a75a7ad0.m3u8"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/19c0566700e921043583fa38/19c0566700e921043583fa38.m3u8"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f2edec470a4aea51ce04dbfd/f2edec470a4aea51ce04dbfd.m3u8"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/045b68ad4625bf7365cae273/045b68ad4625bf7365cae273.m3u8"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e41f37ef8086a439ecbeecbc/e41f37ef8086a439ecbeecbc.m3u8"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ade8e8144524e413cae6d8b9/ade8e8144524e413cae6d8b9.m3u8"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/4726e7c02ba10b95988ddf8d/4726e7c02ba10b95988ddf8d.m3u8"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/98c445e6a2907027d61afd91/98c445e6a2907027d61afd91.m3u8"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/79a8e875eb22f04d6ac235a1/79a8e875eb22f04d6ac235a1.m3u8"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/5e6ba416ed0f302d0e94aece/5e6ba416ed0f302d0e94aece.m3u8"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9f37e07ab402cd133be2a3b7/9f37e07ab402cd133be2a3b7.m3u8"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/21e5f7287bd5a4f156ee4299/21e5f7287bd5a4f156ee4299.m3u8"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/813b1753b36915b47bbbd7ea/813b1753b36915b47bbbd7ea.m3u8"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9849bc436b4effd43b3b01eb/9849bc436b4effd43b3b01eb.m3u8"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/cced7e389d7bc51d01ce2b1d/cced7e389d7bc51d01ce2b1d.m3u8"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/7650d5cfd1bcb4ad80e70a39/7650d5cfd1bcb4ad80e70a39.m3u8"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a3ecd298badc50964a456d10/a3ecd298badc50964a456d10.m3u8"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4f4045078792de27a65013f9/4f4045078792de27a65013f9.m3u8"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/2aae9a994cce022dff3dba94/2aae9a994cce022dff3dba94.m3u8"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/de57f5617083242b02cb318c/de57f5617083242b02cb318c.m3u8"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/03fd5b1fa431100d913c4fa3/03fd5b1fa431100d913c4fa3.m3u8"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4d0827a78e3d31d4d62bf05c/4d0827a78e3d31d4d62bf05c.m3u8"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/17a57040fbe357d22b0ce3b3/17a57040fbe357d22b0ce3b3.m3u8"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6ac912f51b339227d4baa3d7/6ac912f51b339227d4baa3d7.m3u8"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/d840f544b2ad04b2dab77904/d840f544b2ad04b2dab77904.m3u8"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8e06909f63e035c55ca24ef7/8e06909f63e035c55ca24ef7.m3u8"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/3941f50c1c443a5742d584ad/3941f50c1c443a5742d584ad.m3u8"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7d07804332ccaed7315a3765/7d07804332ccaed7315a3765.m3u8"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/aaf251e6a368a1f8a67fbb30/aaf251e6a368a1f8a67fbb30.m3u8"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8cd077bf0c4beede3b2a2785/8cd077bf0c4beede3b2a2785.m3u8"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/121e23bd308c905d720ef684/121e23bd308c905d720ef684.m3u8"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/91db645f87da342622cd433d/91db645f87da342622cd433d.m3u8"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/389770b0d954af0405c347e3/389770b0d954af0405c347e3.m3u8"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/74261379ae14ccfe35a533bc/74261379ae14ccfe35a533bc.m3u8"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/f88595d58f1736dcf24c864e/f88595d58f1736dcf24c864e.m3u8"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ad89fc0edbbbbc111a717183/ad89fc0edbbbbc111a717183.m3u8"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/f3ebf915f4500d0b249437b3/f3ebf915f4500d0b249437b3.m3u8"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5917c3efdeed06462d0f5e18/5917c3efdeed06462d0f5e18.m3u8"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/8d80b8a0f394e0353e022f76/8d80b8a0f394e0353e022f76.m3u8"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/38a27ea0818fdf1264528c3b/38a27ea0818fdf1264528c3b.m3u8"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/eaba5da8a2c44125770c9b01/eaba5da8a2c44125770c9b01.m3u8"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e58fbcbfbf13f8531b7d2b55/e58fbcbfbf13f8531b7d2b55.m3u8"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/de49389d7e16daea6294f556/de49389d7e16daea6294f556.m3u8"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c0d407ecc90843c887f69d1a/c0d407ecc90843c887f69d1a.m3u8"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/35ed16e00c28bd715f2a1db2/35ed16e00c28bd715f2a1db2.m3u8"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/47f28b2515009da7ac33cc1c/47f28b2515009da7ac33cc1c.m3u8"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/db7c7e1d7e651b0fa1f7ac71/db7c7e1d7e651b0fa1f7ac71.m3u8"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/90d1cecb0f6fb9aa6dfa8217/90d1cecb0f6fb9aa6dfa8217.m3u8"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/3cf9e20f729b7b14617f075c/3cf9e20f729b7b14617f075c.m3u8"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ce0513246ac7c2ae46391105/ce0513246ac7c2ae46391105.m3u8"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/339848789e70bb22255768cd/339848789e70bb22255768cd.m3u8"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/994b63ebbe143b2f66847818/994b63ebbe143b2f66847818.m3u8"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/3f59718682ca604f3fab0b98/3f59718682ca604f3fab0b98.m3u8"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/259456b95d626a4abd52d86e/259456b95d626a4abd52d86e.m3u8"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/e182645347566771bbb153a2/e182645347566771bbb153a2.m3u8"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/0329a582f53b31d711775973/0329a582f53b31d711775973.m3u8"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-300x450.jpg",
+          "url": "https://hot.yuminse.com/autoplaylist/9630487f6d88bf26ab74337d/9630487f6d88bf26ab74337d.m3u8"
+        }
+      ]
+    },
 
 
  {

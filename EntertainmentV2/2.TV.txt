@@ -1,12 +1,12 @@
 {
     "name": "TV",
     "info": "",
-    "image": "https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png",
-    "stations": [
+   "image":"https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+    "groups": [
         {
             "name": "FREE TV",
-            "author": "A",
-            "image": "https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png",
+            "author": "",
+           "image":"https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
             "url": "",
             "info": "A",
             "stations": [
@@ -197,7 +197,7 @@
         {
             "name": "AIS FREE TV",
             "info": "",
-            "image": "https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png",
+            "image":"https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
             "stations": [
                 {
                     "name": "NBT",

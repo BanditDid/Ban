@@ -4,8 +4,20 @@
 "info": "",
 "image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
 "stations": [
-
-
+{
+"name": "ตอนที่ xx",
+"info": "วันที่ 21 พฤษภาคม 2567",
+"image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
+"url": "xxxx",
+"referer": "https://www.watchlakorn.in/"
+},
+{
+"name": "ตอนที่ 17",
+"info": "วันที่ 20 พฤษภาคม 2567",
+"image": "https://cdn.watchlakorn.in/storage/images/av-1710777203.jpg",
+"url": "https://www.watchlakorn.in/egde/6b6f73f1c61ed2610eb326645c8f6c9a/NDkzMQ==/MTc=/ZGF0YTE1LzIwLTA1LTIwMjQvU29uZ2tocmFtU29tcm90LURpc2MxNy0yMC1NYXktMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+"referer": "https://www.watchlakorn.in/"
+},
 {
 "name": "ตอนที่ 16",
 "info": "วันที่ 14 พฤษภาคม 2567",

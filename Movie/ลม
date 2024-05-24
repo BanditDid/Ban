@@ -1,6 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1711643326.jpg" ,ตอนที่ 16 วันที่ 23 พฤษภาคม 2567
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1711643326.jpg" ,ตอนที่ 17 วันที่ 23 พฤษภาคม 2567
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://www.watchlakorn.in/egde/8fa8ccbc79b0e740c2b142b6cad481a5/NDkzOQ==/MTc=/ZGF0YTE1LzIzLTA1LTIwMjQvRXhlc01pc3N1cy1EaXNjMTctMjMtTWF5LTIwMjQubXA0/index-v1-a1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1711643326.jpg" ,ตอนที่ 16 วันที่ 22 พฤษภาคม 2567
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://www.watchlakorn.in/egde/e0fa60f51196d5f3cf85883156089824/NDkzOQ==/MTY=/ZGF0YTE1LzIyLTA1LTIwMjQvRXhlc01pc3N1cy1EaXNjMTUtMjItTWF5LTIwMjRfSEQubXA0/index-v1-a1.m3u8

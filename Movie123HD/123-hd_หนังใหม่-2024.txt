@@ -1,10 +1,70 @@
 {
  "name": "123-hd",
- "author": "update 2024-05-23 07:46:42",
+ "author": "update 2024-05-26 06:13:49",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes-2024-อาณาจักรแห่งพิภพวานร-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/0c24eb6d2b1fef26ba2f82c5/0c24eb6d2b1fef26ba2f82c5.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Civil War (2024) วิบัติสมรภูมิเมืองเดือด",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Civil-War-2024-วิบัติสมรภูมิเมืองเดือด-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/3080b18771469945673c509c/3080b18771469945673c509c.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Zombies (2024) ซอมบี้ผีวัดเก่า",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Zombies-2024-ซอมบี้ผีวัดเก่า-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/5ba6a23ed4e72ae06c030b83/5ba6a23ed4e72ae06c030b83.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Crew (2024) นางฟ้าบ้าบิ่น",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Crew-2024-นางฟ้าบ้าบิ่น-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/539357fe720e688bd7600b4b/539357fe720e688bd7600b4b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Atlas (2024) ล่าข้ามจักรวาล",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Atlas-2024-ล่าข้ามจักรวาล-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/3fd66a144abb431c40eaec95/3fd66a144abb431c40eaec95.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "My Oni Girl (2024) มาย โอนิ เกิร์ล",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/My-Oni-Girl-2024-มาย-โอนิ-เกิร์ล-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/e0cacd7e46f5722cc6707750/e0cacd7e46f5722cc6707750.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "In Good Hands 2 (2024) ฝากรักไว้ให้ดูแล 2",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/In-Good-Hands-2-2024-ฝากรักไว้ให้ดูแล-2-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/4a863f45f6df909f72ab918b/4a863f45f6df909f72ab918b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "illusions For Sale (2024) เทคนิคขายฝันของเจเนเรชั่นโซอี้",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/illusions-For-Sale-2024-เทคนิคขายฝันของเจเนเรชั่นโซอี้-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/5355e4375f3fbcce5837b159/5355e4375f3fbcce5837b159.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Novoland (2024) คดีประหลาดแห่งจิ่วโจว",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Novoland-2024-คดีประหลาดแห่งจิ่วโจว-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/d44f9d496fa47b502bc95c6d/d44f9d496fa47b502bc95c6d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Mothers' Instinct (2024) สันดานแม่",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Mothers-Instinct-2024-สันดานแม่-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/f9b0d2e6bc62bb11c5955a1e/f9b0d2e6bc62bb11c5955a1e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Bride and The Beast (2024) เจ้าสาวแห่งถ้ำบุปผาโรยรา",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Bride-and-The-Beast-2024-เจ้าสาวแห่งถ้ำบุปผาโรยรา-300x450.jpg",

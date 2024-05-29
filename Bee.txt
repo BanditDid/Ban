@@ -35,7 +35,125 @@
 "url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/สงครามสมรส.txt",
 "import":"true"
 },
-
+{
+   "name": "Big Mouth – บิ๊กเมาส์ (พากย์ไทย)",
+   "info": "Big Mouth – บิ๊กเมาส์ (พากย์ไทย) 2022  ซีซั่น 1 Ep 16",
+   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/7UCxBD0w/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/y1pLANeC/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/guOXjDmy/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/yDFrbgIG/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/nUSKYERj/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/sbZieUE6/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/d8gf87mP/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/YxXTTp5s/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/PbLoZSG0/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ilJdK6rK/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/2lTuRAjw/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/KhFfHGip/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/z3laz5W3/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/P6jjwE4X/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/VtaIN6ob/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/12/Big-Mouth-TH.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/VV70ILwN/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
 
 {
 "name"              :     "บางกอกคณิกา",

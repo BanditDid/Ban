@@ -1,10 +1,76 @@
 {
  "name": "123-hd",
- "author": "update 2024-05-26 06:13:49",
+ "author": "update 2024-05-30 12:20:49",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Bionic (2024) เหนือมนุษย์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Bionic-2024-เหนือมนุษย์-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/56d5f138168a8178f782e4e7/56d5f138168a8178f782e4e7.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Corlors of Evil Red (2024) แดงดั่งสีปีศาจ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Corlors-of-Evil-Red-2024-แดงดั่งสีปีศาจ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/7b0d3952b4a830240c1a8c7f/7b0d3952b4a830240c1a8c7f.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Puppet (2024) ชีวิตที่ถูกยืมมา",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Puppet-2024-ชีวิตที่ถูกยืมมา-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/6c07396df57960e781f75e2c/6c07396df57960e781f75e2c.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Tarot (2024) ทาโร่ต์ ไพ่เรียกผี",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Tarot-2024-ทาโร่ต์-ไพ่เรียกผี-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/69381a824778ffe945b94e9b/69381a824778ffe945b94e9b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The First Omen (2024) กำเนิดอาถรรพ์หมายเลข 6",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/04/The-First-Omen-2024-กำเนิดอาถรรพ์หมายเลข-6-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/2a40bbea6c5c098f26827f9e/2a40bbea6c5c098f26827f9e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Legend of Xie Yaohuan (2024) ตำนานเซี่ยเหยาหวนเมืองตะวันตก",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Legend-of-Xie-Yaohuan-2024-ตำนานเซี่ยเหยาหวนเมืองตะวันตก-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/920277605947c59c4d02ec3c/920277605947c59c4d02ec3c.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Civil War (2024) วิบัติสมรภูมิเมืองเดือด",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Civil-War-2024-วิบัติสมรภูมิเมืองเดือด-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/3080b18771469945673c509c/3080b18771469945673c509c.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์ แมด แม็กซ์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/de2832d6b7b7fc36cac4a9ce/de2832d6b7b7fc36cac4a9ce.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Garfield Movie (2024) เดอะ การ์ฟิลด์ มูฟวี่",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Garfield-Movie-2024-เดอะ-การ์ฟิลด์-มูฟวี่-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/c64bbeb3deb75c91df068776/c64bbeb3deb75c91df068776.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Marita (2023) มาริต้า",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Marita-2023-มาริต้า-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/dc5f4f6da26fce1e4b3f3bda/dc5f4f6da26fce1e4b3f3bda.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Beach Boys (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Beach-Boys-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/64f766a4e7bc9f8354ec9351/64f766a4e7bc9f8354ec9351.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes-2024-อาณาจักรแห่งพิภพวานร-300x450.jpg",

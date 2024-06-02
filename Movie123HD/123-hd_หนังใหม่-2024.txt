@@ -1,10 +1,52 @@
 {
  "name": "123-hd",
- "author": "update 2024-05-30 12:20:49",
+ "author": "update 2024-06-02 14:13:47",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Too Old for Fairy Tales 2 (2024) เทพนิยายไม่ใช่ของเด็กโต 2",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Too-Old-for-Fairy-Tales-2-2024-เทพนิยายไม่ใช่ของเด็กโต-2-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/501c1a079fded55ba3de2eaf/501c1a079fded55ba3de2eaf.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "A Part of You (2024) ส่วนหนึ่งของเธอ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/A-Part-of-You-2024-ส่วนหนึ่งของเธอ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/317b795765c2db71366e53d5/317b795765c2db71366e53d5.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Roundup Punishment (2024) บู๊ระห่ำล่าล้างนรก นรกลงทัณฑ์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Roundup-Punishment-2024-บู๊ระห่ำล่าล้างนรก-นรกลงทัณฑ์-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/b68200f67abcb743ae720581/b68200f67abcb743ae720581.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Boy Kills World (2024) แค้นนี้ที่รอคิวล์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Boy-Kills-World-2024-แค้นนี้ที่รอคิวล์-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/43f3968ffba0d69bc900931f/43f3968ffba0d69bc900931f.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The First Omen (2024) กำเนิดอาถรรพ์หมายเลข 6",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/04/The-First-Omen-2024-กำเนิดอาถรรพ์หมายเลข-6-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/926981999e1060c972559800/926981999e1060c972559800.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Agak Laen (2024) บ้านสยองแสนสนุก",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Agak-Laen-2024-บ้านสยองแสนสนุก-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/9ccd40ade8bbe9f814f32d8b/9ccd40ade8bbe9f814f32d8b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Die Hart 2 Die Harter (2024) ฮาร์ต อึดเต็มคาราเบล",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Die-Hart-2-Die-Harter-2024-ฮาร์ต-อึดเต็มคาราเบล-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/caf94d51a9c4b3b139d8f71d/caf94d51a9c4b3b139d8f71d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Bionic (2024) เหนือมนุษย์",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Bionic-2024-เหนือมนุษย์-300x450.jpg",

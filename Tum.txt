@@ -11,24 +11,45 @@
       "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
       "stations": [
         {
-          "name": "Ep.xxx",
+          "name": "Ep.1",
           "info": "",
           "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
           "url": "xxx",
-          "referer": "xxx"
+          "referer": "https://doonungfreeonline.net"
         },
  {
           "name": "Ep.2",
           "info": "",
           "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
-          "url": "https://worker2.playmov.tv/doonungfreeonline.net/4-ssd/movie/store-2000/True.Detective.S04E02.mp4/chunk.m3u8?nimblesessionid=4485202&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjQgMTowNDozMSBBTSZoYXNoX3ZhbHVlPVpuVjRkcHRGOHhQWTl1a1BHZmlIMWc9PSZ2YWxpZG1pbnV0ZXM9NjA=",
+          "url": "https://worker2.playmov.tv/doonungfreeonline.net/4-ssd/movie/store-2000/True.Detective.S04E02.mp4/chunk.m3u8",
           "referer": "https://doonungfreeonline.net"
         },
- {
-          "name": "Ep.22",
+  {
+          "name": "Ep.3",
           "info": "",
           "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
-          "url": "https://worker2.playmov.tv/doonungfreeonline.net/4-ssd/movie/store-2000/True.Detective.S04E02.mp4/chunk.m3u8",
+          "url": "https://worker2.playmov.tv/doonungfreeonline.net/4-ssd/movie/store-2000/True.Detective.S04E03.mp4/chunk.m3u8",
+          "referer": "https://doonungfreeonline.net"
+        },
+  {
+          "name": "Ep.4",
+          "info": "",
+          "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
+          "url": "https://worker2.playmov.tv/doonungfreeonline.net/4-ssd/movie/store-2000/True.Detective.S04E04.mp4/chunk.m3u8",
+          "referer": "https://doonungfreeonline.net"
+        },
+  {
+          "name": "Ep.5",
+          "info": "",
+          "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
+          "url": "https://worker2.playmov.tv/doonungfreeonline.net/4-ssd/movie/store-2000/True.Detective.S04E05.mp4/chunk.m3u8",
+          "referer": "https://doonungfreeonline.net"
+        },
+  {
+          "name": "Ep.6",
+          "info": "",
+          "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
+          "url": "https://worker2.playmov.tv/doonungfreeonline.net/4-ssd/movie/store-2000/True.Detective.S04E06.mp4/chunk.m3u8",
           "referer": "https://doonungfreeonline.net"
         },
 

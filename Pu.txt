@@ -5,6 +5,18 @@
 "author": "Pu",
 "groups": [
 
+
+{
+   "name": "มฤตยูใต้ปารีส (Under Paris) (2024)",
+   "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zz4tjgqhNWZDbkuksEpuafmboTv.jpg",
+   "stations": [
+   {
+      "name": "มฤตยูใต้ปารีส (Under Paris) (2024)",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zz4tjgqhNWZDbkuksEpuafmboTv.jpg",
+      "url": "https://oklive-1.xyz/cdn/hls/db1da8e7264222cc3318d690c6d3193f/master.txt?s=1&d=",
+      "referer": "https://1112hd.com/"
+    },]},
+
 {
    "name": "mama ผีหวงลูก",
    "image": "https://www.123-hd.com/wp-content/uploads/2022/05/Mama-2013-%E0%B8%9C%E0%B8%B5%E0%B8%AB%E0%B8%A7%E0%B8%87%E0%B8%A5%E0%B8%B9%E0%B8%81-300x450.png",

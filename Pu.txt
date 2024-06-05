@@ -8,11 +8,11 @@
 
 {
    "name": "มฤตยูใต้ปารีส (Under Paris) (2024)",
-   "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zz4tjgqhNWZDbkuksEpuafmboTv.jpg",
+   "image": "https://www.i-moviehd.com/wp-content/uploads/2024/06/Under-Paris-2024-%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9-%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AA-1.jpg",
    "stations": [
    {
       "name": "มฤตยูใต้ปารีส (Under Paris) (2024)",
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zz4tjgqhNWZDbkuksEpuafmboTv.jpg",
+      "image": "https://www.i-moviehd.com/wp-content/uploads/2024/06/Under-Paris-2024-%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9-%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AA-1.jpg",
       "url": "https://main.24playerhd.com/m3u8/e5fe95e458aebfd1b061e28e/e5fe95e458aebfd1b061e28e438.m3u8",
       "referer": "https://www.i-moviehd.com"
     },]},

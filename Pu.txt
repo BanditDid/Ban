@@ -13,7 +13,7 @@
    {
       "name": "มฤตยูใต้ปารีส (Under Paris) (2024)",
       "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zz4tjgqhNWZDbkuksEpuafmboTv.jpg",
-      "url": "https://oklive-1.xyz/cdn/hls/db1da8e7264222cc3318d690c6d3193f/master.txt?s=1&d=",
+      "url": "https://oklive-1.xyz/hls/Rmo3ZVVCckxhQ0ljb1JNeXloZ1hFMitpdHJ2aG9oL3ZDTW5OdWJJYXdBajlMKzhscDF1S3lDWStJRUVzL0oxck5tUnowUWF5LzNpSVhIUmVMQktialNwUHZBNWtCMjE2dmlkZzZmYU5nMkZXV1VTbEdQZ1JYNW5ZMzJ2VjI4YUc0SGF6ZFNxZXpXSkhOSzZ6RFFMaElTSkJwWUU4SFFKU3BBMzN2SThSelBBNjlBVVh1YTF5THNpN3RGbVZNZExx",
       "referer": "https://1112hd.com/"
     },]},
 

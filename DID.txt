@@ -5,6 +5,50 @@
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/660034605/android/sticker.png",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/DID.txt",
 "groups": [
+
+
+ {
+      "name": "High School Return Of A Gangster (2024) นักเลงซ่าส์ท้าวัยเรียน",
+      "info": "พากย์ไทย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/High-School-Return-Of-A-Gangster-2024-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%87%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-300x450.jpg",
+      "stations": [
+        {
+          "name": "Ep.1",
+          "info": "",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/High-School-Return-Of-A-Gangster-2024-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%87%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4f359ec3aaa5007f74c5ae93/4f359ec3aaa5007f74c5ae93438.m3u8",
+          "referer": "https://www.123-hd.com"
+        },
+ {
+          "name": "Ep.2",
+          "info": "",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/High-School-Return-Of-A-Gangster-2024-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%87%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/415f8a253d40aca6c8c4b84f/415f8a253d40aca6c8c4b84f438.m3u8",
+          "referer": "https://www.123-hd.com"
+        },
+ {
+          "name": "Ep.3",
+          "info": "",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/High-School-Return-Of-A-Gangster-2024-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%87%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/f309f67fb5c60ba540d9f9d6/f309f67fb5c60ba540d9f9d6438.m3u8",
+          "referer": "https://www.123-hd.com"
+        },
+ {
+          "name": "Ep.4",
+          "info": "",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/High-School-Return-Of-A-Gangster-2024-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%87%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/afa05a328f4e956a6420acbd/afa05a328f4e956a6420acbd438.m3u8",
+          "referer": "https://www.123-hd.com"
+        }
+        
+        
+      ]
+    },
+
+
+
+
+
  {
       "name": "A Korean Odyssey ฮวายูกิ รักวุ่นทะลุพิภพ ตอนที่ 1-20 (จบ)",
       "info": "พากย์ไทย",

@@ -1,10 +1,58 @@
 {
  "name": "123-hd",
- "author": "update 2024-06-02 14:13:53",
+ "author": "update 2024-06-06 09:50:07",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Frankly Speaking (2024) พูดตรงๆ คงต้องรัก",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Frankly-Speaking-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/89166f2c898671862e9bb050/89166f2c898671862e9bb050.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Under Paris (2024) มฤตยู ใต้ปารีส",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Under-Paris-2024-มฤตยู-ใต้ปารีส-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/e5fe95e458aebfd1b061e28e/e5fe95e458aebfd1b061e28e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "How to Rob a Bank (2024) คู่มือปล้นแบงก์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/How-to-Rob-a-Bank-2024-คู่มือปล้นแบงก์-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/a186bf6f5c9ce62e0fe280f6/a186bf6f5c9ce62e0fe280f6.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "West of Memphis (2012)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/West-of-Memphis-2012-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/7aac7a095c3fe57f331ddddb/7aac7a095c3fe57f331ddddb.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Dare To Love Me (2024) ท้ารักให้ฉ่ำปอด",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Dare-To-Love-Me-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/e8177192aa5f4fbb6cd8e85e/e8177192aa5f4fbb6cd8e85e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Price Of Nonny's Inheritance (2024) มรดกคุณยาย",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/The-Price-Of-Nonnys-Inheritance-2024-มรดกคุณยาย-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/1c839b19756f2a67b5886d20/1c839b19756f2a67b5886d20.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Unseen (2023) สิ่งที่มองไม่เห็น",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Unseen-2023-สิ่งที่มองไม่เห็น-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/5412df9798d810f204837c65/5412df9798d810f204837c65.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Family of Two (2023) ครอบครัวคือสองเรา",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Family-of-Two-2023-ครอบครัวคือสองเรา-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/85189e728df82e27e4e9373a/85189e728df82e27e4e9373a.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "The Atypical Family (2024) ครอบครัวเหนือธรรมชาติ",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Atypical-Family-2024-ครอบครัวเหนือธรรมชาติ-300x450.jpg",

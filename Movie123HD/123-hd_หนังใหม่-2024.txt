@@ -1,10 +1,46 @@
 {
  "name": "123-hd",
- "author": "update 2024-06-02 14:13:47",
+ "author": "update 2024-06-06 09:50:03",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Under Paris (2024) มฤตยู ใต้ปารีส",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Under-Paris-2024-มฤตยู-ใต้ปารีส-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/e5fe95e458aebfd1b061e28e/e5fe95e458aebfd1b061e28e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "How to Rob a Bank (2024) คู่มือปล้นแบงก์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/How-to-Rob-a-Bank-2024-คู่มือปล้นแบงก์-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/a186bf6f5c9ce62e0fe280f6/a186bf6f5c9ce62e0fe280f6.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Mutant (2024) มนุษย์กลายพันธุ์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Mutant-2024-มนุษย์กลายพันธุ์-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/9a5a6db4c1cd0e3902b492fc/9a5a6db4c1cd0e3902b492fc.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์ แมด แม็กซ์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/18e17c23dd0b92f19d8c6b33/18e17c23dd0b92f19d8c6b33.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Price Of Nonny's Inheritance (2024) มรดกคุณยาย",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/The-Price-Of-Nonnys-Inheritance-2024-มรดกคุณยาย-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/1c839b19756f2a67b5886d20/1c839b19756f2a67b5886d20.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Desperate Sniper (2024) มือปืนสิ้นหวัง",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Desperate-Sniper-2024-มือปืนสิ้นหวัง-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/747bd1573126ae1f2d7af34d/747bd1573126ae1f2d7af34d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Too Old for Fairy Tales 2 (2024) เทพนิยายไม่ใช่ของเด็กโต 2",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Too-Old-for-Fairy-Tales-2-2024-เทพนิยายไม่ใช่ของเด็กโต-2-1-300x450.jpg",

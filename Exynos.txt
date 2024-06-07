@@ -6,6 +6,19 @@
 "groups": [
 
 {
+   "name": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์แมดแม็กซ์",
+   "image": "https://www.kubhd.com/wp-content/uploads/2024/03/Furiosa-A-Mad-Max-Saga-2024.webp",
+   "stations": [
+   {
+      "name": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์แมดแม็กซ์",
+      "image": "https://www.kubhd.com/wp-content/uploads/2024/03/Furiosa-A-Mad-Max-Saga-2024.webp",
+      "url": "https://hplay.hdplayfull.xyz/17471c7c-f577-4318-a362-04365371c8cf/0",
+      "referer": "https://www.i-moviehd.com"
+    },]},
+
+
+
+{
       "name": "Monster Farm มอนสเตอร์ฟาร์ม ตอนที่ 1-72 พากย์ไทย",
       "info": "Monster Farm มอนสเตอร์ฟาร์ม ตอนที่ 1-72 พากย์ไทย",
       "image": "https://www.animetobi.com/upload/364d76a30a51ef86b681d70490702874.jpg?v=1",

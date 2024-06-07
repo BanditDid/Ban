@@ -1,10 +1,28 @@
 {
  "name": "123-hd",
- "author": "update 2024-06-06 09:50:07",
+ "author": "update 2024-06-07 23:27:41",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Sweet Tooth Season 3 (2024) สวีททูธ 3",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Sweet-Tooth-Season-3-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/d1baa311f34c286dfdf3f7ac/d1baa311f34c286dfdf3f7ac.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Bade Miyan Chote Miyan (2024) สองกล้าบ้าระห่ำ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Bade-Miyan-Chote-Miyan-2024-สองกล้าบ้าระห่ำ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/77a529b504d2c792570e57a1/77a529b504d2c792570e57a1.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Gandeevadhari Arjuna (2023) ล้มแผนอหังการ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Gandeevadhari-Arjuna-2023-ล้มแผนอหังการ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/2fc82cfe63bece4488d9e50e/2fc82cfe63bece4488d9e50e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Frankly Speaking (2024) พูดตรงๆ คงต้องรัก",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Frankly-Speaking-300x450.jpg",

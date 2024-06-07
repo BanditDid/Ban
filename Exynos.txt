@@ -4,6 +4,380 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Exynos.txt",
 "author": "ช่องน็อต",
 "groups": [
+{
+   "name": "Chuuka Ichiban! ยอดกุ๊กแดนมังกร",
+   "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+   "info": "1-52 สถานะ จบแล้ว ",
+   "stations": [
+    {
+     "name": "ตอนที่ 01",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/VUrkzq4aGB/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 02",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/Hx7eIxz8kS/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 03",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/DQsiwnx8KM/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 04",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/Rr1SEXELt0/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 05",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/b6cI7ovzVQ/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 06",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/TPBUqcIkZY/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 07",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/xQtFVTf7b8/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 08",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/tLDutGLvQe/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 09",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/xOAVCUNKqp/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/y0yg4Qgtok/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/HB4jBnoBmX/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/ysuwWT1c4B/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/ktOa5wPgkb/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/IIe88Q6fkA/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/qg0fMjmDMM/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/7nuBFwXOey/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/1C8w6QSo5y/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/2CvUOJdBbV/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/x39mobst43/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/GARGB00NYS/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/6LmjXafWOv/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/WXIkaFY0Uq/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/iVu48RBU0i/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/DquHjCWSnF/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/biq7McnEJE/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/2zWTfXfBHq/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/GXgKFuGffZ/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/cf8XCNa3HY/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/ovn5c4lSGK/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/E4vmk0MQoZ/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/02zEr0e1VG/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/uGYWeOCCgw/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 33",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/szA0UJfzWj/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/ELKUqhAXfg/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 35",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/gTMDQMiFFi/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 36",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/I1qkt66TWM/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 37",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/TmleLht32m/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 38",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/xXByIy1U0h/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 39",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/KaQLNx1OFC/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 40",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/ng2Uig8kBG/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 41",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/CB3Qbf9UVu/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 42",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/hdb72Lw81y/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 43",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/MVOKWv3GTK/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 44",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/YdEZK0Md48/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 45",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/pZQQTe39BM/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 46",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/z5ODLAYrdl/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 47",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/ApyhK7xGJ5/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 48",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/B95HpkPoxV/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 49",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/LYvZWfNE1c/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 50",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/cutdJEJmTR/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 51",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/wB3LXheSZa/",
+     "referer": "https://fairyanime.net/"
+    },
+    {
+     "name": "ตอนที่ 52",
+     "info": "พากย์ไทย",
+     "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",
+     "url": "https://streaming.tonytonychopper.com/playback/f/QvwUbJQy6k/",
+     "referer": "https://fairyanime.net/"
+    }
+   ]
+  },
+
+
+
   {
    "name": "Chuuka Ichiban! ยอดกุ๊กแดนมังกร (เจน2) (เสียงไทย)",
    "image": "https://fairyanime.net/uploads/161372401a4f3b9ea5b998647de5c6034L80mIN.jpg",

@@ -1,10 +1,64 @@
 {
  "name": "123-hd",
- "author": "update 2024-06-06 09:50:03",
+ "author": "update 2024-06-07 23:27:33",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Revolutionize The World (2024) พลิกโลกกลับสวรรค์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Revolutionize-The-World-2024-พลิกโลกกลับสวรรค์-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/029cdd159eacd5ec14685d17/029cdd159eacd5ec14685d17.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Bade Miyan Chote Miyan (2024) สองกล้าบ้าระห่ำ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Bade-Miyan-Chote-Miyan-2024-สองกล้าบ้าระห่ำ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/77a529b504d2c792570e57a1/77a529b504d2c792570e57a1.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Five Blind Dates (2024) ห้าเดทวุ่น ลุ้นพบรัก",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Five-Blind-Dates-2024-ห้าเดทวุ่น-ลุ้นพบรัก-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/245f960ce16a9390e58ada6d/245f960ce16a9390e58ada6d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "All In (2024) หมดหน้าตัก",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/All-In-2024-หมดหน้าตัก-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/a8939c4268aae57f355e54c2/a8939c4268aae57f355e54c2.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Demon Slayer Kimetsu no Yaiba To the Hashira Training (2024) ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training-2024-ปาฏิหาริย์แห่งสายสัมพันธ์-สู่การสั่งสอนของเสาหลัก-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/4931a4d4f19be020c61d689d/4931a4d4f19be020c61d689d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Nelma Kodama (2024) ราชินีเงินสกปรก",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Nelma-Kodama-2024-ราชินีเงินสกปรก-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/88251e3c14c13048acf8f791/88251e3c14c13048acf8f791.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Baki Hanma VS Kengan Ashura (2024) ฮันมะ บากิ ปะทะ กำปั้นอสูร โทคะตะ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Baki-Hanma-VS-Kengan-Ashura-2024-ฮันมะ-บากิ-ปะทะ-กำปั้นอสูร-โทคะตะ-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/2b2aee44f19ca705aa5841b9/2b2aee44f19ca705aa5841b9.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Basma (2024) บัสมา",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Basma-2024-บัสมา-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/e324739b115d82a3f3b1d299/e324739b115d82a3f3b1d299.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Rafa Marquez El Capitan (2024) ราฟา มาร์เกซ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Rafa-Marquez-El-Capitan-2024-ราฟา-มาร์เกซ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/58ae4a9b39d61656be14812c/58ae4a9b39d61656be14812c.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Under Paris (2024) มฤตยู ใต้ปารีส",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Under-Paris-2024-มฤตยู-ใต้ปารีส-300x450.jpg",

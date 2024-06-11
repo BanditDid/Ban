@@ -1,10 +1,28 @@
 {
  "name": "123-hd",
- "author": "update 2024-06-07 23:27:41",
+ "author": "update 2024-06-11 14:30:42",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Dare To Love Me (2024) ท้ารักให้ฉ่ำปอด",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Dare-To-Love-Me-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/e8177192aa5f4fbb6cd8e85e/e8177192aa5f4fbb6cd8e85e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Atypical Family (2024) ครอบครัวเหนือธรรมชาติ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Atypical-Family-2024-ครอบครัวเหนือธรรมชาติ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/e04a621e38bdb178eaaa9d04/e04a621e38bdb178eaaa9d04.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Hierarchy (2024) วังวนสงครามชนชั้น",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Hierarchy-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/5d1f40049cab5e81573c189e/5d1f40049cab5e81573c189e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Sweet Tooth Season 3 (2024) สวีททูธ 3",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Sweet-Tooth-Season-3-300x450.jpg",

@@ -5,7 +5,12 @@
 "author": "Pu",
 "groups": [
 
-
+{
+"name"              :     "Doctor Climax (2024) ดอกเตอร์ไคลแมกซ์ ปุจฉาพาเสียว",
+"image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/dc",
+"import": false
+},
 {
    "name": "มฤตยูใต้ปารีส (Under Paris) (2024)",
    "image": "https://www.i-moviehd.com/wp-content/uploads/2024/06/Under-Paris-2024-%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9-%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AA-1.jpg",

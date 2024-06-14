@@ -6,7 +6,12 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/DID.txt",
 "groups": [
 
-
+{
+"name"              :     "Doctor Climax (2024) ดอกเตอร์ไคลแมกซ์ ปุจฉาพาเสียว",
+"image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/dc",
+"import": false
+},
  {
       "name": "High School Return Of A Gangster (2024) นักเลงซ่าส์ท้าวัยเรียน",
       "info": "พากย์ไทย",

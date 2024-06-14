@@ -4,6 +4,36 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Exynos.txt",
 "author": "ช่องน็อต",
 "groups": [
+
+{
+   "name": "The Boys Season 4",
+   "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+   "info": "",
+   "stations": [
+{
+     "name": "Ep.1",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/847439566daa2a05e244ddd9/847439566daa2a05e244ddd9438.m3u8",
+     "referer": "https://www.123-HD.com/"
+    },
+{
+     "name": "Ep.2",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/b53d35044ec36d1723a99012/b53d35044ec36d1723a99012438.m3u8",
+     "referer": "https://www.123-HD.com/"
+    },
+{
+     "name": "Ep.3",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/2bbae78ea6592f27e5c1fddf/2bbae78ea6592f27e5c1fddf438.m3u8",
+     "referer": "https://www.123-HD.com/"
+    },
+]
+},
+
 {
    "name": "Chuuka Ichiban! ยอดกุ๊กแดนมังกร",
    "image": "https://fairyanime.net/uploads/54b682524b06301817899dd0cbbf45f9bpv06Rx.jpg",

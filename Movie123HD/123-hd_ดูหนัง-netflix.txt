@@ -1,10 +1,28 @@
 {
  "name": "123-hd",
- "author": "update 2024-06-12 02:56:33",
+ "author": "update 2024-06-15 17:34:27",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Ultraman Rising (2024) อุลตร้าแมน ผงาด",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Ultraman-Rising-2024-อุลตร้าแมน-ผงาด-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/9ac5301a3c6974578b5b0b05/9ac5301a3c6974578b5b0b05.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Doctor Climax (2024) ดอกเตอร์ไคลแมกซ์ ปุจฉาพาเสียว",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Doctor-Climax-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/ba8253d8de82c44ed6000adc/ba8253d8de82c44ed6000adc.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Bridgerton Season 3 (2024) วังวนรัก เกมไฮโซ 3",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Bridgerton-Season-3-2024-วังวนรัก-เกมไฮโซ-3-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/6b179192e39b98e8d67f8cb8/6b179192e39b98e8d67f8cb8.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Dare To Love Me (2024) ท้ารักให้ฉ่ำปอด",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Dare-To-Love-Me-300x450.jpg",

@@ -1,10 +1,130 @@
 {
  "name": "123-hd",
- "author": "update 2024-06-16 11:54:47",
+ "author": "update 2024-06-23 19:57:10",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Federer Twelve Final Days (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Federer-Twelve-Final-Days-2024-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/10ef9d10fdbb93087eaafcee/10ef9d10fdbb93087eaafcee.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Maharaj (2024) มหาราช",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Maharaj-2024-มหาราช-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/75eb7bbc7b9daaad7b61f3d0/75eb7bbc7b9daaad7b61f3d0.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Mallari (2024) มัลลารี ตำนานเชือด โลกสะท้าน",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Mallari-2024-มัลลารี-ตำนานเชือด-โลกสะท้าน-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/28daa41f36d12f4ff213e4ef/28daa41f36d12f4ff213e4ef.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Trigger Warning (2024) ลั่นไกเตือน",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Trigger-Warning-2024-ลั่นไกเตือน-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/56003b5ec5f66ab24d771c29/56003b5ec5f66ab24d771c29.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Accidental Twins (2024) ฝาแฝดบังเอิญ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/The-Accidental-Twins-2024-ฝาแฝดบังเอิญ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/5ff4739f7b36ed4ae20ec2ff/5ff4739f7b36ed4ae20ec2ff.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Beekeeper (2024) นรกเรียกพ่อ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/01/The-Beekeeper-2024-นรกเรียกพ่อ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/7fc607077bfede5fa60a0b64/7fc607077bfede5fa60a0b64.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Inside Out 2 (2024) มหัศจรรย์อารมณ์อลเวง 2",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Inside-Out-2-2024-มหัศจรรย์อารมณ์อลเวง-2-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/6904556cefce727be869705e/6904556cefce727be869705e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "IF (2024) เพื่อนในจินตนาการ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/IF-2024-เพื่อนในจินตนาการ-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/222e758729ecc931214fdd83/222e758729ecc931214fdd83.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Formed Police Unit FPU (2024) หน่วยพยัคฆ์พิทักษ์ข้ามโลก",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Formed-Police-Unit-FPU-2024-หน่วยพยัคฆ์พิทักษ์ข้ามโลก-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/6bd8e85f0a6c58f75bb0137b/6bd8e85f0a6c58f75bb0137b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Kleks Academy (2024) โรงเรียนมายา คุณเคล็กซ์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Kleks-Academy-2024-โรงเรียนมายา-คุณเคล็กซ์-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/dda36d635955666e9db92afa/dda36d635955666e9db92afa.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Chinatown Chacha (2024) ไชน่าทาวน์ ชะช่า",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Chinatown-Chacha-2024-ไชน่าทาวน์-ชะช่า-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/11e21dd1fbe9bb00321b3bb7/11e21dd1fbe9bb00321b3bb7.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Inheritance (2024) มรดกอลเวง",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Inheritance-2024-มรดกอลเวง-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/5698e330da15a766e91dd3ba/5698e330da15a766e91dd3ba.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Black Barbie (2024) แบล็ค บาร์บี้",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Black-Barbie-2024-แบล็ค-บาร์บี้-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/88fddfa6e496ec1365e54bf8/88fddfa6e496ec1365e54bf8.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Big City Greens the Movie Spacecation (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Big-City-Greens-the-Movie-Spacecation-2024-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/117d1cf62f88a333ba25950e/117d1cf62f88a333ba25950e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Shuigui Bride (2024) เจ้าสาวสุดหลอน",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Shuigui-Bride-2024-เจ้าสาวสุดหลอน-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/acc60378cb13a187c8abfaf1/acc60378cb13a187c8abfaf1.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Strange Snake Story in Shangtong Village (2024) เรื่องเล่าขานงูพิศดารหมู่บ้านซ่างถง",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/The-Strange-Snake-Story-in-Shangtong-Village-2024-เรื่องเล่าขานงูพิศดารหมู่บ้านซ่างถง-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/912a3891bcb5a5727b64d5f6/912a3891bcb5a5727b64d5f6.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Jim Henson Idea Man (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Jim-Henson-Idea-Man-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/43007e610248ba7f6295477b/43007e610248ba7f6295477b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Call Me Country Beyoncé &amp; Nashville's Renaissance (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Call-Me-Country-Beyonce-Nashvilles-Renaissance-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/88663a00519dcc6423beaeff/88663a00519dcc6423beaeff.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Outstanding A Comedy Revolution (2024) ปฏิวัติคอมเมดี้",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Outstanding-A-Comedy-Revolution-2024-ปฏิวัติคอมเมดี้-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/1ce65bd1c2ecf9e62c19c9f0/1ce65bd1c2ecf9e62c19c9f0.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Bad Boys Ride or Die (2024) คู่หูขวางนรก ลุยต่อให้โลกจำ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die-2024-คู่หูขวางนรก-ลุยต่อให้โลกจำ-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/b53337bccaeab5d799414fc9/b53337bccaeab5d799414fc9.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Ultraman Rising (2024) อุลตร้าแมน ผงาด",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Ultraman-Rising-2024-อุลตร้าแมน-ผงาด-1-300x450.jpg",

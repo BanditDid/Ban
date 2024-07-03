@@ -1,10 +1,34 @@
 {
  "name": "123-hd",
- "author": "update 2024-06-24 10:27:38",
+ "author": "update 2024-07-03 12:06:19",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "The Secret of us Series (2024) ใจซ่อนรัก",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/The-Secret-of-us-Series-2024-ใจซ่อนรัก-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/f6f464459af3fd335029a984/f6f464459af3fd335029a984.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Dare To Love Me (2024) ท้ารักให้ฉ่ำปอด",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Dare-To-Love-Me-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/e8177192aa5f4fbb6cd8e85e/e8177192aa5f4fbb6cd8e85e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Tan-Ti-Ana (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/07/Tan-Ti-Ana-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/a53f0fb206620d40aad1a904/a53f0fb206620d40aad1a904.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "6th Sense Agency (2024) บ้านผูกวิญญาณ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/6th-Sense-Agency-2024-บ้านผูกวิญญาณ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/2332a951cb73ed3a76d33e23/2332a951cb73ed3a76d33e23.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Miss Night and Day (2024) มิส ไนท์ แอนด์ เดย์",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Miss-Night-and-Day-2024-มิส-ไนท์-แอนด์-เดย์-300x450.jpg",

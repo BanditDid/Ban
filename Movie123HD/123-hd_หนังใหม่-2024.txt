@@ -1,10 +1,142 @@
 {
  "name": "123-hd",
- "author": "update 2024-06-24 10:27:36",
+ "author": "update 2024-07-03 12:06:10",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Tan-Ti-Ana (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/07/Tan-Ti-Ana-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/a53f0fb206620d40aad1a904/a53f0fb206620d40aad1a904.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์ แมด แม็กซ์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/2126ee71e8bb50cea592642a/2126ee71e8bb50cea592642a.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/20a5e3f2220bc879f273192a/20a5e3f2220bc879f273192a.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Monkey Man (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Monkey-Man-2024-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/311ab18cad62169a469b66bc/311ab18cad62169a469b66bc.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Watchers (2024) เดอะวอทเชอร์ส",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/The-Watchers-2024-เดอะวอทเชอร์ส-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/c77a71af42526cc530096bc0/c77a71af42526cc530096bc0.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Drawing Closer (2024) วาดรัก... จนกว่าจะหมดเวลา",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Drawing-Closer-2024-วาดรัก.-จนกว่าจะหมดเวลา-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/752ff1050ea7a5f969a0a380/752ff1050ea7a5f969a0a380.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Haikyuu!! The Dumpster Battle (2024) ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Haikyuu-The-Dumpster-Battle-2024-ไฮคิว-คู่ตบฟ้าประทาน-ตอน-ศึกที่กองขยะ-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/5568c8d12564d492d0d86244/5568c8d12564d492d0d86244.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "A Family Affair (2024) เรื่อง (รัก) ในครอบครัว",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/A-Family-Affair-2024-เรื่อง-รัก-ในครอบครัว-28-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/e89ce0e52479a90ea6717e35/e89ce0e52479a90ea6717e35.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Dark Forest (2024) ป่าอันมืดมิด",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Dark-Forest-2024-ป่าอันมืดมิด-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/9279e108a510b434ba572398/9279e108a510b434ba572398.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Dontkillme (2024) AR อันตราย",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Dontkillme-2024-AR-อันตราย-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/8d1fc9723ca232ec4f948c6d/8d1fc9723ca232ec4f948c6d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Captives (2024) ปรสิตต่างดาว จุดเริ่มต้น",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/The-Captives-2024-ปรสิตต่างดาว-จุดเริ่มต้น-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/b2b174f0560b8e2206023a1b/b2b174f0560b8e2206023a1b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Diane von Furstenberg Woman in Charge (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Diane-von-Furstenberg-Woman-in-Charge-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/0a17c15e24b5224f79cb4f0a/0a17c15e24b5224f79cb4f0a.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "I Am Celine Dion (2024) ฉันนี่แหละเซลีน ดิออน",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/I-Am-Celine-Dion-2024-ฉันนี่แหละเซลีน-ดิออน-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/34566ad1d2483af5177ac527/34566ad1d2483af5177ac527.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Drowing Closer (2024) วาดรัก...จนกว่าจะหมดเวลา",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Drowing-Closer-2024-วาดรัก.จนกว่าจะหมดเวลา-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/fd6e9fb53c09d692e66a4db1/fd6e9fb53c09d692e66a4db1.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Good Game (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Good-Game-2024-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/eaf90a76e7c37cf661af32c1/eaf90a76e7c37cf661af32c1.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Baby Shark's Big Movie (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Baby-Sharks-Big-Movie-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/7798cab0968732d9f5070bbd/7798cab0968732d9f5070bbd.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Mysteries of the Terracotta Warriors (2024) ปริศนานักรบดินเผา",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Mysteries-of-the-Terracotta-Warriors-2024-ปริศนานักรบดินเผา-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/5a079a9cc844757ce9383f40/5a079a9cc844757ce9383f40.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The American Society of Magical Negroes (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/The-American-Society-of-Magical-Negroes-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/7077684b29fa6ddd59f2e8b5/7077684b29fa6ddd59f2e8b5.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Abigail (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Abigail-2024-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/fe022f25ad09a5af5380cb7c/fe022f25ad09a5af5380cb7c.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Challengers (2024) ชาเลนเจอร์ส",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/05/Challengers-2024-ชาเลนเจอร์ส-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/361b1f9c486caf441cef3d04/361b1f9c486caf441cef3d04.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Direnjie (2024) ตี๋เหรินเจี๋ยนักมายากลผู้ยิ่งใหญ่",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Direnjie-2024-ตี๋เหรินเจี๋ยนักมายากลผู้ยิ่งใหญ่-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/262b4a395ec2e4b77765b75a/262b4a395ec2e4b77765b75a.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Heart of War Moment (2024) สงครามวัดใจ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Heart-of-War-Moment-2024-สงครามวัดใจ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/4f5a283782234de6e70fc0f2/4f5a283782234de6e70fc0f2.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Federer Twelve Final Days (2024)",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/06/Federer-Twelve-Final-Days-2024-1-300x450.jpg",

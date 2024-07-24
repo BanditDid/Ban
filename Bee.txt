@@ -6,6 +6,76 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bee.txt",
 "groups": [
 
+
+
+{
+"name": "Master of the House (2024) สืบสันดาน",
+"info": "",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"stations": [
+{
+"name": "Ep.1",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"info": "พากย์ไทย",
+"url": "https://main.24playerhd.com/m3u8/2eaad719d15903d678a5fb07/2eaad719d15903d678a5fb07438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+
+{
+"name": "Ep.2",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"info": "พากย์ไทย",
+"url": "https://main.24playerhd.com/m3u8/40ae56937781c3816134aea6/40ae56937781c3816134aea6438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Ep.3",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"info": "พากย์ไทย",
+"url": "https://main.24playerhd.com/m3u8/8dfd3f93c31d79949a8422d2/8dfd3f93c31d79949a8422d2438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Ep.4",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"info": "พากย์ไทย",
+"url": "https://main.24playerhd.com/m3u8/be98d0478dcd84db56ccf29b/be98d0478dcd84db56ccf29b438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Ep.5",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"info": "พากย์ไทย",
+"url": "https://main.24playerhd.com/m3u8/e2a1325c0c55eeaf4f30b537/e2a1325c0c55eeaf4f30b537438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Ep.6",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"info": "พากย์ไทย",
+"url": "https://main.24playerhd.com/m3u8/6f45aa1e6425b1a992f78d8e/6f45aa1e6425b1a992f78d8e438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name": "Ep.7",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"info": "พากย์ไทย",
+"url": "https://main.24playerhd.com/m3u8/02a4713031c5305688f89a52/02a4713031c5305688f89a52438.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+
+
+]
+
+},
+
+
+
+
+
+
+
+
 {
 "name"              :     "Doctor Climax (2024) ดอกเตอร์ไคลแมกซ์ ปุจฉาพาเสียว",
 "image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",

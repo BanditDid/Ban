@@ -5,6 +5,18 @@
 "author": "Pu",
 "groups": [
 {
+   "name": "เหมรฺย (2024) The Promised",
+   "image": "https://24-hd.tv/wp-content/uploads/2024/01/unnamed-e1706064055354.jpg",
+   "stations": [
+   {
+      "name": "เหมรฺย (2024) The Promised",
+      "image": "https://24-hd.tv/wp-content/uploads/2024/01/unnamed-e1706064055354.jpg",
+      "url": "https://tcp.miruplayer.com/media/sv3/wc6au1QoSoHgY6lmA0SO/play.m3u8",
+      "referer": "https://www.i-moviehd.com"
+    },]},
+
+
+{
    "name": "พี่นาค 4",
    "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Pee-Nak-4-2024-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B2%E0%B8%84-4-300x450.jpg",
    "stations": [

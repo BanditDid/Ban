@@ -1,10 +1,154 @@
 {
  "name": "123-hd",
- "author": "update 2024-07-03 12:06:10",
+ "author": "update 2024-08-16 05:53:18",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Borderlands (2024) บอร์เดอร์แลนดส์ แดนล้น คนปล้นจักรวาล",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Borderlands-2024-บอร์เดอร์แลนดส์-แดนล้น-คนปล้นจักรวาล-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/c43df236a46f7ab94f31577d/c43df236a46f7ab94f31577d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Watchmen Chapter I (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Watchmen-Chapter-I-2024-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/6e0fd2f3c9578df8f300b00b/6e0fd2f3c9578df8f300b00b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Chandu Champion (2024) จันทราแชมป์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Chandu-Champion-2024-จันทราแชมป์-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/5c5dec8f3b02d25e4031ec10/5c5dec8f3b02d25e4031ec10.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Goat Life (2024) คนเลี้ยงแพะ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/The-Goat-Life-2024-คนเลี้ยงแพะ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/48d09515d6e2c8b09ed6704d/48d09515d6e2c8b09ed6704d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Twisters (2024) ทวิสเตอร์ส",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/07/Twisters-2024-ทวิสเตอร์ส-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/71144f802dd3afd535fb47a9/71144f802dd3afd535fb47a9.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Dead Man (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Dead-Man-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/b2e46e5059f69e1e63948f79/b2e46e5059f69e1e63948f79.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Fly Me to the Moon (2024) ทะยานฟ้าสู่พื้นจันทร์",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Fly-Me-to-the-Moon-2024-ทะยานฟ้าสู่พื้นจันทร์-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/1da7590e2d0f6d20162c813e/1da7590e2d0f6d20162c813e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Conjuring Curse (2024) คำสาปเมืองผี",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Conjuring-Curse-2024-คำสาปเมืองผี-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/ece94b5db06194d50c69479b/ece94b5db06194d50c69479b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Unsung Hero (2024) รัก ฝัน ศรัทธา",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Unsung-Hero-2024-รัก-ฝัน-ศรัทธา-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/5d8d2594f75f1f17a4e870a4/5d8d2594f75f1f17a4e870a4.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Nezha Demon Child is Back (2024) นาจา การกลับมาของเด็กปีศาจ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Nezha-Demon-Child-is-Back-2024-นาจา-การกลับมาของเด็กปีศาจ-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/a8a5c1cf9f083a80cec14f66/a8a5c1cf9f083a80cec14f66.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Instigators (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/The-Instigators-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/dbb848bc6f95914be861af1a/dbb848bc6f95914be861af1a.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Inside the Mind of a Dog (2024) อ่านใจสุนัข",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Inside-the-Mind-of-a-Dog-2024-อ่านใจสุนัข-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/757e551de0ffd8374239eb37/757e551de0ffd8374239eb37.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "King Kong Return (2024) ทวงบัลลังก์ราชันย์คิงคอง",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/King-Kong-Return-2024-ทวงบัลลังก์ราชันย์คิงคอง-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/f21752490071ada20466dbe5/f21752490071ada20466dbe5.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Phir Aayi Hasseen Dillruba (2024) กุหลาบมรณะ 2",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Phir-Aayi-Hasseen-Dillruba-2024-กุหลาบมรณะ-2-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/6f7888a60f728897f2eacc6d/6f7888a60f728897f2eacc6d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Harom Hara (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Harom-Hara-2024-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/f91b7ea9f436f5d8ce5fab9b/f91b7ea9f436f5d8ce5fab9b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Mission Cross (2024) ภารกิจลับพ่อบ้าน",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Mission-Cross-2024-ภารกิจลับพ่อบ้าน-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/1632b9083748a0e71eb4d6a7/1632b9083748a0e71eb4d6a7.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Deadpool &amp; Wolverine (2024) เดดพูล &amp; วูล์ฟเวอรีน",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/07/Deadpool-Wolverine-2024-เดดพูล-วูล์ฟเวอรีน-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/2f41c01ce5601b8bd579b62a/2f41c01ce5601b8bd579b62a.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "One Fast Move (2024) วันฟาสต์มูฟ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/One-Fast-Move-2024-วันฟาสต์มูฟ-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/a9bcb89574f2b69134987012/a9bcb89574f2b69134987012.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Peter Five Eight (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Peter-Five-Eight-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/56485c511102180277e61ddf/56485c511102180277e61ddf.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "I Saw the TV Glow (2024) จิตจ้องจอ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/I-Saw-the-TV-Glow-2024-จิตจ้องจอ-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/ceaa90309d9a998b9bde6f24/ceaa90309d9a998b9bde6f24.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Lolo and the Kid (2024) โลโล่ แอนด์ เดอะ คิด",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Lolo-and-the-Kid-2024-โลโล่-แอนด์-เดอะ-คิด-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/2ce2b7a278b3291dac366fa7/2ce2b7a278b3291dac366fa7.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Ghostlight (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Ghostlight-2024-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/3e9279ad3bafbb2d47b3775f/3e9279ad3bafbb2d47b3775f.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Daddio (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Daddio-2024-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/f0b5799ec78b5fa34faf8634/f0b5799ec78b5fa34faf8634.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Rebel Moon Part Two A Director’s Cut (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/04/Rebel-Moon-Part-Two-The-Scargiver-2024-นักรบผู้ตีตรา-ภาค-2-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/c826bc7000f674c32455d809/c826bc7000f674c32455d809.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Tan-Ti-Ana (2024)",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/07/Tan-Ti-Ana-2024-300x450.jpg",

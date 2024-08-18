@@ -1,10 +1,46 @@
 {
  "name": "123-hd",
- "author": "update 2024-08-16 05:53:18",
+ "author": "update 2024-08-18 23:54:16",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Jackpot! (2024) แจ็คพ็อต ลุ้น รอด รวย!",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Jackpot-2024-แจ็คพ็อต-ลุ้น-รอด-รวย-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/1a27b4ef4e19dd74400ec7b3/1a27b4ef4e19dd74400ec7b3.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Daughters (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Daughters-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/8ce7ac08a193686334c823e4/8ce7ac08a193686334c823e4.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Twilight of the Warriors Walled In (2024) เมืองพญายม ปิดบัญชียมบาล",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024-เมืองพญายม-ปิดบัญชียมบาล-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/ba75036f01084fe0bf16baf1/ba75036f01084fe0bf16baf1.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Escape (2024) หนีให้พ้นนรก",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Escape-2024-หนีให้พ้นนรก-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/0d6953721084c4e01418bef6/0d6953721084c4e01418bef6.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "I Saw the TV Glow (2024) จิตจ้องจอ",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/I-Saw-the-TV-Glow-2024-จิตจ้องจอ-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/ceaa90309d9a998b9bde6f24/ceaa90309d9a998b9bde6f24.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Twisters (2024) ทวิสเตอร์ส",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/07/Twisters-2024-ทวิสเตอร์ส-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/30ff215bff57354bbc33dcec/30ff215bff57354bbc33dcec.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Borderlands (2024) บอร์เดอร์แลนดส์ แดนล้น คนปล้นจักรวาล",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Borderlands-2024-บอร์เดอร์แลนดส์-แดนล้น-คนปล้นจักรวาล-1-300x450.jpg",

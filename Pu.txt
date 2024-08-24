@@ -5,6 +5,12 @@
 "author": "Pu",
 "groups": [
 {
+"name"              :     "อังคารคลุมโปง เดอะ ซีรีส์ - จบ",
+"image"             :     "https://tvallseries.co/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-2024-185x278.webp",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/serie/อังคารคลุมโปง",
+"import": false
+},
+{
    "name": "เหมรฺย (2024) The Promised",
    "image": "https://24-hd.tv/wp-content/uploads/2024/01/unnamed-e1706064055354.jpg",
    "stations": [

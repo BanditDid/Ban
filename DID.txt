@@ -5,7 +5,12 @@
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/660034605/android/sticker.png",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/DID.txt",
 "groups": [
-
+{
+"name"              :     "อังคารคลุมโปง เดอะ ซีรีส์ - จบ",
+"image"             :     "https://tvallseries.co/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-2024-185x278.webp",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/serie/อังคารคลุมโปง",
+"import": false
+},
 {
 "name"              :     "Doctor Climax (2024) ดอกเตอร์ไคลแมกซ์ ปุจฉาพาเสียว",
 "image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",

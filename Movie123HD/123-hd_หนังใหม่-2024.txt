@@ -1,10 +1,34 @@
 {
  "name": "123-hd",
- "author": "update 2024-08-18 23:54:16",
+ "author": "update 2024-08-24 21:14:37",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Escape (2024) หนีให้พ้นนรก",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Escape-2024-หนีให้พ้นนรก-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/0d6953721084c4e01418bef6/0d6953721084c4e01418bef6.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Borderlands (2024) บอร์เดอร์แลนดส์ แดนล้น คนปล้นจักรวาล",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Borderlands-2024-บอร์เดอร์แลนดส์-แดนล้น-คนปล้นจักรวาล-1-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/c43df236a46f7ab94f31577d/c43df236a46f7ab94f31577d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Dead Man (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Dead-Man-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/b2e46e5059f69e1e63948f79/b2e46e5059f69e1e63948f79.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Conjuring Curse (2024) คำสาปเมืองผี",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Conjuring-Curse-2024-คำสาปเมืองผี-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/ece94b5db06194d50c69479b/ece94b5db06194d50c69479b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Jackpot! (2024) แจ็คพ็อต ลุ้น รอด รวย!",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Jackpot-2024-แจ็คพ็อต-ลุ้น-รอด-รวย-300x450.jpg",

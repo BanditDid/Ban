@@ -6,6 +6,12 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bee.txt",
 "groups": [
 
+{
+"name"              :     "ทองประกายแสด",
+"image"             :     "https://mpics.mgronline.com/pics/Images/567000007410001.JPEG",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ละคร/ทองประกายแสด",
+"import": false
+},
 
 {
 "name"              :     "อังคารคลุมโปง เดอะ ซีรีส์ - จบ",

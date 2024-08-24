@@ -1,10 +1,16 @@
 {
  "name": "123-hd",
- "author": "update 2024-08-16 05:53:29",
+ "author": "update 2024-08-24 21:14:42",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "The Frog (2024) หากไม้ล้มในป่าลึก",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/08/The-Frog-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/4f3582f3c01898f38fd10921/4f3582f3c01898f38fd10921.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "My Secret Zone (2024) น่าน ฟ้า ชลาลัย",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/07/My-Secret-Zone-2024-น่าน-ฟ้า-ชลาลัย-300x450.jpg",

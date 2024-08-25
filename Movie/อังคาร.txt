@@ -1,0 +1,63 @@
+{
+"name": "อังคารคลุมโปงเอ็กซ์ตรีม",
+"author": "อัพวันที่ 25 สิงหา 2567",
+"info": "",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",
+"stations": [
+{
+"name": "Ep.1",
+"info": "",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",
+"url": "https://main.24playerhd.com/m3u8/a7f07c820d55618d99836ed1/a7f07c820d55618d99836ed1438.m3u8",
+"referer": "https://www.123-hd.com"
+},
+{
+"name": "Ep.2",
+"info": "",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",
+"url": "https://main.24playerhd.com/m3u8/7eba1cd9e809cc1ea3e481e3/7eba1cd9e809cc1ea3e481e3438.m3u8",
+"referer": "https://www.123-hd.com"
+},
+{
+"name": "Ep.3",
+"info": "",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",
+"url": "https://main.24playerhd.com/m3u8/7088306b8f7ed0f849cf4360/7088306b8f7ed0f849cf4360438.m3u8",
+"referer": "https://www.123-hd.com"
+},
+{
+"name": "Ep.4",
+"info": "",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",
+"url": "https://main.24playerhd.com/m3u8/9268c1663c6fbf35ee492e77/9268c1663c6fbf35ee492e77438.m3u8",
+"referer": "https://www.123-hd.com"
+},
+{
+"name": "Ep.5",
+"info": "",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",
+"url": "https://main.24playerhd.com/m3u8/63d90b6580c6629e89279906/63d90b6580c6629e89279906438.m3u8",
+"referer": "https://www.123-hd.com"
+},
+{
+"name": "Ep.6",
+"info": "",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",
+"url": "https://main.24playerhd.com/m3u8/605bd6c26e5b99e58325afd6/605bd6c26e5b99e58325afd6438.m3u8 ",
+"referer": "https://www.123-hd.com"
+},
+{
+"name": "Ep.7",
+"info": "",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",
+"url": "https://main.24playerhd.com/m3u8/e03b1e50d1478680f60b363f/e03b1e50d1478680f60b363f438.m3u8 ",
+"referer": "https://www.123-hd.com"
+},
+{
+"name": "Ep.8",
+"info": "",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",
+"url": "https://main.24playerhd.com/m3u8/efc8b343a996306e039ddaad/efc8b343a996306e039ddaad438.m3u8",
+"referer": "https://www.123-hd.com"
+},
+]}

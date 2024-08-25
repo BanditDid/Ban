@@ -7,7 +7,7 @@
 {
 "name"              :     "อังคารคลุมโปง เดอะ ซีรีส์ - จบ",
 "image"             :     "https://tvallseries.co/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-2024-185x278.webp",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/serie/อังคารคลุมโปง",
+"url"               :     "https://raw.githubusercontent.com/BanditDid/Ban/main/Movie/อังคาร.txt",
 "import": false
 },
 {

@@ -5,6 +5,17 @@
 "image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/660034605/android/sticker.png",
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/DID.txt",
 "groups": [
+
+
+{
+"name":"ช่องทดสอบ  ", 
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/660034605/android/sticker.png",
+"url":"https://script.google.com/macros/s/AKfycbyIM_pKtUuvgVj_8BmTOj2FoeyXUaVl5xqLTWgcAt6rrCvlSagD-StOnI2M9kGp6CC2/exec",
+"parental": "true",
+"import":"false"
+},
+
+
 {
 "name"              :     "อังคารคลุมโปง เดอะ ซีรีส์ - จบ",
 "image"             :     "https://tvallseries.co/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-2024-185x278.webp",

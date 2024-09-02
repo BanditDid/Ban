@@ -12,13 +12,67 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ละคร/ทองประกายแสด",
 "import": false
 },
+
+
 {
-"name"              :     "สืบสันดาน",
-"image"             :     "https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
-"url"               :     "https://raw.githubusercontent.com/Izonetoyou/GTV/f448a8998712eec8baef93fb13271601c2867b7a/Movieflix/Series/Master%20of%20the%20House%20(2024)",
-"import": false
+"name": "Master of the House (2024) สืบสันดาน",
+"author": "",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+
+"stations": [
+
+{
+"name": "EP1",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"url": "https://www.123-hd.com/master-of-the-house",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP2",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"url": "https://www.123-hd.com/master-of-the-house-ep-2",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP3",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"url": "https://www.123-hd.com/master-of-the-house-ep-3",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
 },
 
+{
+"name": "EP4",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"url": "https://www.123-hd.com/master-of-the-house-ep-4",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"url": "https://www.123-hd.com/master-of-the-house-ep-5",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP6",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"url": "https://www.123-hd.com/master-of-the-house-ep-6",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP7",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/07/Master-of-the-House-2024-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%99-300x450.jpg",
+"url": "https://www.123-hd.com/master-of-the-house-ep-7",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+]
+},
 
 
 {

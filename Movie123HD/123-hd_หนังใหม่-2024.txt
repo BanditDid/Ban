@@ -1,10 +1,154 @@
 {
  "name": "123-hd",
- "author": "update 2024-09-04 00:03:47",
+ "author": "update 2024-09-17 13:35:05",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "หลานม่า How to Make Millions Before Grandma Dies (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/หลานม่า-How-to-Make-Millions-Before-Grandma-Dies-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/222da444705fd1cf1175d3f0/222da444705fd1cf1175d3f0.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Technoboys เทคโนบอยส์ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Technoboys-เทคโนบอยส์-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/cd31243ca77d24e4931ce90d/cd31243ca77d24e4931ce90d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Outlaw เจ้าแม่ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Outlaw-เจ้าแม่-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/2492527afd16cf717160e2ad/2492527afd16cf717160e2ad.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Boxer นักชกสังเวียนดิบ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Boxer-นักชกสังเวียนดิบ-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/f99c7e9e6f2cbcf90638b943/f99c7e9e6f2cbcf90638b943.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Teachers Lounge ห้องเรียนเดือด (2023)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/The-Teachers-Lounge-ห้องเรียนเดือด-2023-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/91823f9604c2d94961c8531a/91823f9604c2d94961c8531a.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Damaged (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Damaged-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/69209cd29d04f53e0a7365ff/69209cd29d04f53e0a7365ff.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Honeymoonish (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Honeymoonish-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/0dca3693b940b186133ce031/0dca3693b940b186133ce031.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Mountain Queen The Summits of Lhakpa Sherpa ราชินีขุนเขา ลัคปา เชอร์ปา (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Mountain-Queen-The-Summits-of-Lhakpa-Sherpa-ราชินีขุนเขา-ลัคปา-เชอร์ปา-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/8b159dc31b506fbd4aa402ae/8b159dc31b506fbd4aa402ae.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Am I OK? ถามใจว่าใช่ปะ? (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Am-I-OK-ถามใจว่าใช่ปะ-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/f4a1a06d8209c4398a449473/f4a1a06d8209c4398a449473.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Maharaja มหาราชา (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Maharaja-มหาราชา-2024-เต็มเรื่อง-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/4580325d55d11b3b8514b94c/4580325d55d11b3b8514b94c.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Back to Black (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Back-to-Black-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/185bcfdfad76bb77d96459b8/185bcfdfad76bb77d96459b8.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Apollo 13 Survival อะพอลโล 13 ภารกิจต้องรอด (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Apollo-13-Survival-อะพอลโล-13-ภารกิจต้องรอด-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/152855e12fd6f74b7b95b1e4/152855e12fd6f74b7b95b1e4.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Secret Lives of Orangutans ชีวิตลับอุรังอุตัง (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Secret-Lives-of-Orangutans-ชีวิตลับอุรังอุตัง-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/f91a51651d12de97a9ab7040/f91a51651d12de97a9ab7040.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Claws กรงเล็บเลือด (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Claws-กรงเล็บเลือด-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/8870ed77a478ee86eee6c1b4/8870ed77a478ee86eee6c1b4.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Blink Twice บลิงก์ ทไวซ์ ซิกอันตราย (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Blink-Twice-บลิงก์-ทไวซ์-ซิกอันตราย-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/3fed3e927923a9773f34084b/3fed3e927923a9773f34084b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Killer สวยกล้าบ้าระห่ำ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/The-Killer-สวยกล้าบ้าระห่ำ-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/5df4a10b4bfb4d087030ba3b/5df4a10b4bfb4d087030ba3b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Tokunbo โทคุนโบ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Tokunbo-Tokunbo̩-โทคุนโบ-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/8af6061da036bb5cf75ebb37/8af6061da036bb5cf75ebb37.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "He Went That Way เขาไปทางนั้น (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/He-Went-That-Way-เขาไปทางนั้น-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/7acebe4d6234840647386ed2/7acebe4d6234840647386ed2.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Viva La Vida จะฝ่าไปให้ถึงตะวัน (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Viva-La-Vida-จะฝ่าไปให้ถึงตะวัน-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/a027c288b8795cfc6160cff5/a027c288b8795cfc6160cff5.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Janet Planet รักเธอเท่าจักรวาล (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Janet-Planet-รักเธอเท่าจักรวาล-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/b7275a1c33c902477096323b/b7275a1c33c902477096323b.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Kinds of Kindness (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Kinds-of-Kindness-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/e46488983eee39b930207f30/e46488983eee39b930207f30.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Nice Girls (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Nice-Girls-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/b1bd5b511e46ae1509d71b08/b1bd5b511e46ae1509d71b08.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Incoming มือใหม่ไฮสกูล (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Incoming-มือใหม่ไฮสกูล-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/113fbe62869a458769b605db/113fbe62869a458769b605db.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Alien Romulus เอเลี่ยน โรมูลัส (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Alien-Romulus-เอเลี่ยน-โรมูลัส-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/ec938d3cf4fd2a8b5d8c7363/ec938d3cf4fd2a8b5d8c7363.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Escape (2024) หนีให้พ้นนรก",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/08/Escape-2024-หนีให้พ้นนรก-300x450.jpg",

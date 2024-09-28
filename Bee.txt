@@ -6,6 +6,30 @@
 "url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bee.txt",
 "groups": [
 
+
+{
+"name": "Grave of The Fireflies สุสานหิ่งห้อย",
+"author": "",
+"image": "https://www.123-hd.com/wp-content/uploads/2021/05/Grave-of-The-Fireflies-300x450.png",
+
+"stations": [
+
+{
+"name": "Grave of The Fireflies สุสานหิ่งห้อย",
+"image":"https://www.123-hd.com/wp-content/uploads/2021/05/Grave-of-The-Fireflies-300x450.png",
+"url": "https://hot.24playerhd.com/ioshls/64802011b37302cd34e74d887e7a2d72/64802011b37302cd34e74d887e7a2d72.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}
+]
+},
+
+
+
+
+
+
+
 {
 "name"              :     "ทองประกายแสด",
 "image"             :     "https://mpics.mgronline.com/pics/Images/567000007410001.JPEG",

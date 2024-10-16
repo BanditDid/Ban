@@ -1,10 +1,154 @@
 {
  "name": "123-hd",
- "author": "update 2024-09-17 13:35:05",
+ "author": "update 2024-10-16 11:21:03",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Sinden Gaib (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Sinden-Gaib-Mystic-Singer-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/9465ba3a67a22fc92a7e8132/9465ba3a67a22fc92a7e8132.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Lonely Planet ที่หมายใจโดดเดี่ยว (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Lonely-Planet-ที่หมายใจโดดเดี่ยว-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/6bf336c338d2ae594c7c15e9/6bf336c338d2ae594c7c15e9.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "In Her Place ชีวิตบนเส้นขนาน (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/In-Her-Place-ชีวิตบนเส้นขนาน-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/1dad9b79afed503bd1120939/1dad9b79afed503bd1120939.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Breaking the Silence The Maria Soledad Case มาเรีย โซเลดัด ทำลายความเงียบ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Breaking-the-Silence-The-Maria-Soledad-Case-มาเรีย-โซเลดัด-ทำลายความเงียบ-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/4f46812e77e5654017183b69/4f46812e77e5654017183b69.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Uprising กบฏผงาดแผ่นดิน (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Uprising-กบฏผงาดแผ่นดิน-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/2137e4e5211589005da63c3f/2137e4e5211589005da63c3f.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Blue Lock Episode Nagi บลูล็อก เดอะมูฟวี่ ตอนนากิ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Blue-Lock-Episode-Nagi-บลูล็อก-เดอะมูฟวี่-ตอนนากิ-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/d6ba9f6a5f23058bb410fbdb/d6ba9f6a5f23058bb410fbdb.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Reunion รียูเนียน (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Reunion-รียูเนียน-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/627843d9ce2a426796c94c2f/627843d9ce2a426796c94c2f.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Operation Blood Hunt (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Operation-Blood-Hunt-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/108c173da761f9ea63707c46/108c173da761f9ea63707c46.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Caddo Lake บึงลี้ลับ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Caddo-Lake-บึงลี้ลับ-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/ee6480c789c309dbfcba1781/ee6480c789c309dbfcba1781.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "หอแต๋วแตก แหกสัปะหยด Oh My Ghost The Finale (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/หอแต๋วแตก-แหกสัปะหยด-Oh-My-Ghost-The-Finale-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/2049b2b7c05193358600d233/2049b2b7c05193358600d233.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "อนงค์ My Boo (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/อนงค์-My-Boo-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/6e363837ea8a7bdd61c97cb9/6e363837ea8a7bdd61c97cb9.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "That Kind of Love รักแบบนั้น (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/That-Kind-of-Love-รักแบบนั้น-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/1a2c08fe117364b627498a1e/1a2c08fe117364b627498a1e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Monster High 2 (2023)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Monster-High-2-2023-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/1ba548e740500af9f947722e/1ba548e740500af9f947722e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Menendez Brothers พี่น้องเมเนนเดซ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/The-Menendez-Brothers-พี่น้องเมเนนเดซ-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/bb389d7e4825d396ba6dcdd1/bb389d7e4825d396ba6dcdd1.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Thelma เธลม่า (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Thelma-เธลม่า-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/43a8f9b1d1f83f3b6ff674e0/43a8f9b1d1f83f3b6ff674e0.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Summer Camp ซัมเมอร์แคมป์ เพื่อน(รัก)กันยันแก่ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Summer-Camp-ซัมเมอร์แคมป์-เพื่อนรักกันยันแก่-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/9fbf9ddd6e4109b072aad2b8/9fbf9ddd6e4109b072aad2b8.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "V/H/S/Beyond (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/VHSBeyond-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/82990579886f3f07b3a402ed/82990579886f3f07b3a402ed.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Doraemon the Movie Nobita's Earth Symphony โดราเอมอน เดอะ มูฟวี่ โลกแห่งซิมโฟนี่ของโนบิตะ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Doraemon-the-Movie-Nobitas-Earth-Symphony-โดราเอมอน-เดอะ-มูฟวี่-โลกแห่งซิมโฟนี่ของโนบิตะ-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/5a10e0c637eec54391b3a218/5a10e0c637eec54391b3a218.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "CTRL (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/CTRL-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/1c4949eff7d793a944099d1e/1c4949eff7d793a944099d1e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Hijack 1971 นรกเหนือน่านฟ้า (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/09/Hijack-1971-นรกเหนือน่านฟ้า-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/b7f57e64e16c637787d045c2/b7f57e64e16c637787d045c2.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Harta Tahta Raisa ไรซ่า ราชินีบัลลังก์เพลง (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Harta-Tahta-Raisa-ไรซ่า-ราชินีบัลลังก์เพลง-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/16c632171508dfc44edc5686/16c632171508dfc44edc5686.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Diary ปริศนาสมุดขุดอดีต (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/The-Diary-ปริศนาสมุดขุดอดีต-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/2bbd3d3cc492cf1eeb8c8136/2bbd3d3cc492cf1eeb8c8136.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "It's What's Inside กระเป๋าลับสลับร่าง (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Its-Whats-Inside-กระเป๋าลับสลับร่าง-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/83187990cba70d3db4740b6f/83187990cba70d3db4740b6f.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Joker Folie à Deux โจ๊กเกอร์ โฟลีย์ อา เดอ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Joker-Folie-a-Deux-โจ๊กเกอร์-โฟลีย์-อา-เดอ-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/9866f3c600ef6b0fe21b7260/9866f3c600ef6b0fe21b7260.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "หลานม่า How to Make Millions Before Grandma Dies (2024)",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/09/หลานม่า-How-to-Make-Millions-Before-Grandma-Dies-2024-300x450.jpg",

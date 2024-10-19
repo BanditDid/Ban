@@ -1,10 +1,88 @@
 {
  "name": "123-hd",
- "author": "update 2024-10-16 11:21:03",
+ "author": "update 2024-10-20 02:06:53",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Sing Thriller ร้องจริง เสียงจริง Thriller (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Sing-Thriller-ร้องจริง-เสียงจริง-Thriller-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/0008371240526af50705343d/0008371240526af50705343d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Brothers บราเธอร์ส ปล้นครั้งนี้เพื่อพี่ที่รัก (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Brothers-บราเธอร์ส-ปล้นครั้งนี้เพื่อพี่ที่รัก-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/959a8c91b5810ab4e67a0157/959a8c91b5810ab4e67a0157.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Outside เอาท์ไซด์ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Outside-เอาท์ไซด์-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/9bd916ef887b514260f0445c/9bd916ef887b514260f0445c.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Justice Napad ล่าความยุติธรรม (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Justice-Napad-ล่าความยุติธรรม-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/d2c7adeb532a4d5aefb3f8b1/d2c7adeb532a4d5aefb3f8b1.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Sweet Bobby My Catfish Nightmare ฝันร้ายภัยนักตุ๋น (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Sweet-Bobby-My-Catfish-Nightmare-ฝันร้ายภัยนักตุ๋น-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/667b4cb3ab5a23e81b16529e/667b4cb3ab5a23e81b16529e.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Shadow Strays นักฆ่าเงาล่าทรชน (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/The-Shadow-Strays-นักฆ่าเงาล่าทรชน-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/0bc8dbe76358714434f0f61a/0bc8dbe76358714434f0f61a.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "รักวนลูป Love Stuck (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/รักวนลูป-Love-Stuck-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/059c30ec5c7e5eef3ff44f98/059c30ec5c7e5eef3ff44f98.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "เทอม 3 Haunted Universities 3 (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/เทอม-3-Haunted-Universities-3-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/8bb361bb8176617b1d08f4aa/8bb361bb8176617b1d08f4aa.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Family Guy Peter Peter Pumpkin Cheater (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Family-Guy-Peter-Peter-Pumpkin-Cheater-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/8b6a68a90809b2cbd48b98c0/8b6a68a90809b2cbd48b98c0.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Babes (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Babes-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/948a8d696a4579f27f5fa1cc/948a8d696a4579f27f5fa1cc.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Corpse Washer (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/The-Corpse-Washer-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/2a32ee0864d3a327b47d6c47/2a32ee0864d3a327b47d6c47.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Last of the Sea Women (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/The-Last-of-the-Sea-Women-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/a251af2374378d69be7d8307/a251af2374378d69be7d8307.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Mr. Crocket (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Mr.-Crocket-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/b80b95063fb636da8a3c1738/b80b95063fb636da8a3c1738.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Sinden Gaib (2024)",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Sinden-Gaib-Mystic-Singer-2024-300x450.jpg",

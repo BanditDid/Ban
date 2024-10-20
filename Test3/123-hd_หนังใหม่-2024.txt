@@ -1,10 +1,34 @@
 {
  "name": "123-hd",
- "author": "update 2024-10-20 10:09:51",
+ "author": "update 2024-10-21 00:15:04",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "SEVENTEEN TOUR FOLLOW AGAIN TO CINEMAS (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/SEVENTEEN-TOUR-FOLLOW-AGAIN-TO-CINEMAS-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/ab01ba6db04be6afda77b94d/ab01ba6db04be6afda77b94d.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "The Wild Robot หุ่นยนต์ผจญภัยในป่ากว้าง (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/The-Wild-Robot-หุ่นยนต์ผจญภัยในป่ากว้าง-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/821a2bcb34d0c8616e7772fb/821a2bcb34d0c8616e7772fb.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Canary Black รหัสลับดับโลก (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Canary-Black-รหัสลับดับโลก-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/81b2afe6eed266f57732b245/81b2afe6eed266f57732b245.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "I Not Stupid 3 (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/I-Not-Stupid-3-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/a4e2cc68c493a69f30d0a4f7/a4e2cc68c493a69f30d0a4f7.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "Sing Thriller ร้องจริง เสียงจริง Thriller (2024)",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Sing-Thriller-ร้องจริง-เสียงจริง-Thriller-2024-300x450.jpg",

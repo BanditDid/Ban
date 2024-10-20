@@ -12,14 +12,6 @@
 "import":"false",
 "info":"" 
 },
-{
-"name":"หนังใหม่2024 S2",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNulC3K8kda8lF_XaJgV3lu2kzCxqzrj2uBnG0jiCODXVxoUhNTfkxBTA&s=10",
-"url":"https://raw.githubusercontent.com/oungoungdoonung/123456a/main/freeforyou/wiseplayพูดคุยbyอุ๋งอุ๋ง/037hdmovie_หนังใหม่-2024.w3u",
-"referer":"",
-"import":"false",
-"info":"" 
-},
 
 {
 "name":"หนังไทย th",

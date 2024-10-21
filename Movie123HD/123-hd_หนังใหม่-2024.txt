@@ -1,10 +1,22 @@
 {
  "name": "123-hd",
- "author": "update 2024-10-21 00:20:34",
+ "author": "update 2024-10-21 20:12:33",
  "info": "",
  "image": "https://fw4free.com/images/logo7.png",
  "key": [],
  "stations": [
+  {
+   "name": "Happiness Is (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Happiness-Is-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/7e23a09346defbb3a5207248/7e23a09346defbb3a5207248.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
+  {
+   "name": "Silent Love สื่อภาษาใจไปถึงเธอ (2024)",
+   "image": "https://www.123-hd.com//wp-content/uploads/2024/10/Silent-Love-สื่อภาษาใจไปถึงเธอ-2024-300x450.jpg",
+   "url": "https://main.24playerhd.com/newplaylist/bbe8dfa2466cb3f8f78e9a91/bbe8dfa2466cb3f8f78e9a91.m3u8",
+   "referer": "https://www.123-hd.com/"
+  },
   {
    "name": "SEVENTEEN TOUR FOLLOW AGAIN TO CINEMAS (2024)",
    "image": "https://www.123-hd.com//wp-content/uploads/2024/10/SEVENTEEN-TOUR-FOLLOW-AGAIN-TO-CINEMAS-2024-300x450.jpg",
